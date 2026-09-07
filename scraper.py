@@ -32,7 +32,7 @@ for file_name in DATA_FILES:
             items = json.load(f)
             for item in items:
                 pid = item.get('id')
-                name = item.get('model') or item.get('name')
+                name = item.get('model') or item.get('name') or item.get('title')
                 
                 if pid and name:
                     print(f"Aranıyor: {name}...")
