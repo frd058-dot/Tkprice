@@ -4,7 +4,7 @@ import os
 import time
 
 # 1. Adımdaki linki buraya yapıştırın
-GOOGLE_API_URL = "BURAYA_GOOGLE_SCRIPT_LINKINIZI_YAPISTIRIN"
+GOOGLE_API_URL = "https://script.google.com/macros/s/AKfycbzK0Xcf0AWGFMbP3I11zoh0Gsp0McdqH8YvEEz4Hi6FsAZXwfNQU9yq91rM2Z7XMlwR4Q/exec"
 
 results = {}
 json_files = [f for f in os.listdir('.') if f.endswith('.json') and f != 'updates.json']
