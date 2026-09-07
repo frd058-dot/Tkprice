@@ -3,9 +3,12 @@ from bs4 import BeautifulSoup
 import json
 import time
 import os
+# scraper.py en başlarına ekleyin
+print(f"Mevcut dizindeki dosyalar: {os.listdir('.')}")
 
 # TARANACAK DOSYALAR (GitHub deponuza bu dosyaları yüklemelisiniz)
-DATA_FILES = ['cpu.json', 'gpus.json', 'notebooks.json', 'aio_configs.json']
+DATA_FILES = ['cpu.json', 'gpus.json', 'notebooks.json', 'aio_configs.json', 'cases.json', 'coolers.json', 'hdds.json', 'imacs.json', 'mac_minis.json', 'monitors.json', 
+              'monitors.json', 'notebook_configs.json', 'psus.json', 'rams.json', 'sata_ssds.json', 'storages.json' ]
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
