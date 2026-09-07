@@ -1,0 +1,5335 @@
+[
+  {
+    "id": "sapphire_rx_7600_pulse_8gb",
+    "brand": "Sapphire",
+    "series": "Pulse",
+    "model": "Radeon RX 7600 Gaming",
+    "vram": "8 GB GDDR6",
+    "price_tr": 11850,
+    "price_usd": 269,
+    "price_eur": 289,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 240,
+      "slot_thickness": 2.0,
+      "pcie_version": "4.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p (FHD)",
+      "fps_tier": "High",
+      "ray_tracing_performance": "Entry Level (RDNA 3)"
+    },
+    "asset_path": "assets/gpu_images/sapphire-rx-7600-pulse.webp"
+  },
+  {
+    "id": "sapphire_rx_9070_xt_pulse",
+    "brand": "Sapphire",
+    "series": "Pulse",
+    "model": "Radeon RX 9070 XT",
+    "vram": "16 GB GDDR6",
+    "price_tr": 44150,
+    "price_usd": 849,
+    "price_eur": 899,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 280,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 750,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K)",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High (RDNA 4)"
+    },
+    "asset_path": "assets/gpu_images/sapphire-rx-9070-xt-pulse.webp"
+  },
+  {
+    "id": "sapphire_rx_9070_xt_pure_16gb",
+    "brand": "Sapphire",
+    "series": "Pure",
+    "model": "Radeon RX 9070 XT Pure",
+    "vram": "16 GB GDDR6",
+    "price_tr": 47250,
+    "price_usd": 899,
+    "price_eur": 949,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 320,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 750,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K) / 4K Entry",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High"
+    },
+    "asset_path": "assets/gpu_images/sapphire-rx-9070-xt-pure.webp"
+  },
+  {
+    "id": "gpu_rx_9070_pulse_16gb",
+    "brand": "Sapphire",
+    "series": "Pulse",
+    "model": "Radeon RX 9070 Pulse",
+    "vram": "16 GB GDDR6",
+    "price_tr": 39500,
+    "price_usd": 749,
+    "price_eur": 799,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 280,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 700,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K)",
+      "fps_tier": "High",
+      "ray_tracing_performance": "Mid-High"
+    },
+    "asset_path": "assets/gpu_images/sapphire-rx-9070-pulse.webp"
+  },
+  {
+    "id": "gpu_rx_9070_xt_nitro_plus_16gb",
+    "brand": "Sapphire",
+    "series": "Nitro+",
+    "model": "Radeon RX 9070 XT Nitro+",
+    "vram": "16 GB GDDR6",
+    "price_tr": 54500,
+    "price_usd": 1049,
+    "price_eur": 1099,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 335,
+      "slot_thickness": 3.0,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 850,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K) / 4K Ultra",
+      "fps_tier": "Elite High",
+      "ray_tracing_performance": "High-End"
+    },
+    "asset_path": "assets/gpu_images/sapphire-rx-9070-xt-nitro.webp"
+  },
+  {
+    "id": "asrock_challenger_arc_b570_10gb_cl_10go",
+    "brand": "ASRock",
+    "series": "Challenger",
+    "model": "ASRock Challenger Arc B570 10GB GDDR6 (B570 CL 10GO)",
+    "vram": "10 GB GDDR6",
+    "price_tr": "16.099 ₺",
+    "price_usd": "259.99 $",
+    "price_eur": "273.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 249.0,
+      "slot_thickness": "2-Slot (41.0 mm)",
+      "pcie_version": "PCIe 4.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High",
+      "fps_tier": "Mid-Range Gaming",
+      "ray_tracing_performance": "Entry-to-Mid (Xe2 RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/asrock-arc-b570-challenger-10go.webp"
+  },
+
+  {
+    "id": "asrock_rx_9070_steel_legend_oc_16gb",
+    "brand": "ASRock",
+    "series": "Steel Legend",
+    "model": "Radeon RX 9070 Steel Legend OC",
+    "vram": "16 GB GDDR6",
+    "price_tr": 43500,
+    "price_usd": 829,
+    "price_eur": 879,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 315,
+      "slot_thickness": 2.8,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 750,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K)",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "Mid-High"
+    },
+    "asset_path": "assets/gpu_images/asrock-rx-9070-steel-legend.webp"
+  },
+  {
+    "id": "asus_prime_rx_9070_oc_16gb",
+    "brand": "ASUS",
+    "series": "Prime",
+    "model": "Radeon RX 9070 OC",
+    "vram": "16 GB GDDR6",
+    "price_tr": 41250,
+    "price_usd": 789,
+    "price_eur": 839,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 269,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K)",
+      "fps_tier": "High",
+      "ray_tracing_performance": "Mid-High"
+    },
+    "asset_path": "assets/gpu_images/asus-prime-rx-9070-oc.webp"
+  },
+  {
+    "id": "asus_prime_rx_9070_xt_oc_16gb",
+    "brand": "ASUS",
+    "series": "Prime",
+    "model": "Radeon RX 9070 XT OC",
+    "vram": "16 GB GDDR6",
+    "price_tr": 48750,
+    "price_usd": 929,
+    "price_eur": 979,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 269,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K) / 4K",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High"
+    },
+    "asset_path": "assets/gpu_images/asus-prime-rx-9070-xt-oc.webp"
+  },
+  {
+    "id": "xfx_swift_rx_9070_oc_16gb",
+    "brand": "XFX",
+    "series": "Swift",
+    "model": "Radeon RX 9070 OC",
+    "vram": "16 GB GDDR6",
+    "price_tr": 40500,
+    "price_usd": 769,
+    "price_eur": 819,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 332,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 700,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K)",
+      "fps_tier": "High",
+      "ray_tracing_performance": "Mid-High"
+    },
+    "asset_path": "assets/gpu_images/xfx-swift-rx-9070-oc.webp"
+  },
+  {
+    "id": "xfx_swift_rx_9070_xt_oc_16gb",
+    "brand": "XFX",
+    "series": "Swift",
+    "model": "Radeon RX 9070 XT OC",
+    "vram": "16 GB GDDR6",
+    "price_tr": 47900,
+    "price_usd": 919,
+    "price_eur": 969,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 332,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 750,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K) / 4K",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High"
+    },
+    "asset_path": "assets/gpu_images/xfx-swift-rx-9070-xt-oc.webp"
+  },
+  {
+    "id": "xfx_quik_319_rx_7800_xt_16gb",
+    "brand": "XFX",
+    "series": "Speedster QUIK",
+    "model": "Radeon RX 7800 XT",
+    "vram": "16 GB GDDR6",
+    "price_tr": 21500,
+    "price_usd": 499,
+    "price_eur": 529,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 335,
+      "slot_thickness": 2.5,
+      "pcie_version": "4.0",
+      "recommended_psu_watt": 700,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K)",
+      "fps_tier": "Mid-High",
+      "ray_tracing_performance": "Mid"
+    },
+    "asset_path": "assets/gpu_images/xfx-quik-319-rx-7800-xt.webp"
+  },
+  {
+    "id": "gigabyte_rx_9060_xt_gaming_oc_8gb",
+    "brand": "Gigabyte",
+    "series": "Gaming OC",
+    "model": "Radeon RX 9060 XT",
+    "vram": "8 GB GDDR6",
+    "price_tr": 16750,
+    "price_usd": 329,
+    "price_eur": 359,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 281,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p (FHD)",
+      "fps_tier": "High",
+      "ray_tracing_performance": "Mid-Low"
+    },
+    "asset_path": "assets/gpu_images/gigabyte-rx-9060-xt-gaming-oc.webp"
+  },
+  {
+    "id": "asus_prime_rx_9060_xt_oc_16gb",
+    "brand": "ASUS",
+    "series": "Prime",
+    "model": "Radeon RX 9060 XT OC",
+    "vram": "16 GB GDDR6",
+    "price_tr": 23500,
+    "price_usd": 449,
+    "price_eur": 479,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 269,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p / 1440p Entry",
+      "fps_tier": "High",
+      "ray_tracing_performance": "Mid"
+    },
+    "asset_path": "assets/gpu_images/asus-prime-rx-9060-xt-16gb.webp"
+  },
+  {
+    "id": "gpu_asus_dual_rx_9060_xt_8gb",
+    "brand": "ASUS",
+    "series": "Dual",
+    "model": "Radeon RX 9060 XT",
+    "vram": "8 GB GDDR6",
+    "price_tr": 18250,
+    "price_usd": 349,
+    "price_eur": 379,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 227,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p (FHD)",
+      "fps_tier": "High",
+      "ray_tracing_performance": "Mid-Low"
+    },
+    "asset_path": "assets/gpu_images/asus-dual-rx-9060-xt-8gb.webp"
+  },
+  {
+    "id": "asus_prime_rx_9060_xt_oc_8gb",
+    "brand": "ASUS",
+    "series": "Prime",
+    "model": "Radeon RX 9060 XT OC",
+    "vram": "8 GB GDDR6",
+    "price_tr": 19500,
+    "price_usd": 369,
+    "price_eur": 399,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 269,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p (FHD)",
+      "fps_tier": "High",
+      "ray_tracing_performance": "Mid-Low"
+    },
+    "asset_path": "assets/gpu_images/asus-prime-rx-9060-xt-8gb.webp"
+  },
+  {
+    "id": "sapphire_pulse_rx_9060_xt_8g",
+    "brand": "Sapphire",
+    "series": "Pulse",
+    "model": "Radeon RX 9060 XT",
+    "vram": "8 GB GDDR6",
+    "price_tr": "21.999 ₺",
+    "price_usd": "349.99 $",
+    "price_eur": "329.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 240,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (FSR 3.1)",
+      "fps_tier": "Mainstream King (AFMF 2 Boost)",
+      "ray_tracing_performance": "Mid-Tier (RDNA 4 AI Optimized)"
+    },
+    "asset_path": "assets/gpu_images/sapphire-rx-9060-xt-pulse-8gb.webp"
+  },
+  {
+    "id": "sapphire_rx_9060_xt_pure_16gb",
+    "brand": "Sapphire",
+    "series": "Pure",
+    "model": "Radeon RX 9060 XT Pure",
+    "vram": "16 GB GDDR6",
+    "price_tr": 24750,
+    "price_usd": 469,
+    "price_eur": 499,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 320,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p / 1440p Entry",
+      "fps_tier": "High",
+      "ray_tracing_performance": "Mid-High"
+    },
+    "asset_path": "assets/gpu_images/sapphire-rx-9060-xt-pure-16gb.webp"
+  },
+  {
+    "id": "sapphire_rx_9060_xt_pulse_8gb",
+    "brand": "Sapphire",
+    "series": "Pulse",
+    "model": "Radeon RX 9060 XT Pulse",
+    "vram": "8 GB GDDR6",
+    "price_tr": 17950,
+    "price_usd": 339,
+    "price_eur": 369,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 240,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p (FHD)",
+      "fps_tier": "High",
+      "ray_tracing_performance": "Mid-Low"
+    },
+    "asset_path": "assets/gpu_images/.webp"
+  },
+  {
+    "id": "xfx_swift_rx_9060_xt_dual_oc_16gb",
+    "brand": "XFX",
+    "series": "Swift",
+    "model": "Radeon RX 9060 XT Gaming Dual OC",
+    "vram": "16 GB GDDR6",
+    "price_tr": 22400,
+    "price_usd": 429,
+    "price_eur": 459,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 251,
+      "slot_thickness": 2.4,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p / 1440p Entry",
+      "fps_tier": "High",
+      "ray_tracing_performance": "Mid"
+    },
+    "asset_path": "assets/gpu_images/xfx-swift-rx-9060-xt-16gb.webp"
+  },
+  {
+    "id": "xfx_quicksilver_rx_9070_xt_magnetic_white",
+    "brand": "XFX",
+    "series": "Quicksilver Magnetic Air",
+    "model": "Radeon RX 9070 XT White",
+    "vram": "16 GB GDDR6",
+    "price_tr": 51250,
+    "price_usd": 969,
+    "price_eur": 1019,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 334,
+      "slot_thickness": 2.8,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 800,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K) / 4K",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High"
+    },
+    "asset_path": "assets/gpu_images/xfx-quicksilver-rx-9070-xt-white.webp"
+  },
+  {
+    "id": "xfx_quicksilver_rx_9070_xt_magnetic_black",
+    "brand": "XFX",
+    "series": "Quicksilver Magnetic Air",
+    "model": "Radeon RX 9070 XT Black",
+    "vram": "16 GB GDDR6",
+    "price_tr": 49950,
+    "price_usd": 949,
+    "price_eur": 999,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 334,
+      "slot_thickness": 2.8,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 800,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K) / 4K",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High"
+    },
+    "asset_path": "assets/gpu_images/xfx-quicksilver-rx-9070-xt-black.webp"
+  },
+  {
+    "id": "xfx_mercury_rx_9070_xt_magnetic_oc_rgb",
+    "brand": "XFX",
+    "series": "Mercury Magnetic Air",
+    "model": "Radeon RX 9070 XT OC RGB",
+    "vram": "16 GB GDDR6",
+    "price_tr": 56750,
+    "price_usd": 1099,
+    "price_eur": 1149,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 340,
+      "slot_thickness": 3.0,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 850,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Native / 1440p Elite",
+      "fps_tier": "Elite High",
+      "ray_tracing_performance": "High-End"
+    },
+    "asset_path": "assets/gpu_images/xfx-mercury-rx-9070-xt-magnetic-oc-rgb.webp"
+  },
+  {
+    "id": "xfx_mercury_rx_9070_xt_magnetic_white_oc_rgb",
+    "brand": "XFX",
+    "series": "Mercury Magnetic Air",
+    "model": "Radeon RX 9070 XT White OC RGB",
+    "vram": "16 GB GDDR6",
+    "price_tr": 58250,
+    "price_usd": 1129,
+    "price_eur": 1179,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 340,
+      "slot_thickness": 3.0,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 850,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Native / 1440p Elite",
+      "fps_tier": "Elite High",
+      "ray_tracing_performance": "High-End"
+    },
+    "asset_path": "assets/gpu_images/xfx-mercury-rx-9070-xt-magnetic-white-oc.webp"
+  },
+  {
+    "id": "xfx_quicksilver_rx_9070_xt_gaming_black",
+    "brand": "XFX",
+    "series": "Quicksilver Gaming",
+    "model": "Radeon RX 9070 XT Black",
+    "vram": "16 GB GDDR6",
+    "price_tr": 48250,
+    "price_usd": 919,
+    "price_eur": 969,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 332,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 750,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K) / 4K",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High"
+    },
+    "asset_path": "assets/gpu_images/xfx-quicksilver-rx-9070-xt-gaming-black.webp"
+  },
+  {
+    "id": "xfx_quicksilver_rx_9070_xt_gaming_white",
+    "brand": "XFX",
+    "series": "Quicksilver Gaming",
+    "model": "Radeon RX 9070 XT White",
+    "vram": "16 GB GDDR6",
+    "price_tr": 49750,
+    "price_usd": 949,
+    "price_eur": 999,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 332,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 750,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K) / 4K",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High"
+    },
+    "asset_path": "assets/gpu_images/xfx-quicksilver-rx-9070-xt-gaming-white.webp"
+  },
+  {
+    "id": "asus_dual_rx_9060_xt_16gb_black",
+    "brand": "ASUS",
+    "series": "Dual",
+    "model": "Radeon RX 9060 XT Black",
+    "vram": "16 GB GDDR6",
+    "price_tr": 22950,
+    "price_usd": 439,
+    "price_eur": 469,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 227,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p / 1440p Entry",
+      "fps_tier": "High",
+      "ray_tracing_performance": "Mid"
+    },
+    "asset_path": "assets/gpu_images/asus-dual-rx-9060-xt-16gb-black.webp"
+  },
+  {
+    "id": "asus_dual_rx_9060_xt_16gb_white",
+    "brand": "ASUS",
+    "series": "Dual",
+    "model": "Radeon RX 9060 XT White",
+    "vram": "16 GB GDDR6",
+    "price_tr": 23850,
+    "price_usd": 459,
+    "price_eur": 489,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 227,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p / 1440p Entry",
+      "fps_tier": "High",
+      "ray_tracing_performance": "Mid"
+    },
+    "asset_path": "assets/gpu_images/asus-dual-rx-9060-xt-16gb-white.webp"
+  },
+  {
+    "id": "xfx_swift_rx_9060_dual_oc_8gb",
+    "brand": "XFX",
+    "series": "Swift",
+    "model": "Radeon RX 9060 Dual OC",
+    "vram": "8 GB GDDR6",
+    "price_tr": 14950,
+    "price_usd": 289,
+    "price_eur": 319,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 241,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 500,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p (FHD)",
+      "fps_tier": "Mid-High",
+      "ray_tracing_performance": "Entry Level"
+    },
+    "asset_path": "assets/gpu_images/xfx-swift-rx-9060-8gb.webp"
+  },
+  {
+    "id": "xfx_swift_210_rx_7600_8gb",
+    "brand": "XFX",
+    "series": "Speedster Swift 210",
+    "model": "Radeon RX 7600",
+    "vram": "8 GB GDDR6",
+    "price_tr": 10950,
+    "price_usd": 259,
+    "price_eur": 279,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 241,
+      "slot_thickness": 2.0,
+      "pcie_version": "4.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p (FHD)",
+      "fps_tier": "High",
+      "ray_tracing_performance": "Entry Level"
+    },
+    "asset_path": "assets/gpu_images/xfx-swift-210-rx-7600.webp"
+  },
+  {
+    "id": "asrock_rx_9070_xt_challenger_oc_16gb",
+    "brand": "ASRock",
+    "series": "Challenger",
+    "model": "Radeon RX 9070 XT Challenger OC",
+    "vram": "16 GB GDDR6",
+    "price_tr": 42750,
+    "price_usd": 819,
+    "price_eur": 869,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 267,
+      "slot_thickness": 2.4,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 750,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K) / 4K",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High"
+    },
+    "asset_path": "assets/gpu_images/asrock-rx-9070-xt-challenger-oc.webp"
+  },
+  {
+    "id": "asrock_rx_9070_xt_steel_legend_oc_16gb",
+    "brand": "ASRock",
+    "series": "Steel Legend",
+    "model": "Radeon RX 9070 XT Steel Legend OC",
+    "vram": "16 GB GDDR6",
+    "price_tr": 45500,
+    "price_usd": 869,
+    "price_eur": 919,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 315,
+      "slot_thickness": 2.8,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 750,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K) / 4K Native",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High"
+    },
+    "asset_path": "assets/gpu_images/asrock-rx-9070-xt-steel-legend-oc.webp"
+  },
+  {
+    "id": "asrock_rx_7600_challenger_oc_8gb",
+    "brand": "ASRock",
+    "series": "Challenger",
+    "model": "Radeon RX 7600 Challenger OC",
+    "vram": "8 GB GDDR6",
+    "price_tr": 11250,
+    "price_usd": 269,
+    "price_eur": 289,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 228,
+      "slot_thickness": 2.0,
+      "pcie_version": "4.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p (FHD)",
+      "fps_tier": "High",
+      "ray_tracing_performance": "Entry Level"
+    },
+    "asset_path": "assets/gpu_images/asrock-rx-7600-challenger-oc.webp"
+  },
+  {
+    "id": "gpu_asrock_rx_9060xt_challenger_16gb_oc",
+    "brand": "ASRock",
+    "series": "Challenger",
+    "model": "Radeon RX 9060 XT Challenger OC",
+    "vram": "16 GB GDDR6",
+    "price_tr": 17250,
+    "price_usd": 329,
+    "price_eur": 359,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 267,
+      "slot_thickness": 2.4,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p / 1440p Entry",
+      "fps_tier": "High",
+      "ray_tracing_performance": "Mid"
+    },
+    "asset_path": "assets/gpu_images/asrock-rx-9060xt-challenger-16gb-oc.webp"
+  },
+  {
+    "id": "asrock_rx_7700_xt_challenger_12gb",
+    "brand": "ASRock",
+    "series": "Challenger",
+    "model": "Radeon RX 7700 XT Challenger",
+    "vram": "12 GB GDDR6",
+    "price_tr": 19750,
+    "price_usd": 399,
+    "price_eur": 429,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 267,
+      "slot_thickness": 2.4,
+      "pcie_version": "4.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K)",
+      "fps_tier": "Mid-High",
+      "ray_tracing_performance": "Mid-Low"
+    },
+    "asset_path": "assets/gpu_images/asrock-rx-7700-xt-challenger.webp"
+  },
+  {
+    "id": "asrock_rx_7600_challenger_8gb_v2",
+    "brand": "ASRock",
+    "series": "Challenger",
+    "model": "Radeon RX 7600 Challenger",
+    "vram": "8 GB GDDR6",
+    "price_tr": 11250,
+    "price_usd": 259,
+    "price_eur": 279,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 228,
+      "slot_thickness": 2.0,
+      "pcie_version": "4.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p (FHD)",
+      "fps_tier": "High",
+      "ray_tracing_performance": "Entry Level"
+    },
+    "asset_path": "assets/gpu_images/asrock-rx-7600-challenger.webp"
+  },
+  {
+    "id": "powercolor_rx_9070_hellhound_16gb",
+    "brand": "PowerColor",
+    "series": "Hellhound",
+    "model": "Radeon RX 9070 Hellhound",
+    "vram": "16 GB GDDR6",
+    "price_tr": 41500,
+    "price_usd": 749,
+    "price_eur": 799,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 322,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 750,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K) / 4K Native",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High"
+    },
+    "asset_path": "assets/gpu_images/powercolor-rx-9070-hellhound.webp"
+  },
+  {
+    "id": "asrock_rx_7900_xtx_phantom_gaming_24gb",
+    "brand": "ASRock",
+    "series": "Phantom Gaming",
+    "model": "Radeon RX 7900 XTX",
+    "vram": "24 GB GDDR6",
+    "price_tr": 54500,
+    "price_usd": 949,
+    "price_eur": 999,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 330,
+      "slot_thickness": 2.8,
+      "pcie_version": "4.0",
+      "recommended_psu_watt": 850,
+      "power_pins": "3 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra",
+      "fps_tier": "Elite",
+      "ray_tracing_performance": "High (RDNA 3)"
+    },
+    "asset_path": "assets/gpu_images/asrock-rx-7900-xtx-phantom.webp"
+  },
+  {
+    "id": "amd_radeon_pro_w7500_8gb",
+    "brand": "AMD",
+    "series": "Radeon Pro",
+    "model": "W7500 (Workstation)",
+    "vram": "8 GB GDDR6",
+    "price_tr": 21500,
+    "price_usd": 429,
+    "price_eur": 459,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 216,
+      "slot_thickness": 1.0,
+      "pcie_version": "4.0 x8",
+      "recommended_psu_watt": 450,
+      "power_pins": "None (PCIe Powered)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "Workstation / CAD",
+      "fps_tier": "Pro-Application",
+      "ray_tracing_performance": "Accelerated"
+    },
+    "asset_path": "assets/gpu_images/amd-radeon-pro-w7500.webp"
+  },
+  {
+    "id": "sapphire_rx_7900_xtx_nitro_vaporx_24gb",
+    "brand": "Sapphire",
+    "series": "Nitro+ Vapor-X",
+    "model": "Radeon RX 7900 XTX",
+    "vram": "24 GB GDDR6",
+    "price_tr": 62750,
+    "price_usd": 1099,
+    "price_eur": 1149,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 320,
+      "slot_thickness": 3.5,
+      "pcie_version": "4.0",
+      "recommended_psu_watt": 850,
+      "power_pins": "3 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra / 8K Entry",
+      "fps_tier": "Elite",
+      "ray_tracing_performance": "High (RDNA 3)"
+    },
+    "asset_path": "assets/gpu_images/sapphire-rx-7900-xtx-nitro.webp"
+  },
+  {
+    "id": "amd_radeon_pro_wx7100_8gb",
+    "brand": "AMD",
+    "series": "Radeon Pro",
+    "model": "WX 7100 (Workstation)",
+    "vram": "8 GB GDDR5",
+    "price_tr": 12500,
+    "price_usd": 249,
+    "price_eur": 269,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 241,
+      "slot_thickness": 1.0,
+      "pcie_version": "3.0",
+      "recommended_psu_watt": 450,
+      "power_pins": "1 x 6-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "Legacy Workstation",
+      "fps_tier": "Pro-Application",
+      "ray_tracing_performance": "None"
+    },
+    "asset_path": "assets/gpu_images/amd-radeon-pro-wx7100.webp"
+  },
+  {
+    "id": "powercolor_reaper_rx_9060_xt_16g",
+    "series": "Reaper",
+    "model": "Radeon RX 9060 XT",
+    "vram": "16 GB GDDR6",
+    "price_tr": "18.499 ₺",
+    "price_usd": "549.99 $",
+    "price_eur": "515.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 280,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K FSR 3.1 AI",
+      "fps_tier": "High-Mid Tier (AFMF 2 Boost)",
+      "ray_tracing_performance": "Mid-Tier (AI Accelerated)"
+    },
+    "asset_path": "assets/gpu_images/powercolor-rx-9060-xt-reaper.webp"
+  },
+  {
+    "id": "powercolor_red_devil_rx_9070_xt_16g_oc",
+    "series": "Red Devil OC",
+    "model": "Radeon RX 9070 XT",
+    "vram": "16 GB GDDR6",
+    "price_tr": "28.999 ₺",
+    "price_usd": "899.99 $",
+    "price_eur": "845.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 332,
+      "slot_thickness": 3.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra / 8K FSR Frame Gen",
+      "fps_tier": "Enthusiast (HYPR-RX AI Engine)",
+      "ray_tracing_performance": "High-Tier (Hardware AI Accelerators)"
+    },
+    "asset_path": "assets/gpu_images/powercolor-rx-9070-xt-red-devil.webp"
+  },
+  {
+    "id": "powercolor_hellhound_rx_9070_xt_16g_oc",
+    "series": "Hellhound OC",
+    "model": "Radeon RX 9070 XT",
+    "vram": "16 GB GDDR6",
+    "price_tr": "25.499 ₺",
+    "price_usd": "799.99 $",
+    "price_eur": "745.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 322,
+      "slot_thickness": 3.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra Gaming / FSR 3.1",
+      "fps_tier": "Elite Performance (AFMF 2 Ready)",
+      "ray_tracing_performance": "High-Tier (Enhanced AI Compute)"
+    },
+    "asset_path": "assets/gpu_images/powercolor-rx-9070-xt-hellhound.webp"
+  },
+  {
+    "id": "powercolor_rx_9070_reaper_16gb",
+    "brand": "PowerColor",
+    "series": "Reaper",
+    "model": "Radeon RX 9070",
+    "vram": "16 GB GDDR6",
+    "price_tr": 43900,
+    "price_usd": 799,
+    "price_eur": 849,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 330,
+      "slot_thickness": 2.8,
+      "pcie_version": "5.0",
+      "recommended_psu_watt": 750,
+      "power_pins": "2 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p (2K) / 4K",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High (RDNA 4)"
+    },
+    "asset_path": "assets/gpu_images/powercolor-rx-9070-reaper.webp"
+  },
+  {
+    "id": "msi_gt_710_2gb_gddr3",
+    "brand": "MSI",
+    "series": "Passive",
+    "model": "GeForce GT 710",
+    "vram": "2 GB GDDR3",
+    "price_tr": 1650,
+    "price_usd": 49,
+    "price_eur": 45,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 146,
+      "slot_thickness": 1.0,
+      "pcie_version": "2.0 x8 (x16 slot uyumlu)",
+      "recommended_psu_watt": 300,
+      "power_pins": "None (PCIe Powered)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "Office / 720p Video",
+      "fps_tier": "Low End",
+      "ray_tracing_performance": "None"
+    },
+    "asset_path": "assets/gpu_images/msi-gt-710-2gb-gddr3.webp"
+  },
+  {
+    "id": "gpu_asus_gt_710_2gb_gddr5_evo",
+    "brand": "ASUS",
+    "series": "EVO",
+    "model": "GeForce GT 710 EVO",
+    "vram": "2 GB GDDR5",
+    "price_tr": 1850,
+    "price_usd": 55,
+    "price_eur": 50,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 170,
+      "slot_thickness": 1.0,
+      "pcie_version": "2.0 x8 (x16 slot uyumlu)",
+      "recommended_psu_watt": 300,
+      "power_pins": "None (PCIe Powered)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "Office / 1080p Video",
+      "fps_tier": "Low End",
+      "ray_tracing_performance": "None"
+    },
+    "asset_path": "assets/gpu_images/asus-gt-710-2gb-gddr5-evo.webp"
+  },
+  {
+    "id": "asus_geforce_gt_730_2gb_gddr5_brk",
+    "brand": "ASUS",
+    "series": "Classic / BRK",
+    "model": "GeForce GT 730",
+    "vram": "2 GB GDDR5",
+    "price_tr": 2150,
+    "price_usd": 65,
+    "price_eur": 60,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 165,
+      "slot_thickness": 1.0,
+      "pcie_version": "2.0 x8 (x16 slot uyumlu)",
+      "recommended_psu_watt": 300,
+      "power_pins": "None (PCIe Powered)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "Office / 1080p Video / Legacy Gaming",
+      "fps_tier": "Low End",
+      "ray_tracing_performance": "None"
+    },
+    "asset_path": "assets/gpu_images/asus-geforce-gt-730-2gb-gddr5.webp"
+  },
+  {
+    "id": "msi_rtx_5050_gaming_oc_8gb",
+    "brand": "MSI",
+    "series": "Gaming OC",
+    "model": "GeForce RTX 5050",
+    "vram": "8 GB GDDR6",
+    "price_tr": 15750,
+    "price_usd": 299,
+    "price_eur": 329,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 247,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 450,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra (w/ DLSS 4)",
+      "fps_tier": "Mid-High",
+      "ray_tracing_performance": "High (Blackwell RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5050-gaming-oc.webp"
+  },
+  {
+    "id": "asus_dual_rtx_3050_oc_6gb",
+    "brand": "ASUS",
+    "series": "Dual OC",
+    "model": "GeForce RTX 3050 6GB",
+    "vram": "6 GB GDDR6",
+    "price_tr": 8950,
+    "price_usd": 179,
+    "price_eur": 189,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 201,
+      "slot_thickness": 2.0,
+      "pcie_version": "4.0 x8",
+      "recommended_psu_watt": 300,
+      "power_pins": "None (PCIe Powered)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Low-Mid (w/ DLSS)",
+      "fps_tier": "Mid-Low",
+      "ray_tracing_performance": "Entry Level (Ampere)"
+    },
+    "asset_path": "assets/gpu_images/asus-dual-rtx-3050-oc-6gb.webp"
+  },
+  {
+    "id": "msi_rtx_3050_lp_e_6g_oc",
+    "brand": "MSI",
+    "series": "Low Profile OC",
+    "model": "GeForce RTX 3050 6GB LP E",
+    "vram": "6 GB GDDR6",
+    "price_tr": 8450,
+    "price_usd": 169,
+    "price_eur": 179,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 174,
+      "slot_thickness": 2.0,
+      "pcie_version": "4.0 x8",
+      "recommended_psu_watt": 300,
+      "power_pins": "None (PCIe Powered)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Low-Mid / HTPC",
+      "fps_tier": "Mid-Low",
+      "ray_tracing_performance": "Entry Level (Ampere)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-3050-lp-e-6g-oc.webp"
+  },
+  {
+    "id": "zotac_rtx_5060_twin_edge_8g",
+    "series": "Gaming Twin Edge",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": "15.999 ₺",
+    "price_usd": "449.99 $",
+    "price_eur": "425.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 221,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p DLSS 4",
+      "fps_tier": "Mid-Range King (DLSS 4 Boost)",
+      "ray_tracing_performance": "Excellent (4th Gen RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5060-twin-edge.webp"
+  },
+  {
+    "id": "zotac_rtx_5060_twin_edge_oc_8gb",
+    "brand": "Zotac",
+    "series": "Gaming Twin Edge OC",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 19250,
+    "price_usd": 399,
+    "price_eur": 429,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 221,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 500,
+      "power_pins": "1 x 8-pin (veya 12VHPWR adaptör)"
+    },
+
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 4)",
+      "fps_tier": "Ultra High (Mid-Range)",
+      "ray_tracing_performance": "High (5th Gen RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5060-twin-edge-oc.webp"
+  },
+  {
+    "id": "zotac_rtx_5060_twin_edge_oc_white_8g",
+    "series": "Gaming Twin Edge OC White",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": "22.149 ₺",
+    "price_usd": "479.99 $",
+    "price_eur": "455.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 221,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p DLSS 4",
+      "fps_tier": "Mid-Range (OC White Edition)",
+      "ray_tracing_performance": "Excellent (Blackwell Architecture)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5060-twin-edge-white.webp"
+  },
+  {
+    "id": "zotac_rtx_5050_gaming_solo_8gb",
+    "brand": "Zotac",
+    "series": "Gaming SOLO (Single Fan)",
+    "model": "GeForce RTX 5050",
+    "vram": "8 GB GDDR6",
+    "price_tr": 14250,
+    "price_usd": 269,
+    "price_eur": 289,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 163,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 450,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p High (w/ DLSS 4)",
+      "fps_tier": "Mid-High",
+      "ray_tracing_performance": "High (Blackwell RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5050-solo.webp"
+  },
+  {
+    "id": "inno3d_rtx_5050_twin_x2_8gb",
+    "brand": "Inno3D",
+    "series": "Twin X2",
+    "model": "GeForce RTX 5050",
+    "vram": "8 GB GDDR6",
+    "price_tr": 14950,
+    "price_usd": 279,
+    "price_eur": 299,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 225,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 450,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p High-Ultra (DLSS 4)",
+      "fps_tier": "Mid-High",
+      "ray_tracing_performance": "High (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5050-twin-x2.webp"
+  },
+  {
+    "id": "msi_rtx_5050_shadow_2x_oc_8gb_gddr7",
+    "brand": "MSI",
+    "series": "Shadow 2X OC",
+    "model": "GeForce RTX 5050",
+    "vram": "8 GB GDDR7",
+    "price_tr": 16450,
+    "price_usd": 319,
+    "price_eur": 339,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 235,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 450,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p Entry (DLSS 4)",
+      "fps_tier": "High-End Entry",
+      "ray_tracing_performance": "High (Blackwell RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5050-shadow-2x-oc.webp"
+  },
+  {
+    "id": "msi_rtx_3050_ventus_2x_xs_8g_oc",
+    "brand": "MSI",
+    "series": "Ventus 2X XS OC",
+    "model": "GeForce RTX 3050 8GB",
+    "vram": "8 GB GDDR6",
+    "price_tr": 9450,
+    "price_usd": 199,
+    "price_eur": 209,
+    "regions": ["TR", "EU"],
+    "specs": {
+      "length_mm": 205,
+      "slot_thickness": 2.0,
+      "pcie_version": "4.0 x8",
+      "recommended_psu_watt": 350,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Medium-High (w/ DLSS)",
+      "fps_tier": "Mid-Low",
+      "ray_tracing_performance": "Basic (Ampere)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-3050-ventus-2x-xs-8g.webp"
+  },
+  {
+    "id": "zotac_rtx_5050_gaming_twin_edge_8gb",
+    "brand": "Zotac",
+    "series": "Gaming Twin Edge",
+    "model": "GeForce RTX 5050",
+    "vram": "8 GB GDDR6",
+    "price_tr": 15150,
+    "price_usd": 289,
+    "price_eur": 309,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 221,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 450,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p High-Ultra (DLSS 4)",
+      "fps_tier": "Mid-High",
+      "ray_tracing_performance": "High (Blackwell RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5050-twin-edge.webp"
+  },
+  {
+    "id": "msi_rtx_5060_ventus_2x_oc_white_8gb_gddr7",
+    "brand": "MSI",
+    "series": "Ventus 2X OC White",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 20989,
+    "price_usd": 419,
+    "price_eur": 449,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 235,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 500,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 4)",
+      "fps_tier": "Ultra High (Mid-Range)",
+      "ray_tracing_performance": "High (5th Gen RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5060-ventus-2x-oc-white.webp"
+  },
+  {
+    "id": "zotac_rtx_5060_gaming_solo_8gb_gddr7",
+    "brand": "Zotac",
+    "series": "Gaming SOLO (Single Fan)",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 20499,
+    "price_usd": 379,
+    "price_eur": 399,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 164.5,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p Mid-High (DLSS 4)",
+      "fps_tier": "Ultra High (ITX)",
+      "ray_tracing_performance": "High (5th Gen RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5060-solo-gddr7.webp"
+  },
+  {
+    "id": "inno3d_rtx_5060_twin_x2_8gb_gddr7",
+    "brand": "Inno3D",
+    "series": "Twin X2",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 18999,
+    "price_usd": 379,
+    "price_eur": 399,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 225,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 500,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p Mid-High (DLSS 4)",
+      "fps_tier": "Ultra High (Mid-Range)",
+      "ray_tracing_performance": "High (5th Gen RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5060-twin-x2-gddr7.webp"
+  },
+  {
+    "id": "msi_rtx_5060_ventus_3x_oc_8gb_gddr7",
+    "brand": "MSI",
+    "series": "Ventus 3X OC",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 21499,
+    "price_usd": 439,
+    "price_eur": 469,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 308,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 500,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 4)",
+      "fps_tier": "Ultra High (Cool & Quiet)",
+      "ray_tracing_performance": "High (5th Gen RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5060-ventus-3x-oc-gddr7.webp"
+  },
+  {
+    "id": "msi_rtx_5060_ventus_2x_oc_8gb_gddr7",
+    "brand": "MSI",
+    "series": "Ventus 2X OC",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 19499,
+    "price_usd": 389,
+    "price_eur": 409,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 235,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 500,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 4)",
+      "fps_tier": "Ultra High (Mid-Range)",
+      "ray_tracing_performance": "High (5th Gen RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5060-ventus-2x-oc.webp"
+  },
+  {
+    "id": "inno3d_rtx_5060_twin_x2_oc_white_8gb_gddr7",
+    "brand": "Inno3D",
+    "series": "Twin X2 OC White",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 19250,
+    "price_usd": 385,
+    "price_eur": 405,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 225,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 500,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p Mid-High (DLSS 4)",
+      "fps_tier": "Ultra High (Mid-Range)",
+      "ray_tracing_performance": "High (5th Gen RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5060-twin-x2-oc-white.webp"
+  },
+  {
+    "id": "gpu_zotac_rtx_5060_gaming_twin_edge_oc_white_8gb_gddr7",
+    "brand": "Zotac",
+    "series": "Gaming Twin Edge OC White",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 19999,
+    "price_usd": 399,
+    "price_eur": 419,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 221,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 500,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 4)",
+      "fps_tier": "Ultra High (Mid-Range)",
+      "ray_tracing_performance": "High (5th Gen RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5060-twin-edge-oc-white.webp"
+  },
+  {
+    "id": "gpu_zotac_rtx_5060_gaming_twin_edge_8gb_gddr7",
+    "brand": "Zotac",
+    "series": "Gaming Twin Edge",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 18499,
+    "price_usd": 369,
+    "price_eur": 389,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 221,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 500,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 4)",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High (5th Gen RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5060-twin-edge.webp"
+  },
+  {
+    "id": "asus_dual_rtx_5050_oc_8gb",
+    "brand": "ASUS",
+    "series": "Dual OC",
+    "model": "GeForce RTX 5050",
+    "vram": "8 GB GDDR6",
+    "price_tr": 16750,
+    "price_usd": 329,
+    "price_eur": 349,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 227,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 450,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra (DLSS 4)",
+      "fps_tier": "Mid-High",
+      "ray_tracing_performance": "High (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/asus-dual-rtx-5050-oc.webp"
+  },
+  {
+    "id": "zotac_rtx_5060_gaming_amp_8gb_gddr7",
+    "brand": "Zotac",
+    "series": "Gaming AMP",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 20999,
+    "price_usd": 429,
+    "price_eur": 449,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 232,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p High (DLSS 4)",
+      "fps_tier": "Ultra High (Factory OC)",
+      "ray_tracing_performance": "High (5th Gen RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5060-amp-gddr7.webp"
+  },
+  {
+    "id": "msi_rtx_5060_shadow_2x_oc_8gb_gddr7",
+    "brand": "MSI",
+    "series": "Shadow 2X OC",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 19850,
+    "price_usd": 399,
+    "price_eur": 419,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 235,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 500,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 4)",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High (5th Gen RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5060-shadow-2x-oc.webp"
+  },
+  {
+    "id": "asus_prime_rtx_5050_oc_8gb",
+    "brand": "ASUS",
+    "series": "Prime OC",
+    "model": "GeForce RTX 5050",
+    "vram": "8 GB GDDR6",
+    "price_tr": 15999,
+    "price_usd": 299,
+    "price_eur": 319,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 202,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 450,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra (DLSS 4)",
+      "fps_tier": "Mid-High",
+      "ray_tracing_performance": "High (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/asus-prime-rtx-5050-oc.webp"
+  },
+  {
+    "id": "asus_dual_rtx_4060_ti_o8g_evo_oc",
+    "brand": "ASUS",
+    "series": "Dual EVO OC",
+    "model": "GeForce RTX 4060 Ti",
+    "vram": "8 GB GDDR6",
+    "price_tr": 18450,
+    "price_usd": 419,
+    "price_eur": 399,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 227,
+      "slot_thickness": 2.5,
+      "pcie_version": "4.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 3)",
+      "fps_tier": "High",
+      "ray_tracing_performance": "High (Ada Lovelace)"
+    },
+    "asset_path": "assets/gpu_images/asus-dual-rtx-4060-ti-evo-oc.webp"
+  },
+  {
+    "id": "inno3d_rtx_5060_twin_x2_oc_v2_8gb_gddr7",
+    "brand": "Inno3D",
+    "series": "Twin X2 OC V2",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 19150,
+    "price_usd": 385,
+    "price_eur": 405,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 225,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 500,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 4)",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High (5th Gen RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5060-twin-x2-oc-v2.webp"
+  },
+  {
+    "id": "msi_rtx_5060_gaming_oc_8gb_gddr7",
+    "brand": "MSI",
+    "series": "Gaming OC",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 21850,
+    "price_usd": 449,
+    "price_eur": 479,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 247,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 4)",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "Ultra (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5060-gaming-oc.webp"
+  },
+  {
+    "id": "inno3d_rtx_5060_ti_twin_x2_8gb_gddr7",
+    "brand": "Inno3D",
+    "series": "Twin X2",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "8 GB GDDR7",
+    "price_tr": 23999,
+    "price_usd": 499,
+    "price_eur": 529,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 225,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra (DLSS 4)",
+      "fps_tier": "Extreme Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5060-ti-twin-x2.webp"
+  },
+  {
+    "id": "asus_dual_rtx_5060_oc_8gb_gddr7",
+    "brand": "ASUS",
+    "series": "Dual OC",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 21250,
+    "price_usd": 429,
+    "price_eur": 459,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 227,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 4)",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High (5th Gen RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/asus-dual-rtx-5060-oc-gddr7.webp"
+  },
+  {
+    "id": "inno3d_rtx_5060_ti_twin_x2_oc_8gb_gddr7",
+    "brand": "Inno3D",
+    "series": "Twin X2 OC",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "8 GB GDDR7",
+    "price_tr": 24850,
+    "price_usd": 529,
+    "price_eur": 549,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 225,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra (DLSS 4)",
+      "fps_tier": "Extreme Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5060-ti-twin-x2-oc.webp"
+  },
+  {
+    "id": "zotac_rtx_5060_ti_gaming_amp_8gb_gddr7",
+    "brand": "Zotac",
+    "series": "Gaming AMP",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "8 GB GDDR7",
+    "price_tr": 26499,
+    "price_usd": 549,
+    "price_eur": 579,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 232,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra (DLSS 4)",
+      "fps_tier": "Extreme Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5060-ti-amp.webp"
+  },
+  {
+    "id": "asus_dual_rtx_5060_oc_white_8gb_gddr7",
+    "brand": "ASUS",
+    "series": "Dual OC White",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 21999,
+    "price_usd": 449,
+    "price_eur": 469,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 227,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 4)",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High (5th Gen RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/asus-dual-rtx-5060-oc-white.webp"
+  },
+  {
+    "id": "inno3d_rtx_5060_ti_twin_x2_oc_white_8gb_gddr7",
+    "brand": "Inno3D",
+    "series": "Twin X2 OC White",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "8 GB GDDR7",
+    "price_tr": 25750,
+    "price_usd": 539,
+    "price_eur": 559,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 225,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra (DLSS 4)",
+      "fps_tier": "Extreme Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5060-ti-twin-x2-oc-white.webp"
+  },
+  {
+    "id": "gigabyte_rtx_5060_ti_windforce_oc_8gb_gddr7",
+    "brand": "Gigabyte",
+    "series": "Windforce OC",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "8 GB GDDR7",
+    "price_tr": 25250,
+    "price_usd": 519,
+    "price_eur": 539,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 192,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra (DLSS 4)",
+      "fps_tier": "Extreme Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/gigabyte-rtx-5060-ti-windforce-oc.webp"
+  },
+  {
+    "id": "gigabyte_rtx_4060_ti_eagle_oc_8gb",
+    "brand": "Gigabyte",
+    "series": "Eagle OC",
+    "model": "GeForce RTX 4060 Ti",
+    "vram": "8 GB GDDR6",
+    "price_tr": 17999,
+    "price_usd": 399,
+    "price_eur": 389,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 272,
+      "slot_thickness": 2.0,
+      "pcie_version": "4.0 x8",
+      "recommended_psu_watt": 500,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 3)",
+      "fps_tier": "High",
+      "ray_tracing_performance": "High (Ada Lovelace)"
+    },
+    "asset_path": "assets/gpu_images/gigabyte-rtx-4060-ti-eagle-oc.webp"
+  },
+  {
+    "id": "asus_prime_rtx_5060_oc_8gb_gddr7",
+    "brand": "ASUS",
+    "series": "Prime OC",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 20450,
+    "price_usd": 419,
+    "price_eur": 439,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 202,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 4)",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High (5th Gen RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/asus-prime-rtx-5060-oc-gddr7.webp"
+  },
+  {
+    "id": "zotac_rtx_5060_ti_gaming_twin_edge_oc_8gb_gddr7",
+    "brand": "Zotac",
+    "series": "Gaming Twin Edge OC",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "8 GB GDDR7",
+    "price_tr": 24999,
+    "price_usd": 519,
+    "price_eur": 539,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 221,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra (DLSS 4)",
+      "fps_tier": "Extreme Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5060-ti-twin-edge-oc.webp"
+  },
+  {
+    "id": "msi_rtx_5060_ti_shadow_2x_oc_8gb_gddr7",
+    "brand": "MSI",
+    "series": "Shadow 2X OC",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "8 GB GDDR7",
+    "price_tr": 25850,
+    "price_usd": 539,
+    "price_eur": 559,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 235,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra (DLSS 4)",
+      "fps_tier": "Extreme Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5060-ti-shadow-2x-oc.webp"
+  },
+  {
+    "id": "msi_rtx_5060_ti_ventus_2x_oc_plus_8gb_gddr7",
+    "brand": "MSI",
+    "series": "Ventus 2X OC PLUS",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "8 GB GDDR7",
+    "price_tr": 26150,
+    "price_usd": 545,
+    "price_eur": 565,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 235,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra (DLSS 4)",
+      "fps_tier": "Extreme Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5060-ti-ventus-2x-oc-plus.webp"
+  },
+  {
+    "id": "inno3d_rtx_5060_ti_twin_x2_oc_white_16gb_gddr7",
+    "brand": "Inno3D",
+    "series": "Twin X2 OC White",
+    "model": "GeForce RTX 5060 Ti 16GB",
+    "vram": "16 GB GDDR7",
+    "price_tr": 28950,
+    "price_usd": 599,
+    "price_eur": 629,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 225,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Entry (DLSS 4)",
+      "fps_tier": "High-End Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5060-ti-twin-x2-oc-white-16gb.webp"
+  },
+  {
+    "id": "gigabyte_rtx_4060_ti_gaming_oc_8g",
+    "brand": "Gigabyte",
+    "series": "Gaming OC",
+    "model": "GeForce RTX 4060 Ti",
+    "vram": "8 GB GDDR6",
+    "price_tr": 19250,
+    "price_usd": 439,
+    "price_eur": 419,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 281,
+      "slot_thickness": 2.5,
+      "pcie_version": "4.0 x8",
+      "recommended_psu_watt": 500,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 3)",
+      "fps_tier": "High",
+      "ray_tracing_performance": "High (Ada Lovelace)"
+    },
+    "asset_path": "assets/gpu_images/gigabyte-rtx-4060-ti-gaming-oc-8g.webp"
+  },
+  {
+    "id": "gigabyte_rtx_5060_ti_eagle_ice_oc_8gb_gddr7",
+    "brand": "Gigabyte",
+    "series": "Eagle ICE OC",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "8 GB GDDR7",
+    "price_tr": 26750,
+    "price_usd": 549,
+    "price_eur": 569,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 272,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra (DLSS 4)",
+      "fps_tier": "Extreme Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/gigabyte-rtx-5060-ti-eagle-ice-oc.webp"
+  },
+  {
+    "id": "asus_tuf_rtx_5060_oc_8gb_gddr7",
+    "brand": "ASUS",
+    "series": "TUF Gaming OC",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 23450,
+    "price_usd": 479,
+    "price_eur": 499,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 300,
+      "slot_thickness": 2.8,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 4)",
+      "fps_tier": "Ultra High",
+      "ray_tracing_performance": "High (5th Gen RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/asus-tuf-rtx-5060-oc-gddr7.webp"
+  },
+  {
+    "id": "gigabyte_rtx_5060_ti_gaming_oc_8gb_gddr7",
+    "brand": "Gigabyte",
+    "series": "Gaming OC",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "8 GB GDDR7",
+    "price_tr": 27499,
+    "price_usd": 569,
+    "price_eur": 589,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 281,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra (DLSS 4)",
+      "fps_tier": "Extreme Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/gigabyte-rtx-5060-ti-gaming-oc-gddr7.webp"
+  },
+  {
+    "id": "inno3d_rtx_5060_ti_twin_x2_16gb_gddr7",
+    "brand": "Inno3D",
+    "series": "Twin X2",
+    "model": "GeForce RTX 5060 Ti 16GB",
+    "vram": "16 GB GDDR7",
+    "price_tr": 27499,
+    "price_usd": 569,
+    "price_eur": 589,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 225,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Entry (DLSS 4)",
+      "fps_tier": "High-End Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5060-ti-twin-x2-16gb.webp"
+  },
+  {
+    "id": "msi_rtx_5060_ti_ventus_2x_oc_plus_white_8gb_gddr7",
+    "brand": "MSI",
+    "series": "Ventus 2X OC PLUS White",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "8 GB GDDR7",
+    "price_tr": 26999,
+    "price_usd": 559,
+    "price_eur": 579,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 235,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra (DLSS 4)",
+      "fps_tier": "Extreme Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5060-ti-ventus-2x-oc-plus-white.webp"
+  },
+  {
+    "id": "zotac_rtx_5060_ti_gaming_twin_edge_16gb_gddr7",
+    "brand": "Zotac",
+    "series": "Gaming Twin Edge",
+    "model": "GeForce RTX 5060 Ti 16GB",
+    "vram": "16 GB GDDR7",
+    "price_tr": 27999,
+    "price_usd": 579,
+    "price_eur": 599,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 221,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Entry (DLSS 4)",
+      "fps_tier": "High-End Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5060-ti-twin-edge-16gb.webp"
+  },
+  {
+    "id": "inno3d_rtx_5060_ti_twin_x2_oc_16gb_gddr7",
+    "brand": "Inno3D",
+    "series": "Twin X2 OC",
+    "model": "GeForce RTX 5060 Ti 16GB",
+    "vram": "16 GB GDDR7",
+    "price_tr": 28450,
+    "price_usd": 589,
+    "price_eur": 609,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 225,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Entry (DLSS 4)",
+      "fps_tier": "High-End Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5060-ti-twin-x2-oc-16gb.webp"
+  },
+  {
+    "id": "asus_dual_rtx_5060_ti_oc_8gb_gddr7",
+    "brand": "ASUS",
+    "series": "Dual OC",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "8 GB GDDR7",
+    "price_tr": 25499,
+    "price_usd": 529,
+    "price_eur": 549,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 227,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra (DLSS 4)",
+      "fps_tier": "Extreme Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/asus-dual-rtx-5060-ti-oc.webp"
+  },
+  {
+    "id": "msi_rtx_4060_ti_ventus_2x_black_oc_16gb",
+    "brand": "MSI",
+    "series": "Ventus 2X Black OC",
+    "model": "GeForce RTX 4060 Ti 16GB",
+    "vram": "16 GB GDDR6",
+    "price_tr": 20450,
+    "price_usd": 469,
+    "price_eur": 449,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 199,
+      "slot_thickness": 2.0,
+      "pcie_version": "4.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 3)",
+      "fps_tier": "High (VRAM Advantage)",
+      "ray_tracing_performance": "High (Ada Lovelace)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-4060-ti-ventus-2x-black-oc-16gb.webp"
+  },
+  {
+    "id": "msi_rtx_5060_ti_ventus_2x_oc_plus_16gb_gddr7",
+    "brand": "MSI",
+    "series": "Ventus 2X OC PLUS",
+    "model": "GeForce RTX 5060 Ti 16GB",
+    "vram": "16 GB GDDR7",
+    "price_tr": 29850,
+    "price_usd": 619,
+    "price_eur": 639,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 235,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Entry (DLSS 4)",
+      "fps_tier": "High-End Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5060-ti-ventus-2x-oc-plus-16gb.webp"
+  },
+  {
+    "id": "zotac_rtx_5060_ti_gaming_amp_16gb_gddr7",
+    "brand": "Zotac",
+    "series": "Gaming AMP",
+    "model": "GeForce RTX 5060 Ti 16GB",
+    "vram": "16 GB GDDR7",
+    "price_tr": 30499,
+    "price_usd": 629,
+    "price_eur": 649,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 232,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Entry (DLSS 4)",
+      "fps_tier": "High-End Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5060-ti-amp-16gb.webp"
+  },
+  {
+    "id": "gigabyte_rtx_5060_ti_windforce_oc_16gb_gddr7",
+    "brand": "Gigabyte",
+    "series": "Windforce OC",
+    "model": "GeForce RTX 5060 Ti 16GB",
+    "vram": "16 GB GDDR7",
+    "price_tr": 28750,
+    "price_usd": 589,
+    "price_eur": 619,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 192,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Entry (DLSS 4)",
+      "fps_tier": "High-End Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/gigabyte-rtx-5060-ti-windforce-oc-16gb.webp"
+  },
+  {
+    "id": "asus_prime_rtx_5060_ti_oc_8gb_gddr7",
+    "brand": "ASUS",
+    "series": "Prime OC",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "8 GB GDDR7",
+    "price_tr": 24999,
+    "price_usd": 519,
+    "price_eur": 539,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 202,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra (DLSS 4)",
+      "fps_tier": "Extreme Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/asus-prime-rtx-5060-ti-oc.webp"
+  },
+  {
+    "id": "gigabyte_rtx_5060_ti_eagle_oc_16gb_gddr7",
+    "brand": "Gigabyte",
+    "series": "Eagle OC",
+    "model": "GeForce RTX 5060 Ti 16GB",
+    "vram": "16 GB GDDR7",
+    "price_tr": 29250,
+    "price_usd": 599,
+    "price_eur": 619,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 272,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Entry (DLSS 4)",
+      "fps_tier": "High-End Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/gigabyte-rtx-5060-ti-eagle-oc-16gb.webp"
+  },
+  {
+    "id": "zotac_rtx_5060_ti_gaming_twin_edge_oc_16gb_gddr7",
+    "brand": "Zotac",
+    "series": "Gaming Twin Edge OC",
+    "model": "GeForce RTX 5060 Ti 16GB",
+    "vram": "16 GB GDDR7",
+    "price_tr": 28999,
+    "price_usd": 589,
+    "price_eur": 609,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 221,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Entry (DLSS 4)",
+      "fps_tier": "High-End Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5060-ti-twin-edge-oc-16gb.webp"
+  },
+  {
+    "id": "msi_rtx_5060_ti_ventus_3x_oc_16gb_gddr7",
+    "brand": "MSI",
+    "series": "Ventus 3X OC",
+    "model": "GeForce RTX 5060 Ti 16GB",
+    "vram": "16 GB GDDR7",
+    "price_tr": 31499,
+    "price_usd": 649,
+    "price_eur": 669,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 308,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Entry (DLSS 4)",
+      "fps_tier": "Extreme Mid-Range (Cool & Quiet)",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5060-ti-ventus-3x-oc-16gb.webp"
+  },
+  {
+    "id": "inno3d_rtx_5070_twin_x2_12gb_gddr7",
+    "brand": "Inno3D",
+    "series": "Twin X2",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 34999,
+    "price_usd": 699,
+    "price_eur": 729,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 250,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End",
+      "ray_tracing_performance": "Extreme+ (5th Gen RT)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5070-twin-x2.webp"
+  },
+  {
+    "id": "msi_rtx_5060_ti_gaming_oc_16gb_gddr7",
+    "brand": "MSI",
+    "series": "Gaming OC",
+    "model": "GeForce RTX 5060 Ti 16GB",
+    "vram": "16 GB GDDR7",
+    "price_tr": 32999,
+    "price_usd": 679,
+    "price_eur": 699,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 247,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Entry (DLSS 4)",
+      "fps_tier": "Extreme Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5060-ti-gaming-oc-16gb.webp"
+  },
+  {
+    "id": "inno3d_rtx_5070_twin_x2_oc_white_12gb_gddr7",
+    "brand": "Inno3D",
+    "series": "Twin X2 OC White",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 36499,
+    "price_usd": 729,
+    "price_eur": 759,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 250,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End",
+      "ray_tracing_performance": "Extreme+ (5th Gen RT)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5070-twin-x2-oc-white.webp"
+  },
+  {
+    "id": "inno3d_rtx_5070_twin_x2_oc_12gb_gddr7",
+    "brand": "Inno3D",
+    "series": "Twin X2 OC",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 35850,
+    "price_usd": 719,
+    "price_eur": 749,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 250,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5070-twin-x2-oc.webp"
+  },
+  {
+    "id": "msi_rtx_5070_shadow_2x_oc_12g_gddr7",
+    "brand": "MSI",
+    "series": "Shadow 2X OC",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 36999,
+    "price_usd": 739,
+    "price_eur": 769,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 242,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5070-shadow-2x-oc.webp"
+  },
+  {
+    "id": "msi_rtx_5070_ventus_2x_oc_12g_gddr7",
+    "brand": "MSI",
+    "series": "Ventus 2X OC",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 37450,
+    "price_usd": 749,
+    "price_eur": 779,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 242,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5070-ventus-2x-oc.webp"
+  },
+  {
+    "id": "inno3d_rtx_5070_x3_oc_12gb_gddr7",
+    "brand": "Inno3D",
+    "series": "X3 OC (Triple Fan)",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 38999,
+    "price_usd": 779,
+    "price_eur": 809,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 297,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End (Cooling Optimized)",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5070-x3-oc.webp"
+  },
+  {
+    "id": "asus_dual_rtx_5060_ti_oc_16gb_gddr7",
+    "brand": "ASUS",
+    "series": "Dual OC",
+    "model": "GeForce RTX 5060 Ti 16GB",
+    "vram": "16 GB GDDR7",
+    "price_tr": 29499,
+    "price_usd": 599,
+    "price_eur": 629,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 227,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Entry (DLSS 4)",
+      "fps_tier": "High-End Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/asus-dual-rtx-5060-ti-oc-16gb.webp"
+  },
+  {
+    "id": "zotac_rtx_5070_twin_edge_12gb_gddr7",
+    "brand": "Zotac",
+    "series": "Gaming Twin Edge",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 34499,
+    "price_usd": 689,
+    "price_eur": 719,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 231,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5070-twin-edge.webp"
+  },
+  {
+    "id": "zotac_rtx_5070_gaming_solid_12gb_gddr7",
+    "brand": "Zotac",
+    "series": "Gaming SOLID",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 35999,
+    "price_usd": 719,
+    "price_eur": 749,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 245,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5070-solid.webp"
+  },
+  {
+    "id": "asus_dual_rtx_5060_ti_oc_white_16gb_gddr7",
+    "brand": "ASUS",
+    "series": "Dual OC White",
+    "model": "GeForce RTX 5060 Ti 16GB",
+    "vram": "16 GB GDDR7",
+    "price_tr": 30999,
+    "price_usd": 619,
+    "price_eur": 639,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 227,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Entry (DLSS 4)",
+      "fps_tier": "High-End Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/asus-dual-rtx-5060-ti-oc-white-16gb.webp"
+  },
+  {
+    "id": "gigabyte_rtx_5070_eagle_oc_sff_12g_gddr7",
+    "brand": "Gigabyte",
+    "series": "Eagle OC SFF",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 37250,
+    "price_usd": 745,
+    "price_eur": 765,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 201,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End (ITX Optimized)",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/gigabyte-rtx-5070-eagle-oc-sff.webp"
+  },
+  {
+    "id": "msi_rtx_5070_ventus_2x_oc_white_12g_gddr7",
+    "brand": "MSI",
+    "series": "Ventus 2X OC White",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 38450,
+    "price_usd": 769,
+    "price_eur": 799,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 242,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5070-ventus-2x-oc-white.webp"
+  },
+  {
+    "id": "msi_rtx_5070_shadow_3x_oc_12gb_gddr7",
+    "brand": "MSI",
+    "series": "Shadow 3X OC",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 39999,
+    "price_usd": 799,
+    "price_eur": 829,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 307,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid-High (DLSS 4)",
+      "fps_tier": "High-End (Triple Fan)",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5070-shadow-3x-oc.webp"
+  },
+  {
+    "id": "gpu_msi_rtx_5070_shadow_3x_oc_12gb_gddr7",
+    "brand": "MSI",
+    "series": "Shadow 3X OC",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 39999,
+    "price_usd": 799,
+    "price_eur": 829,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 307,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid-High (DLSS 4)",
+      "fps_tier": "High-End (Triple Fan)",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5070-shadow-3x-oc.webp"
+  },
+  {
+    "id": "asus_prime_rtx_5060_ti_oc_16gb_gddr7",
+    "brand": "ASUS",
+    "series": "Prime OC",
+    "model": "GeForce RTX 5060 Ti 16GB",
+    "vram": "16 GB GDDR7",
+    "price_tr": 29999,
+    "price_usd": 615,
+    "price_eur": 635,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 202,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Entry (DLSS 4)",
+      "fps_tier": "High-End Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/asus-prime-rtx-5060-ti-oc-16gb.webp"
+  },
+  {
+    "id": "zotac_rtx_5070_gaming_amp_white_12gb_gddr7",
+    "brand": "Zotac",
+    "series": "Gaming AMP White",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 37999,
+    "price_usd": 759,
+    "price_eur": 789,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 232,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5070-amp-white.webp"
+  },
+  {
+    "id": "msi_rtx_5070_inspire_3x_oc_12g_gddr7",
+    "brand": "MSI",
+    "series": "Inspire 3X OC",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 40999,
+    "price_usd": 819,
+    "price_eur": 849,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 308,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K High (DLSS 4)",
+      "fps_tier": "High-End (Premium Cooling)",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5070-inspire-3x-oc.webp"
+  },
+  {
+    "id": "msi_rtx_5070_gaming_trio_oc_12gb_gddr7",
+    "brand": "MSI",
+    "series": "Gaming Trio OC",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 42450,
+    "price_usd": 849,
+    "price_eur": 879,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 325,
+      "slot_thickness": 2.8,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K High (DLSS 4)",
+      "fps_tier": "High-End (Flagship Air)",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5070-gaming-trio-oc.webp"
+  },
+  {
+    "id": "zotac_rtx_5070_gaming_solid_oc_12gb_gddr7",
+    "brand": "Zotac",
+    "series": "Gaming SOLID OC",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 37499,
+    "price_usd": 749,
+    "price_eur": 779,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 245,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5070-solid-oc.webp"
+  },
+  {
+    "id": "asus_dual_rtx_5070_oc_12g_gddr7",
+    "brand": "ASUS",
+    "series": "Dual OC",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 38499,
+    "price_usd": 759,
+    "price_eur": 779,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 267,
+      "slot_thickness": 2.56,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/asus-dual-rtx-5070-oc.webp"
+  },
+  {
+    "id": "gigabyte_rtx_5070_gaming_oc_12g_gddr7",
+    "brand": "Gigabyte",
+    "series": "Gaming OC",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 41250,
+    "price_usd": 819,
+    "price_eur": 839,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 300,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid-High (DLSS 4)",
+      "fps_tier": "High-End (Windforce Cooling)",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/gigabyte-rtx-5070-gaming-oc.webp"
+  },
+  {
+    "id": "asus_prime_rtx_5070_oc_white_12g_gddr7",
+    "brand": "ASUS",
+    "series": "Prime OC White",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 39999,
+    "price_usd": 789,
+    "price_eur": 815,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 269,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End (SFF-Ready)",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/asus-prime-rtx-5070-oc-white.webp"
+  },
+  {
+    "id": "asus_tuf_rtx_5060_ti_oc_16gb_gddr7",
+    "brand": "ASUS",
+    "series": "TUF Gaming OC",
+    "model": "GeForce RTX 5060 Ti 16GB",
+    "vram": "16 GB GDDR7",
+    "price_tr": 32999,
+    "price_usd": 669,
+    "price_eur": 689,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 300,
+      "slot_thickness": 3.12,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Entry (DLSS 4)",
+      "fps_tier": "High-End Mid-Range (Military Grade)",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/asus-tuf-rtx-5060-ti-oc-16gb.webp"
+  },
+  {
+    "id": "inno3d_rtx_5070_ti_x3_16gb_gddr7",
+    "brand": "Inno3D",
+    "series": "X3 (Triple Fan)",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 44999,
+    "price_usd": 899,
+    "price_eur": 929,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 297,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K High (DLSS 4)",
+      "fps_tier": "Enthusiast Tier",
+      "ray_tracing_performance": "God-Tier (5th Gen RT)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5070-ti-x3.webp"
+  },
+  {
+    "id": "inno3d_rtx_5070_ti_x3_oc_16gb_gddr7",
+    "brand": "Inno3D",
+    "series": "X3 OC",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 46450,
+    "price_usd": 929,
+    "price_eur": 959,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 297,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K High (DLSS 4)",
+      "fps_tier": "Enthusiast Tier",
+      "ray_tracing_performance": "God-Tier (5th Gen RT)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5070-ti-x3-oc.webp"
+  },
+  {
+    "id": "inno3d_rtx_5070_ti_x3_oc_white_16gb_gddr7",
+    "brand": "Inno3D",
+    "series": "X3 OC White",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 47250,
+    "price_usd": 945,
+    "price_eur": 975,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 297,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K High (DLSS 4)",
+      "fps_tier": "Enthusiast Tier",
+      "ray_tracing_performance": "God-Tier (5th Gen RT)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5070-ti-x3-oc-white.webp"
+  },
+  {
+    "id": "msi_rtx_5070_ti_inspire_3x_oc_16gb_gddr7",
+    "brand": "MSI",
+    "series": "Inspire 3X OC",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 49999,
+    "price_usd": 999,
+    "price_eur": 1029,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 308,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra (DLSS 4)",
+      "fps_tier": "Elite Performance",
+      "ray_tracing_performance": "God-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5070-ti-inspire-3x-oc.webp"
+  },
+  {
+    "id": "asus_proart_rtx_5070_ti_oc_16gb_gddr7",
+    "brand": "ASUS",
+    "series": "ProArt OC",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 52450,
+    "price_usd": 1049,
+    "price_eur": 1079,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 300,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra / Rendering Workflows",
+      "fps_tier": "Elite Performance",
+      "ray_tracing_performance": "God-Tier (Pro-Grade)"
+    },
+    "asset_path": "assets/gpu_images/asus-proart-rtx-5070-ti-oc.webp"
+  },
+  {
+    "id": "zotac_rtx_5070_ti_gaming_solid_sff_oc_16gb_gddr7",
+    "brand": "Zotac",
+    "series": "Gaming SOLID SFF OC",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 48999,
+    "price_usd": 979,
+    "price_eur": 1009,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 234,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra (DLSS 4)",
+      "fps_tier": "Elite Performance (SFF Optimized)",
+      "ray_tracing_performance": "God-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5070-ti-solid-sff-oc.webp"
+  },
+  {
+    "id": "zotac_rtx_5070_ti_gaming_solid_core_oc_white_16gb_gddr7",
+    "brand": "Zotac",
+    "series": "Gaming SOLID CORE OC White",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 50450,
+    "price_usd": 1009,
+    "price_eur": 1039,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 306,
+      "slot_thickness": 2.8,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra (DLSS 4)",
+      "fps_tier": "Elite Performance",
+      "ray_tracing_performance": "God-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5070-ti-solid-core-oc-white.webp"
+  },
+  {
+    "id": "msi_rtx_5070_ti_shadow_3x_oc_16g_gddr7",
+    "brand": "MSI",
+    "series": "Shadow 3X OC",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 49250,
+    "price_usd": 985,
+    "price_eur": 1015,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 307,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra (DLSS 4)",
+      "fps_tier": "Elite Performance",
+      "ray_tracing_performance": "God-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5070-ti-shadow-3x-oc.webp"
+  },
+  {
+    "id": "msi_rtx_5070_ti_ventus_3x_oc_16g_gddr7",
+    "brand": "MSI",
+    "series": "Ventus 3X OC",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 50999,
+    "price_usd": 1019,
+    "price_eur": 1049,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 308,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra (DLSS 4)",
+      "fps_tier": "Elite Performance",
+      "ray_tracing_performance": "God-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5070-ti-ventus-3x-oc.webp"
+  },
+  {
+    "id": "asus_prime_rtx_5070_ti_oc_16gb_gddr7",
+    "brand": "ASUS",
+    "series": "Prime OC",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 51999,
+    "price_usd": 1029,
+    "price_eur": 1059,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 269,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra (DLSS 4)",
+      "fps_tier": "Elite Performance",
+      "ray_tracing_performance": "God-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/asus-prime-rtx-5070-ti-oc.webp"
+  },
+  {
+    "id": "zotac_rtx_5080_gaming_solid_core_oc_16gb_gddr7",
+    "brand": "Zotac",
+    "series": "Gaming SOLID CORE OC",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 68499,
+    "price_usd": 1399,
+    "price_eur": 1449,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 332,
+      "slot_thickness": 3.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS",
+      "fps_tier": "Ultimate Performance",
+      "ray_tracing_performance": "Titan-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5080-solid-core-oc.webp"
+  },
+  {
+    "id": "asus_tuf_rtx_5070_ti_gaming_oc_16gb_gddr7",
+    "brand": "ASUS",
+    "series": "TUF Gaming OC",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 54999,
+    "price_usd": 1099,
+    "price_eur": 1129,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 305,
+      "slot_thickness": 3.25,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra (DLSS 4)",
+      "fps_tier": "Elite Performance",
+      "ray_tracing_performance": "God-Tier (Military Grade Cooling)"
+    },
+    "asset_path": "assets/gpu_images/asus-tuf-rtx-5070-ti-oc.webp"
+  },
+  {
+    "id": "inno3d_rtx_5080_x3_16gb_gddr7",
+    "brand": "Inno3D",
+    "series": "X3 (Triple Fan)",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 64999,
+    "price_usd": 1299,
+    "price_eur": 1349,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 337,
+      "slot_thickness": 3.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS",
+      "fps_tier": "Ultimate Performance",
+      "ray_tracing_performance": "Titan-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5080-x3.webp"
+  },
+  {
+    "id": "inno3d_rtx_5080_x3_oc_16gb_gddr7",
+    "brand": "Inno3D",
+    "series": "X3 OC",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 66450,
+    "price_usd": 1329,
+    "price_eur": 1379,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 337,
+      "slot_thickness": 3.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS",
+      "fps_tier": "Ultimate Performance",
+      "ray_tracing_performance": "Titan-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/inno3d-rtx-5080-x3-oc.webp"
+  },
+  {
+    "id": "msi_rtx_5080_ventus_3x_oc_16g_gddr7",
+    "brand": "MSI",
+    "series": "Ventus 3X OC",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 72999,
+    "price_usd": 1499,
+    "price_eur": 1549,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 308,
+      "slot_thickness": 3.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS / 8K Entry",
+      "fps_tier": "Ultimate Performance",
+      "ray_tracing_performance": "Titan-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5080-ventus-3x-oc.webp"
+  },
+  {
+    "id": "zotac_rtx_5080_gaming_solid_core_16gb_gddr7",
+    "brand": "Zotac",
+    "series": "Gaming SOLID CORE",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 66999,
+    "price_usd": 1369,
+    "price_eur": 1419,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 332,
+      "slot_thickness": 3.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS",
+      "fps_tier": "Ultimate Performance",
+      "ray_tracing_performance": "Titan-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5080-solid-core.webp"
+  },
+  {
+    "id": "msi_rtx_5080_shadow_3x_oc_16g_gddr7",
+    "brand": "MSI",
+    "series": "Shadow 3X OC",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 71499,
+    "price_usd": 1469,
+    "price_eur": 1519,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 307,
+      "slot_thickness": 3.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS",
+      "fps_tier": "Ultimate Performance",
+      "ray_tracing_performance": "Titan-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5080-shadow-3x-oc.webp"
+  },
+  {
+    "id": "msi_rtx_5080_ventus_3x_oc_white_16g_gddr7",
+    "brand": "MSI",
+    "series": "Ventus 3X OC White",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 74499,
+    "price_usd": 1529,
+    "price_eur": 1579,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 308,
+      "slot_thickness": 3.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS",
+      "fps_tier": "Ultimate Performance",
+      "ray_tracing_performance": "Titan-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5080-ventus-3x-oc-white.webp"
+  },
+  {
+    "id": "msi_rtx_5080_inspire_3x_oc_16gb_gddr7",
+    "brand": "MSI",
+    "series": "Inspire 3X OC",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 76499,
+    "price_usd": 1549,
+    "price_eur": 1599,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 308,
+      "slot_thickness": 3.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS / 8K Entry",
+      "fps_tier": "Ultimate Performance",
+      "ray_tracing_performance": "Titan-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5080-inspire-3x-oc.webp"
+  },
+  {
+    "id": "asus_proart_rtx_5080_oc_16gb_gddr7",
+    "brand": "ASUS",
+    "series": "ProArt OC",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 82999,
+    "price_usd": 1699,
+    "price_eur": 1749,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 300,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS / Rendering Workflows",
+      "fps_tier": "Ultimate Performance",
+      "ray_tracing_performance": "Titan-Tier (Pro-Grade)"
+    },
+    "asset_path": "assets/gpu_images/asus-proart-rtx-5080-oc.webp"
+  },
+  {
+    "id": "asus_rog_astral_rtx_5080_oc_16gb_gddr7",
+    "brand": "ASUS",
+    "series": "ROG Astral OC",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 89999,
+    "price_usd": 1849,
+    "price_eur": 1899,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 352,
+      "slot_thickness": 3.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1000,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra Max / 8K Ready",
+      "fps_tier": "Apex Performance",
+      "ray_tracing_performance": "Beyond Titan (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/asus-rog-astral-rtx-5080-oc.webp"
+  },
+  {
+    "id": "msi_rtx_5080_vanguard_soc_16gb_gddr7",
+    "brand": "MSI",
+    "series": "Vanguard SOC",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 94450,
+    "price_usd": 1949,
+    "price_eur": 1999,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 345,
+      "slot_thickness": 3.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1000,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra Max / 8K Ready",
+      "fps_tier": "Apex Performance",
+      "ray_tracing_performance": "Beyond Titan (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5080-vanguard-soc.webp"
+  },
+  {
+    "id": "msi_rtx_5080_gaming_trio_oc_16gb_gddr7",
+    "brand": "MSI",
+    "series": "Gaming Trio OC",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 78999,
+    "price_usd": 1599,
+    "price_eur": 1649,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 337,
+      "slot_thickness": 3.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS / 8K Entry",
+      "fps_tier": "Ultimate Performance",
+      "ray_tracing_performance": "Titan-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5080-gaming-trio-oc.webp"
+  },
+  {
+    "id": "msi_rtx_5080_vanguard_soc_launch_edition_16gb_gddr7",
+    "brand": "MSI",
+    "series": "Vanguard SOC Launch Edition",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 98999,
+    "price_usd": 2049,
+    "price_eur": 2099,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 345,
+      "slot_thickness": 3.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1000,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra Max / 8K Ready",
+      "fps_tier": "Apex Performance",
+      "ray_tracing_performance": "Beyond Titan (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5080-vanguard-soc-launch.webp"
+  },
+  {
+    "id": "gpu_msi_rtx_5080_vanguard_soc_launch_edition_16gb_gddr7",
+    "brand": "MSI",
+    "series": "Vanguard SOC Launch Edition",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 98999,
+    "price_usd": 2049,
+    "price_eur": 2099,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 345,
+      "slot_thickness": 3.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1000,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra Max / 8K Ready",
+      "fps_tier": "Apex Performance",
+      "ray_tracing_performance": "Beyond Titan (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5080-vanguard-soc-launch.webp"
+  },
+  {
+    "id": "asus_rtx_5080_noctua_oc_edition_16gb_gddr7",
+    "brand": "ASUS",
+    "series": "Noctua OC",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 92450,
+    "price_usd": 1899,
+    "price_eur": 1949,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 310,
+      "slot_thickness": 4.3,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS",
+      "fps_tier": "Ultimate Performance (Silent Master)",
+      "ray_tracing_performance": "Titan-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/asus-rtx-5080-noctua-oc.webp"
+  },
+  {
+    "id": "msi_rtx_5080_suprim_liquid_soc_16gb_gddr7",
+    "brand": "MSI",
+    "series": "Suprim Liquid SOC",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 96999,
+    "price_usd": 1999,
+    "price_eur": 2049,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 280,
+      "slot_thickness": 2.0,
+      "radiator_size": "240mm",
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1000,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra Max / 8K Ready",
+      "fps_tier": "Apex Performance (Liquid Cooled)",
+      "ray_tracing_performance": "Beyond Titan (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5080-suprim-liquid-soc.webp"
+  },
+  {
+    "id": "asus_rog_astral_rtx_5080_oc_white_16gb_gddr7",
+    "brand": "ASUS",
+    "series": "ROG Astral OC White",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 92999,
+    "price_usd": 1899,
+    "price_eur": 1949,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 352,
+      "slot_thickness": 3.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1000,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra Max / 8K Ready",
+      "fps_tier": "Apex Performance",
+      "ray_tracing_performance": "Beyond Titan (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/asus-rog-astral-rtx-5080-oc-white.webp"
+  },
+  {
+    "id": "asus_rog_astral_rtx_5080_oc_hatsune_miku_16gb_gddr7",
+    "brand": "ASUS",
+    "series": "ROG Astral OC Special Edition",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 104999,
+    "price_usd": 2199,
+    "price_eur": 2249,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 352,
+      "slot_thickness": 3.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1000,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra Max / 8K Ready",
+      "fps_tier": "Apex Performance (Collector Item)",
+      "ray_tracing_performance": "Beyond Titan (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/asus-rog-astral-rtx-5080-oc-miku.webp"
+  },
+  {
+    "id": "asus_tuf_rtx_5080_gaming_oc_16g_gddr7",
+    "brand": "ASUS",
+    "series": "TUF Gaming OC",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 78450,
+    "price_usd": 1599,
+    "price_eur": 1649,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 348,
+      "slot_thickness": 3.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS",
+      "fps_tier": "Ultimate Performance",
+      "ray_tracing_performance": "Titan-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/asus-tuf-rtx-5080-gaming-oc.webp"
+  },
+  {
+    "id": "colorful_gaming_duo_rtx_5060_ti_8gb_gddr7",
+    "brand": "Colorful",
+    "series": "Gaming Duo",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "8 GB GDDR7",
+    "price_tr": 23499,
+    "price_usd": 499,
+    "price_eur": 515,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 230,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 4)",
+      "fps_tier": "Mid-Range",
+      "ray_tracing_performance": "High (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/colorful-rtx-5060-ti-gaming-duo.webp"
+  },
+  {
+    "id": "gainward_rtx_3050_pegasus_6gb_gddr6",
+    "brand": "Gainward",
+    "series": "Pegasus",
+    "model": "GeForce RTX 3050",
+    "vram": "6 GB GDDR6",
+    "price_tr": 6899,
+    "price_usd": 179,
+    "price_eur": 185,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 162,
+      "slot_thickness": 2.0,
+      "pcie_version": "4.0 x8",
+      "recommended_psu_watt": 450,
+      "power_pins": "None (Slot Power)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Medium/High",
+      "fps_tier": "Entry-Level",
+      "ray_tracing_performance": "Basic (Ampere)"
+    },
+    "asset_path": "assets/gpu_images/gainward-rtx-3050-pegasus.webp"
+  },
+  {
+    "id": "gainward_rtx_5060_ghost_8gb_gddr7",
+    "brand": "Gainward",
+    "series": "Ghost",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 18499,
+    "price_usd": 399,
+    "price_eur": 415,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 245,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra (DLSS 4)",
+      "fps_tier": "Mid-Range Entry",
+      "ray_tracing_performance": "High (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/gainward-rtx-5060-ghost.webp"
+  },
+  {
+    "id": "gainward_rtx_5060_ti_ghost_8gb_gddr7",
+    "brand": "Gainward",
+    "series": "Ghost",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "8 GB GDDR7",
+    "price_tr": 22999,
+    "price_usd": 489,
+    "price_eur": 505,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 245,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p Mid-High (DLSS 4)",
+      "fps_tier": "Mid-Range",
+      "ray_tracing_performance": "High (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/gainward-rtx-5060-ti-ghost.webp"
+  },
+  {
+    "id": "gainward_rtx_5060_ti_ghost_oc_16gb_gddr7",
+    "brand": "Gainward",
+    "series": "Ghost OC",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 27499,
+    "price_usd": 579,
+    "price_eur": 599,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 245,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra (DLSS 4)",
+      "fps_tier": "Mid-Range Elite",
+      "ray_tracing_performance": "High+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/gainward-rtx-5060-ti-ghost-oc-16gb.webp"
+  },
+  {
+    "id": "gainward_rtx_5070_python_iii_12gb_gddr7",
+    "brand": "Gainward",
+    "series": "Python III",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 34999,
+    "price_usd": 699,
+    "price_eur": 725,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 240,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/gainward-rtx-5070-python-iii.webp"
+  },
+  {
+    "id": "gainward_rtx_5070_python_iii_oc_12gb_gddr7",
+    "brand": "Gainward",
+    "series": "Python III OC",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 36499,
+    "price_usd": 729,
+    "price_eur": 755,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 240,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/gainward-rtx-5070-python-iii-oc.webp"
+  },
+  {
+    "id": "gainward_rtx_5080_phoenix_v1_16gb_gddr7",
+    "brand": "Gainward",
+    "series": "Phoenix V1",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 69999,
+    "price_usd": 1399,
+    "price_eur": 1449,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 328,
+      "slot_thickness": 3.1,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS",
+      "fps_tier": "Ultimate Performance",
+      "ray_tracing_performance": "Titan-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/gainward-rtx-5080-phoenix-v1.webp"
+  },
+  {
+    "id": "pny_rtx_5060_8gb_gddr7_black",
+    "brand": "PNY",
+    "series": "Black Edition",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 17999,
+    "price_usd": 389,
+    "price_eur": 399,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 210,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p Mid (DLSS 4)",
+      "fps_tier": "Mid-Range Entry",
+      "ray_tracing_performance": "High (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/pny-rtx-5060-black.webp"
+  },
+  {
+    "id": "pny_rtx_5070_12gb_gddr7",
+    "brand": "PNY",
+    "series": "VERTO Dual Fan",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 33999,
+    "price_usd": 679,
+    "price_eur": 699,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 247,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/pny-rtx-5070-12gb.webp"
+  },
+  {
+    "id": "gpu_pny_rtx_5070_12gb_oc_argb_gddr7",
+    "brand": "PNY",
+    "series": "VERTO OC Dual Fan",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 35499,
+    "price_usd": 709,
+    "price_eur": 729,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 247,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/pny-rtx-5070-12gb-oc-argb_ddr7.webp"
+  },
+  {
+    "id": "galax_rtx_5060_ti_1_click_oc_8gb_gddr7",
+    "brand": "Galax",
+    "series": "1-Click OC",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "8 GB GDDR7",
+    "price_tr": 21999,
+    "price_usd": 469,
+    "price_eur": 485,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 251,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High (DLSS 4)",
+      "fps_tier": "Mid-Range",
+      "ray_tracing_performance": "High (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5060-ti-1-click-oc.webp"
+  },
+  {
+    "id": "galax_rtx_5050_1_click_oc_v2_8gb_gddr6",
+    "brand": "Galax",
+    "series": "1-Click OC V2",
+    "model": "GeForce RTX 5050",
+    "vram": "8 GB GDDR6",
+    "price_tr": 12499,
+    "price_usd": 279,
+    "price_eur": 289,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 208,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 450,
+      "power_pins": "1 x 6-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p High (DLSS 4)",
+      "fps_tier": "Entry-Level King",
+      "ray_tracing_performance": "Medium (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5050-1-click-oc-v2.webp"
+  },
+  {
+    "id": "galax_rtx_5080_1_click_oc_white_16gb_gddr7",
+    "brand": "Galax",
+    "series": "1-Click OC White",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 71999,
+    "price_usd": 1459,
+    "price_eur": 1499,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 330,
+      "slot_thickness": 3.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS",
+      "fps_tier": "Ultimate Performance",
+      "ray_tracing_performance": "Titan-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5080-1-click-oc-white.webp"
+  },
+  {
+    "id": "galax_rtx_5080_ex_gamer_1_click_oc_16gb_gddr7",
+    "brand": "Galax",
+    "series": "EX Gamer 1-Click OC",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 74499,
+    "price_usd": 1499,
+    "price_eur": 1549,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 336,
+      "slot_thickness": 3.3,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS",
+      "fps_tier": "Ultimate Performance",
+      "ray_tracing_performance": "Titan-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5080-ex-gamer-oc.webp"
+  },
+  {
+    "id": "gpu_galax_rtx_5080_ex_gamer_1_click_oc_16gb_gddr7",
+    "brand": "Galax",
+    "series": "EX Gamer 1-Click OC",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 74499,
+    "price_usd": 1499,
+    "price_eur": 1549,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 336,
+      "slot_thickness": 3.3,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS",
+      "fps_tier": "Ultimate Performance",
+      "ray_tracing_performance": "Titan-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5080-ex-gamer-oc.webp"
+  },
+  {
+    "id": "galax_rtx_5080_ex_gamer_1_click_oc_white_16gb_gddr7",
+    "brand": "Galax",
+    "series": "EX Gamer 1-Click OC White",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 75999,
+    "price_usd": 1529,
+    "price_eur": 1579,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 336,
+      "slot_thickness": 3.3,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS",
+      "fps_tier": "Ultimate Performance",
+      "ray_tracing_performance": "Titan-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5080-ex-gamer-oc-white.webp"
+  },
+  {
+    "id": "galax_rtx_5070_ex_gamer_1_click_oc_white_12gb_gddr7",
+    "brand": "Galax",
+    "series": "EX Gamer 1-Click OC White",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 39999,
+    "price_usd": 799,
+    "price_eur": 825,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 323,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5070-ex-gamer-oc-white.webp"
+  },
+  {
+    "id": "galax_rtx_4060_1_click_oc_2x_8gb_gddr6",
+    "brand": "Galax",
+    "series": "1-Click OC 2X",
+    "model": "GeForce RTX 4060",
+    "vram": "8 GB GDDR6",
+    "price_tr": 11999,
+    "price_usd": 299,
+    "price_eur": 310,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 241,
+      "slot_thickness": 2.0,
+      "pcie_version": "4.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra (DLSS 3)",
+      "fps_tier": "Budget King",
+      "ray_tracing_performance": "Mid (Lovelace)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-4060-1-click-oc-2x.webp"
+  },
+  {
+    "id": "galax_rtx_5060_1_click_oc_8gb_gddr7",
+    "brand": "Galax",
+    "series": "1-Click OC",
+    "model": "GeForce RTX 5060",
+    "vram": "8 GB GDDR7",
+    "price_tr": 16499,
+    "price_usd": 379,
+    "price_eur": 389,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 251,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 550,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra Max (DLSS 4)",
+      "fps_tier": "Mid-Range Entry",
+      "ray_tracing_performance": "High (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5060-1-click-oc.webp"
+  },
+  {
+    "id": "galax_rtx_5060_ti_1_click_oc_16gb_gddr7",
+    "brand": "Galax",
+    "series": "1-Click OC",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 26499,
+    "price_usd": 549,
+    "price_eur": 565,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 251,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra (DLSS 4)",
+      "fps_tier": "High Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5060-ti-1-click-oc-16gb.webp"
+  },
+  {
+    "id": "gpu_galax_rtx_5060_ti_1_click_oc_16gb_gddr7",
+    "brand": "Galax",
+    "series": "1-Click OC",
+    "model": "GeForce RTX 5060 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 26499,
+    "price_usd": 549,
+    "price_eur": 565,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 251,
+      "slot_thickness": 2.0,
+      "pcie_version": "5.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "1 x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra (DLSS 4)",
+      "fps_tier": "High Mid-Range",
+      "ray_tracing_performance": "Extreme (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5060-ti-1-click-oc-16gb.webp"
+  },
+  {
+    "id": "galax_rtx_5070_ex_gamer_1_click_oc_12gb_gddr7",
+    "brand": "Galax",
+    "series": "EX Gamer 1-Click OC",
+    "model": "GeForce RTX 5070",
+    "vram": "12 GB GDDR7",
+    "price_tr": 37999,
+    "price_usd": 759,
+    "price_eur": 779,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 323,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 700,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p Ultra / 4K Mid (DLSS 4)",
+      "fps_tier": "High-End",
+      "ray_tracing_performance": "Extreme+ (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5070-ex-gamer-oc.webp"
+  },
+  {
+    "id": "galax_rtx_5070_ti_1_click_oc_16gb_gddr7",
+    "brand": "Galax",
+    "series": "1-Click OC",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 43999,
+    "price_usd": 879,
+    "price_eur": 899,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 300,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra (DLSS 4)",
+      "fps_tier": "Elite Performance",
+      "ray_tracing_performance": "God-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5070-ti-1-click-oc.webp"
+  },
+  {
+    "id": "galax_rtx_5070_ti_1_click_oc_2x_16gb_gddr7",
+    "brand": "Galax",
+    "series": "1-Click OC 2X",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 42499,
+    "price_usd": 849,
+    "price_eur": 869,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 251,
+      "slot_thickness": 2.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra (DLSS 4)",
+      "fps_tier": "Elite Performance (Compact)",
+      "ray_tracing_performance": "God-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5070-ti-1-click-oc-2x.webp"
+  },
+  {
+    "id": "galax_rtx_5070_ti_1_click_oc_white_16gb_gddr7",
+    "brand": "Galax",
+    "series": "1-Click OC White",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 44999,
+    "price_usd": 899,
+    "price_eur": 929,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 300,
+      "slot_thickness": 2.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K High / 1440p Ultra (DLSS 4)",
+      "fps_tier": "Elite Performance",
+      "ray_tracing_performance": "God-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5070-ti-1-click-oc-white.webp"
+  },
+  {
+    "id": "galax_rtx_5070_ti_ex_gamer_1_click_oc_16gb_gddr7_",
+    "brand": "Galax",
+    "series": "EX Gamer 1-Click OC",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 46999,
+    "price_usd": 939,
+    "price_eur": 969,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 323,
+      "slot_thickness": 2.8,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K High / 1440p Ultra (DLSS 4)",
+      "fps_tier": "Elite Performance",
+      "ray_tracing_performance": "God-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5070-ti-ex-gamer-oc.webp"
+  },
+  {
+    "id": "galax_rtx_5070_ti_ex_gamer_1_click_oc_white_16gb_gddr7",
+    "brand": "Galax",
+    "series": "EX Gamer 1-Click OC White",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 47999,
+    "price_usd": 959,
+    "price_eur": 989,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 323,
+      "slot_thickness": 2.8,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K High / 1440p Ultra (DLSS 4)",
+      "fps_tier": "Elite Performance",
+      "ray_tracing_performance": "God-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5070-ti-ex-gamer-oc-white.webp"
+  },
+  {
+    "id": "galax_rtx_5070_ti_hof_black_edition_16gb_gddr7",
+    "brand": "Galax",
+    "series": "HOF Gaming Black Edition",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 54499,
+    "price_usd": 1089,
+    "price_eur": 1125,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 344,
+      "slot_thickness": 3.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra / Extreme OC Workflows",
+      "fps_tier": "Apex Performance (Enthusiast)",
+      "ray_tracing_performance": "God-Tier (HOF Tuned)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5070-ti-hof-black.webp"
+  },
+  {
+    "id": "galax_rtx_5070_ti_hof_white_16gb_gddr7",
+    "brand": "Galax",
+    "series": "HOF Gaming White",
+    "model": "GeForce RTX 5070 Ti",
+    "vram": "16 GB GDDR7",
+    "price_tr": 55999,
+    "price_usd": 1119,
+    "price_eur": 1149,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 344,
+      "slot_thickness": 3.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra / OC Benchmarking",
+      "fps_tier": "Apex Performance (Enthusiast)",
+      "ray_tracing_performance": "God-Tier (Blackwell HOF)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5070-ti-hof-white.webp"
+  },
+  {
+    "id": "galax_rtx_5080_1_click_oc_16gb_gddr7",
+    "brand": "Galax",
+    "series": "1-Click OC",
+    "model": "GeForce RTX 5080",
+    "vram": "16 GB GDDR7",
+    "price_tr": 69499,
+    "price_usd": 1389,
+    "price_eur": 1429,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 330,
+      "slot_thickness": 3.2,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 850,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Ultra High-FPS",
+      "fps_tier": "Ultimate Performance",
+      "ray_tracing_performance": "Titan-Tier (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5080-1-click-oc.webp"
+  },
+  {
+    "id": "galax_rtx_5090_1_click_oc_32gb_gddr7",
+    "brand": "Galax",
+    "series": "1-Click OC",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 124999,
+    "price_usd": 2499,
+    "price_eur": 2549,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 352,
+      "slot_thickness": 3.8,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1200,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Gaming / AI Workloads",
+      "fps_tier": "God-Tier Performance",
+      "ray_tracing_performance": "Unmatched (Blackwell Flagship)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5090-1-click-oc.webp"
+  },
+  {
+    "id": "galax_rtx_5090_d_1_click_oc_32gb_gddr7",
+    "brand": "Galax",
+    "series": "1-Click OC (D Series)",
+    "model": "GeForce RTX 5090 D",
+    "vram": "32 GB GDDR7",
+    "price_tr": 118499,
+    "price_usd": 2369,
+    "price_eur": 2419,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 352,
+      "slot_thickness": 3.8,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1200,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Gaming / AI / Deep Learning",
+      "fps_tier": "God-Tier Performance",
+      "ray_tracing_performance": "Unmatched (Blackwell Flagship)"
+    },
+    "asset_path": "assets/gpu_images/galax-rtx-5090-d-1-click-oc.webp"
+  },
+  {
+    "id": "asus_rog_matrix_platinum_rtx_5090_30th_anniversary",
+    "brand": "ASUS",
+    "series": "ROG Matrix Platinum",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 174999,
+    "price_usd": 3499,
+    "price_eur": 3599,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 280,
+      "slot_thickness": 2.5,
+      "radiator_size": "360mm",
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1200,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Ultra / Extreme Overclocking",
+      "fps_tier": "Heavenly Tier (Liquid Cooled)",
+      "ray_tracing_performance": "The Ultimate Blackwell Experience"
+    },
+    "asset_path": "assets/gpu_images/asus-rog-matrix-rtx-5090-30th.webp"
+  },
+  {
+    "id": "msi_rtx_5090_lightning_z_32gb_gddr7",
+    "brand": "MSI",
+    "series": "Lightning Z",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 159999,
+    "price_usd": 3199,
+    "price_eur": 3299,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 285,
+      "slot_thickness": 2.0,
+      "radiator_size": "360mm",
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1200,
+      "power_pins": "2 x 16-pin (12VHPWR) - Dual Support"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Gaming / AI Training",
+      "fps_tier": "God-Tier Performance (Liquid)",
+      "ray_tracing_performance": "The Apex of Blackwell"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5090-lightning-z.webp"
+  },
+  {
+    "id": "asus_rog_astral_lc_rtx_5090_oc_32gb_gddr7",
+    "brand": "ASUS",
+    "series": "ROG Astral LC OC",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 149450,
+    "price_usd": 2999,
+    "price_eur": 3099,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 293,
+      "slot_thickness": 2.5,
+      "radiator_size": "360mm",
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1200,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Ultra Max / Pro Rendering",
+      "fps_tier": "God-Tier Performance",
+      "ray_tracing_performance": "Elite Liquid Performance"
+    },
+    "asset_path": "assets/gpu_images/asus-rog-astral-lc-rtx-5090-oc.webp"
+  },
+  {
+    "id": "asus_tuf_gaming_rtx_5090_32gb_gddr7",
+    "brand": "ASUS",
+    "series": "TUF Gaming",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 114999,
+    "price_usd": 2299,
+    "price_eur": 2349,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 348,
+      "slot_thickness": 3.7,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1000,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Ultra / 4K Uncapped",
+      "fps_tier": "Ultimate Powerhouse",
+      "ray_tracing_performance": "Unmatched Air Cooled"
+    },
+    "asset_path": "assets/gpu_images/asus-tuf-rtx-5090.webp"
+  },
+  {
+    "id": "asus_tuf_gaming_rtx_5090_oc_32gb_gddr7",
+    "brand": "ASUS",
+    "series": "TUF Gaming OC",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 122450,
+    "price_usd": 2449,
+    "price_eur": 2499,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 348,
+      "slot_thickness": 3.7,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1000,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Ultra / Extreme Gaming",
+      "fps_tier": "Ultimate Powerhouse",
+      "ray_tracing_performance": "Unmatched Air Cooled"
+    },
+    "asset_path": "assets/gpu_images/asus-tuf-rtx-5090-oc.webp"
+  },
+  {
+    "id": "msi_rtx_5090_gaming_trio_oc_32gb_gddr7",
+    "brand": "MSI",
+    "series": "Gaming Trio OC",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 126999,
+    "price_usd": 2549,
+    "price_eur": 2599,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 337,
+      "slot_thickness": 3.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1000,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Gaming / 4K Ray Tracing Overdrive",
+      "fps_tier": "Ultimate Powerhouse",
+      "ray_tracing_performance": "Titan-Tier Plus"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5090-gaming-trio-oc.webp"
+  },
+  {
+    "id": "asus_rog_astral_rtx_5090_oc_32gb_gddr7",
+    "brand": "ASUS",
+    "series": "ROG Astral OC",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 144999,
+    "price_usd": 2899,
+    "price_eur": 2999,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 358,
+      "slot_thickness": 3.8,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1200,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Ultra Max / Machine Learning",
+      "fps_tier": "God-Tier Performance",
+      "ray_tracing_performance": "Unrivaled (Blackwell Air Flagship)"
+    },
+    "asset_path": "assets/gpu_images/asus-rog-astral-rtx-5090-oc.webp"
+  },
+  {
+    "id": "msi_rtx_5090_ventus_3x_32gb_gddr7",
+    "brand": "MSI",
+    "series": "Ventus 3X",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 112999,
+    "price_usd": 2249,
+    "price_eur": 2299,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 322,
+      "slot_thickness": 3.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1000,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Ultra / 4K Pro-Grade",
+      "fps_tier": "Ultimate Powerhouse",
+      "ray_tracing_performance": "Titan-Tier Plus"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5090-ventus-3x.webp"
+  },
+
+  {
+    "id": "msi_rtx_5090_suprim_liquid_soc_32gb_gddr7",
+    "brand": "MSI",
+    "series": "Suprim Liquid SOC",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 149999,
+    "price_usd": 2999,
+    "price_eur": 3099,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 280,
+      "slot_thickness": 2.0,
+      "radiator_size": "240mm",
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1200,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Ultra Max / Scientific Computing",
+      "fps_tier": "Heavenly Tier (Liquid Cooled)",
+      "ray_tracing_performance": "Beyond Titan (Blackwell Flagship)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5090-suprim-liquid-soc.webp"
+  },
+  {
+    "id": "msi_rtx_5090_suprim_soc_32gb_gddr7",
+    "brand": "MSI",
+    "series": "Suprim SOC",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 139999,
+    "price_usd": 2799,
+    "price_eur": 2849,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 342,
+      "slot_thickness": 3.7,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1000,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Ultra Max / 4K Overdrive",
+      "fps_tier": "Ultimate Powerhouse (Premium)",
+      "ray_tracing_performance": "Elite Air Cooled Performance"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5090-suprim-soc.webp"
+  },
+  {
+    "id": "msi_rtx_5090_vanguard_soc_32gb_gddr7",
+    "brand": "MSI",
+    "series": "Vanguard SOC",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 154999,
+    "price_usd": 3099,
+    "price_eur": 3149,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 348,
+      "slot_thickness": 3.8,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1200,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Ultra Max / Heavy AI",
+      "fps_tier": "God-Tier Performance",
+      "ray_tracing_performance": "Beyond Titan (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5090-vanguard-soc.webp"
+  },
+  {
+    "id": "msi_rtx_5090_vanguard_soc_launch_32gb_gddr7",
+    "brand": "MSI",
+    "series": "Vanguard SOC Launch Edition",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 162999,
+    "price_usd": 3249,
+    "price_eur": 3299,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 348,
+      "slot_thickness": 3.8,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1200,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Ultra Max / 10K DLSS Upscaling",
+      "fps_tier": "God-Tier Performance (Collector)",
+      "ray_tracing_performance": "Beyond Titan (Blackwell)"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5090-vanguard-soc-launch.webp"
+  },
+  {
+    "id": "gpu_asus_rog_astral_rtx_5090_32gb_gddr7",
+    "brand": "ASUS",
+    "series": "ROG Astral",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 136999,
+    "price_usd": 2749,
+    "price_eur": 2799,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 358,
+      "slot_thickness": 3.8,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1000,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Ultra / 4K Ray Tracing Overdrive",
+      "fps_tier": "God-Tier Performance",
+      "ray_tracing_performance": "Top-Tier Blackwell"
+    },
+    "asset_path": "assets/gpu_images/asus-rog-astral-rtx-5090.webp"
+  },
+  {
+    "id": "gpu_msi_rtx_5090_ventus_3x_oc_32gb_gddr7",
+    "brand": "MSI",
+    "series": "Ventus 3X OC",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 118999,
+    "price_usd": 2399,
+    "price_eur": 2449,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 322,
+      "slot_thickness": 3.0,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1000,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Ready / 4K Extreme",
+      "fps_tier": "Ultimate Powerhouse",
+      "ray_tracing_performance": "Titan-Tier Plus"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5090-ventus-3x-oc.webp"
+  },
+  {
+    "id": "asus_rog_astral_rtx_5090_btf_oc_32gb_gddr7",
+    "brand": "ASUS",
+    "series": "ROG Astral BTF OC",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 158450,
+    "price_usd": 3199,
+    "price_eur": 3249,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 358,
+      "slot_thickness": 3.8,
+      "pcie_version": "5.0 x16 (GC-HPWR Support Required)",
+      "recommended_psu_watt": 1200,
+      "power_pins": "Hidden Connector (BTF Standard)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Ultra / Zero Cable Aesthetics",
+      "fps_tier": "God-Tier Performance (Cable-Free)",
+      "ray_tracing_performance": "Unrivaled (Blackwell BTF)"
+    },
+    "asset_path": "assets/gpu_images/asus-rog-astral-rtx-5090-btf.webp"
+  },
+  {
+    "id": "asus_rog_astral_rtx_5090_dhahab_oc_32gb_gddr7",
+    "brand": "ASUS",
+    "series": "ROG Astral Dhahab OC",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 189999,
+    "price_usd": 3899,
+    "price_eur": 3999,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 358,
+      "slot_thickness": 3.8,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1200,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Ultra Max / AI Research",
+      "fps_tier": "God-Tier (Luxury Edition)",
+      "ray_tracing_performance": "The Ultimate Blackwell Experience"
+    },
+    "asset_path": "assets/gpu_images/asus-rog-astral-rtx-5090-dhahab.webp"
+  },
+  {
+    "id": "asus_rog_astral_lc_rtx_5090_32gb_gddr7",
+    "brand": "ASUS",
+    "series": "ROG Astral LC",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 141450,
+    "price_usd": 2849,
+    "price_eur": 2899,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 293,
+      "slot_thickness": 2.5,
+      "radiator_size": "360mm",
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1200,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Gaming / 4K Uncapped",
+      "fps_tier": "God-Tier (Liquid)",
+      "ray_tracing_performance": "Elite Blackwell Thermals"
+    },
+    "asset_path": "assets/gpu_images/asus-rog-astral-lc-rtx-5090.webp"
+  },
+  {
+    "id": "zotac_rtx_5090_gaming_solid_oc_32g",
+    "series": "Gaming Solid OC",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": "199.280 ₺",
+    "price_usd": "2.499,99 $",
+    "price_eur": "2.395,00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 356,
+      "slot_thickness": 3.5,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1000,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Ultra / 4K Uncapped Max",
+      "fps_tier": "The Ultimate King (Solid Build)",
+      "ray_tracing_performance": "God-Tier (Blackwell Architecture)"
+    },
+    "asset_path": "assets/gpu_images/zotac-rtx-5090-gaming-solid.webp"
+  },
+  {
+    "id": "msi_rtx_5090_suprim_oc_32gb_gddr7",
+    "brand": "MSI",
+    "series": "Suprim OC",
+    "model": "GeForce RTX 5090",
+    "vram": "32 GB GDDR7",
+    "price_tr": 134999,
+    "price_usd": 2699,
+    "price_eur": 2749,
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 342,
+      "slot_thickness": 3.7,
+      "pcie_version": "5.0 x16",
+      "recommended_psu_watt": 1000,
+      "power_pins": "1 x 16-pin (12VHPWR)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "8K Ultra / Professional Rendering",
+      "fps_tier": "Ultimate Powerhouse",
+      "ray_tracing_performance": "Titan-Tier Plus"
+    },
+    "asset_path": "assets/gpu_images/msi-rtx-5090-suprim-oc.webp"
+  },
+  {
+    "id": "asrock_intel_arc_b570_challenger_10gb_oc",
+    "brand": "ASRock",
+    "series": "Challenger",
+    "model": "ASRock Intel Arc B570 Challenger 10GB OC",
+    "vram": "10 GB GDDR6",
+    "price_tr": "16.083 ₺",
+    "price_usd": "259.99 $",
+    "price_eur": "259.95 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 249.0,
+      "slot_thickness": "2-Slot (41.0 mm)",
+      "pcie_version": "PCIe 4.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High",
+      "fps_tier": "Mid-Range Gaming",
+      "ray_tracing_performance": "Entry-to-Mid (18 Xe2 RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/asrock-arc-b570-challenger.webp"
+  },
+  {
+    "id": "asrock_challenger_intel_arc_a380_itx_6gb_oc",
+    "brand": "ASRock",
+    "series": "Challenger",
+    "model": "ASRock Challenger Intel Arc A380 ITX 6GB OC GDDR6",
+    "vram": "6 GB GDDR6",
+    "price_tr": "N/A (Stok Yok)",
+    "price_usd": "140.99 $",
+    "price_eur": "156.00 €",
+    "regions": ["USA", "EU"],
+    "specs": {
+      "length_mm": 190.0,
+      "slot_thickness": "2-Slot (39.0 mm)",
+      "pcie_version": "PCIe 4.0 x8",
+      "recommended_psu_watt": 500,
+      "power_pins": "1x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Entry / HTPC Media",
+      "fps_tier": "Entry-Level Gaming",
+      "ray_tracing_performance": "Basic / Tactical Support (8 RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/asrock-arc-a380-challenger-itx.webp"
+  },
+
+  {
+    "id": "sparkle_intel_arc_b570_guardian_oc_10gb",
+    "brand": "Sparkle",
+    "series": "Guardian OC",
+    "model": "Sparkle Intel Arc B570 Guardian OC 10GB GDDR6 (SB570G-10GOC)",
+    "vram": "10 GB GDDR6",
+    "price_tr": "13.500 ₺",
+    "price_usd": "289.99 $",
+    "price_eur": "250.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 305.0,
+      "slot_thickness": "2.5-Slot (54.0 mm)",
+      "pcie_version": "PCIe 4.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High",
+      "fps_tier": "Mid-Range Gaming",
+      "ray_tracing_performance": "Entry-to-Mid (18 Xe2 RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/sparkle-arc-b570-guardian-oc.webp"
+  },
+
+  {
+    "id": "asrock_intel_arc_b580_steel_legend_12gb_oc",
+    "brand": "ASRock",
+    "series": "Steel Legend",
+    "model": "Asrock Intel Arc B580 Steel Legend 12GB OC GDDR6",
+    "vram": "12 GB GDDR6",
+    "price_tr": "17.950 ₺",
+    "price_usd": "309.99 $",
+    "price_eur": "348.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 301.0,
+      "slot_thickness": "2.5-Slot (51.0 mm)",
+      "pcie_version": "PCIe 4.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "2x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p High / Ultra",
+      "fps_tier": "Mid-to-High Gaming",
+      "ray_tracing_performance": "Mid-Range (20 Xe2 RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/asrock-arc-b580-steel-legend-oc.webp"
+  },
+  {
+    "id": "intel_arc_b580_limited_edition_battlemage",
+    "brand": "Intel",
+    "series": "Limited Edition",
+    "model": "Intel Arc B580 Limited Edition Battlemage",
+    "vram": "12 GB GDDR6",
+    "price_tr": "12.699 ₺",
+    "price_usd": "449.99 $",
+    "price_eur": "489.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 245.0,
+      "slot_thickness": "2-Slot (40.0 mm)",
+      "pcie_version": "PCIe 5.0 x16",
+      "recommended_psu_watt": 650,
+      "power_pins": "2x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p High-Refresh Gaming",
+      "fps_tier": "Mid-to-High Gaming",
+      "ray_tracing_performance": "Mid-Range (20 Xe2 RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/intel-arc-b580-limited-edition.webp"
+  },
+  {
+    "id": "sparkle_intel_arc_b580_titan_oc_12gb",
+    "brand": "Sparkle",
+    "series": "Titan OC",
+    "model": "Intel Arc B580 Titan OC 12GB",
+    "vram": "12 GB GDDR6",
+    "price_tr": "15.290 ₺",
+    "price_usd": "334.99 $",
+    "price_eur": "325.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "length_mm": 305,
+      "slot_thickness": 2.5,
+      "pcie_version": "PCIe 4.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "2x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p High / Ultra",
+      "fps_tier": "Mid-to-High Gaming",
+      "ray_tracing_performance": "Mid-Range (20 Xe2 RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/sparkle-arc-b580-titan-oc.webp"
+  },
+  {
+    "id": "sparkle_intel_arc_b580_orc_luna_oc_12gb",
+    "brand": "Sparkle",
+    "series": "ORC Luna OC",
+    "model": "Intel Arc B580 ORC Luna OC 12GB",
+    "vram": "12 GB GDDR6",
+    "price_tr": "N/A (Stok yok)",
+    "price_usd": "N/A (Stock out)",
+    "price_eur": "356.90 €",
+    "regions": ["EU"],
+    "specs": {
+      "length_mm": 245,
+      "slot_thickness": 2.0,
+      "pcie_version": "PCIe 4.0 x8",
+      "recommended_psu_watt": 650,
+      "power_pins": "2x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1440p High-Refresh Gaming",
+      "fps_tier": "Mid-to-High Gaming",
+      "ray_tracing_performance": "Mid-Range (20 Xe2 RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/sparkle-arc-b580-orc-luna-oc.webp"
+  },
+  {
+    "id": "sparkle_arc_b570_guardian_luna_oc_10gb",
+    "brand": "Sparkle",
+    "series": "Guardian Luna OC",
+    "model": "Sparkle Intel Arc B570 Guardian Luna OC 10GB GDDR6",
+    "vram": "10 GB GDDR6",
+    "price_tr": "N/A (Stok yok)",
+    "price_usd": "345.99 $",
+    "price_eur": "265.00 €",
+    "regions": ["USA", "EU"],
+    "specs": {
+      "length_mm": 305.0,
+      "slot_thickness": "2.5-Slot (54.0 mm)",
+      "pcie_version": "PCIe 4.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High",
+      "fps_tier": "Mid-Range Gaming",
+      "ray_tracing_performance": "Entry-to-Mid (18 Xe2 RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/sparkle-arc-b570-guardian-luna-oc.webp"
+  },
+  {
+    "id": "acer_nitro_intel_arc_b570_10gb",
+    "brand": "Acer",
+    "series": "Nitro",
+    "model": "Acer Nitro Intel Arc B570 10GB GDDR6",
+    "vram": "10 GB GDDR6",
+    "price_tr": "N/A (Stok yok)",
+    "price_usd": "384.99 $",
+    "price_eur": "344.00 €",
+    "regions": ["USA", "EU"],
+    "specs": {
+      "length_mm": 268.0,
+      "slot_thickness": "2-Slot (40.0 mm)",
+      "pcie_version": "PCIe 4.0 x8",
+      "recommended_psu_watt": 600,
+      "power_pins": "1x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Ultra / 1440p High",
+      "fps_tier": "Mid-Range Gaming",
+      "ray_tracing_performance": "Entry-to-Mid (18 Xe2 RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/acer-nitro-arc-b570.webp"
+  },
+  {
+    "id": "asrock_low_profile_intel_arc_a310_lp_4g",
+    "brand": "ASRock",
+    "series": "Low Profile",
+    "model": "ASRock Low Profile Intel Arc A310 LP 4G",
+    "vram": "4 GB GDDR6",
+    "price_tr": "3.450 ₺",
+    "price_usd": "182.00 $",
+    "price_eur": "125.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 169.0,
+      "slot_thickness": "2-Slot (39.0 mm)",
+      "pcie_version": "PCIe 4.0 x8",
+      "recommended_psu_watt": 300,
+      "power_pins": "None (PCIe Powered)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "1080p Entry / HTPC Media",
+      "fps_tier": "Entry-Level Gaming",
+      "ray_tracing_performance": "Basic (6 Xe RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/asrock-arc-a310-lp-4g.webp"
+  },
+  {
+    "id": "intel_arc_pro_b70_32gb_workstation",
+    "brand": "Intel",
+    "series": "Arc Pro",
+    "model": "Intel Arc Pro B70 32GB GDDR6 Workstation Graphics Card",
+    "vram": "32 GB GDDR6",
+    "price_tr": "66.850 ₺",
+    "price_usd": "1.099,00 $",
+    "price_eur": "1.229,00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 267.0,
+      "slot_thickness": "2-Slot (40.0 mm)",
+      "pcie_version": "PCIe 5.0 x16",
+      "recommended_psu_watt": 650,
+      "power_pins": "2x 8-pin"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Workstation / LLM & AI Compute",
+      "fps_tier": "Workstation / Enterprise",
+      "ray_tracing_performance": "Professional-Grade (32 Xe2 RT Cores)"
+    },
+    "asset_path": "assets/gpu_images/intel-arc-pro-b70-32gb.webp"
+  },
+  {
+    "id": "asus_turbo_radeon_ai_pro_32gb_r9700",
+    "brand": "ASUS",
+    "series": "Turbo AI PRO",
+    "model": "ASUS Turbo Radeon™ AI PRO R9700 32GB (TURBO-AI-PRO-R9700-32G)",
+    "vram": "32 GB GDDR6",
+    "price_tr": "45.750 ₺",
+    "price_usd": "1.299,00 $",
+    "price_eur": "1.245,00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "length_mm": 267.0,
+      "slot_thickness": "2-Slot (Blower Design)",
+      "pcie_version": "PCIe 5.0 x16",
+      "recommended_psu_watt": 750,
+      "power_pins": "1x 12V-2x6 (or 2x 8-pin)"
+    },
+    "performance": {
+      "sweet_spot_resolution": "4K Workstation / Deep Learning & AI Inference",
+      "fps_tier": "Workstation / AI Enterprise",
+      "ray_tracing_performance": "High-End (64 RDNA 4 RT Accelerators)"
+    },
+    "asset_path": "assets/gpu_images/asus-turbo-radeon-ai-pro-r9700.webp"
+  }
+]

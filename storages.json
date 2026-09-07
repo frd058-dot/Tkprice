@@ -1,0 +1,1031 @@
+[
+  {
+  "id": "adata_legend_850_lite_1tb_nvme_gen4",
+  "brand": "ADATA",
+  "series": "Legend 850 Lite",
+  "model": "ADATA Legend 850 Lite 1TB NVMe Gen4 M.2 SSD (ALEG-850L-1000GCS)",
+  "capacity": "1 TB",
+  "price_tr": "6.559 ₺ ",
+  "price_usd": "N/A",
+  "price_eur": "N/A",
+  "regions": ["TR"],
+  "specs": {
+    "form_factor": "M.2 2280",
+    "interface": "PCIe 4.0 x4",
+    "protocol": "NVMe 1.4",
+    "nand_type": "3D NAND",
+    "dram_cache": "None (HMB - Host Memory Buffer Supported)",
+    "cooling": "Passive Heatsink (Slim Aluminum Heatsink Included)"
+  },
+  "performance": {
+    "sequential_read_mbs": 5000,
+    "sequential_write_mbs": 3200,
+    "random_read_iops": "400,000",
+    "random_write_iops": "550,000",
+    "tbw_endurance": "250 TBW"
+  },
+  "asset_path": "assets/ssd_images/adata-legend-850-lite-1tb.webp"
+},
+
+  {
+    "id": "adata_legend_860_1tb_nvme_gen4",
+    "brand": "ADATA",
+    "series": "Legend 860",
+    "model": "ADATA Legend 860 1TB NVMe Gen4 M.2 SSD (SLEG-860-1000GCS)",
+    "capacity": "1 TB",
+    "price_tr": "10.260 ₺",
+    "price_usd": "164.99 $",
+    "price_eur": "161.00 € ",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 1.4",
+      "nand_type": "3D NAND",
+      "dram_cache": "None (HMB - Host Memory Buffer Supported)",
+      "cooling": "Passive Heatsink (Slim Aluminum Heatsink Included)"
+    },
+    "performance": {
+      "sequential_read_mbs": 5000,
+      "sequential_write_mbs": 4500,
+      "random_read_iops": "400,000",
+      "random_write_iops": "550,000",
+      "tbw_endurance": "600 TBW"
+    },
+    "asset_path": "assets/ssd_images/adata-legend-860-1tb.webp"
+  },
+
+  {
+    "id": "adata_legend_900_1tb_nvme_gen4",
+    "brand": "ADATA",
+    "series": "Legend 900",
+    "model": "ADATA Legend 900 1TB PCIe Gen4x4 NVMe M.2 SSD (SLEG-900-1TCS)",
+    "capacity": "1 TB",
+    "price_tr": "24.999 ?",
+    "price_usd": "274.99 $",
+    "price_eur": "163.50 �",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 1.4",
+      "nand_type": "3D NAND",
+      "dram_cache": "None (HMB - Host Memory Buffer Supported)",
+      "cooling": "Passive Heatsink (Slim Aluminum Heatsink Included)"
+    },
+    "performance": {
+      "sequential_read_mbs": 7000,
+      "sequential_write_mbs": 6000,
+      "random_read_iops": "800,000",
+      "random_write_iops": "900,000",
+      "tbw_endurance": "600 TBW"
+    },
+    "asset_path": "assets/ssd_images/adata-legend-900-1tb.webp"
+  },
+  {
+    "id": "adata_legend_960_2tb_nvme_gen4",
+    "brand": "ADATA",
+    "series": "Legend 960",
+    "model": "ADATA LEGEND 960 2TB PCIe Gen4x4 M.2 2280 Internal SSD (ALEG-960-2TCS)",
+    "capacity": "2 TB",
+    "price_tr": "24.990 ?",
+    "price_usd": "617.86 $",
+    "price_eur": "391.00 �",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 1.4",
+      "nand_type": "3D NAND",
+      "dram_cache": "Yes (SMI SM2264 Controller with Dedicated DRAM Cache)",
+      "cooling": "Passive Heatsink (Slim Aluminum Heatsink Included)"
+    },
+    "performance": {
+      "sequential_read_mbs": 7400,
+      "sequential_write_mbs": 6800,
+      "random_read_iops": "750,000",
+      "random_write_iops": "700,000",
+      "tbw_endurance": "1560 TBW"
+    },
+    "asset_path": "assets/ssd_images/adata-legend-960-2tb.webp"
+  },
+  {
+    "id": "adata_legend_960_max_1tb_nvme_gen4",
+    "brand": "ADATA",
+    "series": "Legend 960 MAX",
+    "model": "ADATA Legend 960 MAX 1TB PCIe Gen4x4 M.2 2280 SSD (ALEG-960M-1TCS)",
+    "capacity": "1 TB",
+    "price_tr": "19.650 ?",
+    "price_usd": "227.99 $",
+    "price_eur": "187.00 �",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 1.4",
+      "nand_type": "3D NAND",
+      "dram_cache": "Yes (SMI SM2264 Controller with Dedicated DRAM Cache)",
+      "cooling": "Passive Heatsink (Heavy Aluminum Heatsink Included)"
+    },
+    "performance": {
+      "sequential_read_mbs": 7400,
+      "sequential_write_mbs": 6000,
+      "random_read_iops": "730,000",
+      "random_write_iops": "610,000",
+      "tbw_endurance": "780 TBW"
+    },
+    "asset_path": "assets/ssd_images/adata-legend-960-max-1tb.webp"
+  },
+  {
+    "id": "adata_legend_960_max_2tb_nvme_gen4",
+    "brand": "ADATA",
+    "series": "Legend 960 MAX",
+    "model": "ADATA Legend 960 MAX 2TB PCIe Gen4x4 M.2 2280 SSD (ALEG-960M-2TCS)",
+    "capacity": "2 TB",
+    "price_tr": "N/A",
+    "price_usd": "594.97 $",
+    "price_eur": "396.00 �",
+    "regions": ["USA", "EU"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 1.4",
+      "nand_type": "3D NAND",
+      "dram_cache": "Yes (SMI SM2264 Controller with Dedicated DRAM Cache)",
+      "cooling": "Passive Heatsink (Heavy Aluminum Heatsink Included)"
+    },
+    "performance": {
+      "sequential_read_mbs": 7400,
+      "sequential_write_mbs": 6800,
+      "random_read_iops": "750,000",
+      "random_write_iops": "700,000",
+      "tbw_endurance": "1560 TBW"
+    },
+    "asset_path": "assets/ssd_images/adata-legend-960-max-2tb.webp"
+  },
+  {
+    "id": "adata_legend_960_max_4tb_nvme_gen4",
+    "brand": "ADATA",
+    "series": "Legend 960 MAX",
+    "model": "ADATA Legend 960 MAX 4TB PCIe Gen4x4 M.2 2280 SSD (ALEG-960M-4TCS)",
+    "capacity": "4 TB",
+    "price_tr": "N/A",
+    "price_usd": "1018.00 $",
+    "price_eur": "913.00 �",
+    "regions": ["USA", "EU"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 1.4",
+      "nand_type": "3D NAND",
+      "dram_cache": "Yes (SMI SM2264 Controller with Dedicated DRAM Cache)",
+      "cooling": "Passive Heatsink (Heavy Aluminum Heatsink Included)"
+    },
+    "performance": {
+      "sequential_read_mbs": 7400,
+      "sequential_write_mbs": 6800,
+      "random_read_iops": "750,000",
+      "random_write_iops": "700,000",
+      "tbw_endurance": "3120 TBW"
+    },
+    "asset_path": "assets/ssd_images/adata-legend-960-max-4tb.webp"
+  },
+  {
+    "id": "xpg_gammix_s60_blade_1tb_nvme_gen4",
+    "brand": "XPG",
+    "series": "GAMMIX S60 Blade",
+    "model": "XPG GAMMIX S60 Blade 1TB PCIe Gen4x4 M.2 2280 SSD (AGAMMIXS60-1T-CS)",
+    "capacity": "1 TB",
+    "price_tr": "N/A",
+    "price_usd": "214.50 $",
+    "price_eur": "176.00 �",
+    "regions": ["USA", "EU"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 1.4",
+      "nand_type": "3D NAND",
+      "dram_cache": "None (HMB - Host Memory Buffer Supported)",
+      "cooling": "Passive Heatsink (Slim Aluminum Heatsink Included)"
+    },
+    "performance": {
+      "sequential_read_mbs": 5000,
+      "sequential_write_mbs": 4200,
+      "random_read_iops": "650,000",
+      "random_write_iops": "550,000",
+      "tbw_endurance": "600 TBW"
+    },
+    "asset_path": "assets/ssd_images/xpg-gammix-s60-blade-1tb.webp"
+  },
+  {
+    "id": "adata_legend_860_2tb_nvme_gen4",
+    "brand": "ADATA",
+    "series": "Legend 860",
+    "model": "ADATA Legend 860 2TB PCIe Gen4x4 M.2 2280 SSD (SLEG-860-2000GCS)",
+    "capacity": "2 TB",
+    "price_tr": "12.850 ?",
+    "price_usd": "249.99 $",
+    "price_eur": "254.95 �",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 1.4",
+      "nand_type": "3D NAND",
+      "dram_cache": "None (HMB - Host Memory Buffer Supported)",
+      "cooling": "Passive Heatsink (Slim Aluminum Heatsink Included)"
+    },
+    "performance": {
+      "sequential_read_mbs": 6000,
+      "sequential_write_mbs": 5000,
+      "random_read_iops": "750,000",
+      "random_write_iops": "650,000",
+      "tbw_endurance": "1200 TBW"
+    },
+    "asset_path": "assets/ssd_images/adata-legend-860-2tb.webp"
+  },
+  {
+    "id": "adata_legend_900_pro_2tb_nvme_gen4",
+    "brand": "ADATA",
+    "series": "Legend 900 Pro",
+    "model": "ADATA LEGEND 900 PRO 2 TB M.2 PCIe 4.0 NVMe 3D NAND SSD (SLEG-900P-2TCS)",
+    "capacity": "2 TB",
+    "price_tr": "11.999 ?",
+    "price_usd": "N/A",
+    "price_eur": "391.00 �",
+    "regions": [ "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 1.4",
+      "nand_type": "3D NAND",
+      "dram_cache": "Yes (Dedicated DRAM Cache)",
+      "cooling": "Passive Heatsink (Slim Aluminum Heatsink Included)"
+    },
+    "performance": {
+      "sequential_read_mbs": 7000,
+      "sequential_write_mbs": 6500,
+      "random_read_iops": "800,000",
+      "random_write_iops": "900,000",
+      "tbw_endurance": "1200 TBW"
+    },
+    "asset_path": "assets/ssd_images/adata-legend-900-pro-2tb.webp"
+  },
+  {
+    "id": "adata_mars_980_blade_2tb_nvme_gen5",
+    "brand": "ADATA",
+    "series": "Mars 980 Blade",
+    "model": "ADATA SSD Mars 980 Blade 2TB M.2 PCIe Gen5x4 SSD (SMAR-980B-2TCS)",
+    "capacity": "2 TB",
+    "price_tr": "19.699 ?",
+    "price_usd": "389.99 $",
+    "price_eur": "385.69 �",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D NAND",
+      "dram_cache": "Yes (Dedicated DRAM Cache)",
+      "cooling": "Active Cooling (Aluminum Fin Heatsink with Integrated Turbo Fan)"
+    },
+    "performance": {
+      "sequential_read_mbs": 14000,
+      "sequential_write_mbs": 13000,
+      "random_read_iops": "1,500,000",
+      "random_write_iops": "1,500,000",
+      "tbw_endurance": "1600 TBW"
+    },
+    "asset_path": "assets/ssd_images/adata-mars-980-blade-2tb.webp"
+  },
+  {
+    "id": "adata_mars_980_pro_1tb_nvme_gen5",
+    "brand": "ADATA",
+    "series": "Mars 980 Pro",
+    "model": "ADATA Mars 980 PRO 1.0TB PCIe Gen5 x4 NVMe M.2 2280 SSD (SMAR-980P-1TCS)",
+    "capacity": "1 TB",
+    "price_tr": "10.999 ?",
+    "price_usd": "189.99 $",
+    "price_eur": "246.99 �",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D NAND",
+      "dram_cache": "Yes (Dedicated DRAM Cache)",
+      "cooling": "Active Cooling (Aluminum Fin Heatsink with Integrated Turbo Fan)"
+    },
+    "performance": {
+      "sequential_read_mbs": 14000,
+      "sequential_write_mbs": 10000,
+      "random_read_iops": "1,300,000",
+      "random_write_iops": "1,400,000",
+      "tbw_endurance": "800 TBW"
+    },
+    "asset_path": "assets/ssd_images/adata-mars-980-pro-1tb.webp"
+  },
+  {
+    "id": "adata_mars_980_blade_4tb_nvme_gen5",
+    "brand": "ADATA",
+    "series": "Mars 980 Blade",
+    "model": "ADATA SSD Mars 980 Blade 4TB M.2 PCIe Gen5x4 SSD (SMAR-980B-4TCS)",
+    "capacity": "4 TB",
+    "price_tr": "39.850 ?",
+    "price_usd": "593.00 $",
+    "price_eur": "743.50 �",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D NAND",
+      "dram_cache": "Yes (Dedicated DRAM Cache)",
+      "cooling": "Passive Heatsink (Slim Aluminum Heatsink Included)"
+    },
+    "performance": {
+      "sequential_read_mbs": 14000,
+      "sequential_write_mbs": 13000,
+      "random_read_iops": "1,500,000",
+      "random_write_iops": "1,500,000",
+      "tbw_endurance": "3200 TBW"
+    },
+    "asset_path": "assets/ssd_images/adata-mars-980-blade-4tb.webp"
+  },
+  {
+    "id": "adata_mars_980_blade_1tb_nvme_gen5",
+    "brand": "ADATA",
+    "series": "Mars 980 Blade",
+    "model": "ADATA SSD Mars 980 Blade 1TB M.2 PCIe Gen5x4 SSD (SMAR-980B-1TCS)",
+    "capacity": "1 TB",
+    "price_tr": "10.999 ?",
+    "price_usd": "189.99 $",
+    "price_eur": "217.00 �",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D NAND",
+      "dram_cache": "Yes (Dedicated DRAM Cache)",
+      "cooling": "Passive Heatsink (Slim Aluminum Heatsink Included)"
+    },
+    "performance": {
+      "sequential_read_mbs": 14000,
+      "sequential_write_mbs": 10000,
+      "random_read_iops": "1,300,000",
+      "random_write_iops": "1,400,000",
+      "tbw_endurance": "800 TBW"
+    },
+    "asset_path": "assets/ssd_images/adata-mars-980-blade-1tb.webp"
+  },
+  {
+    "id": "adata_mars_980_storm_1tb_nvme_gen5",
+    "brand": "ADATA",
+    "series": "Mars 980 Storm",
+    "model": "ADATA XPG Mars 980 Storm 1TB PCIe Gen5x4 M.2 2280 SSD (SMAR-980S-1TCI)",
+    "capacity": "1 TB",
+    "price_tr": "12.250 ?",
+    "price_usd": "310.00 $",
+    "price_eur": "233.50 �",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D NAND",
+      "dram_cache": "Yes (Dedicated DRAM Cache)",
+      "cooling": "Hybrid Liquid & Active Fan Cooling (Patented Dual-Cooling System / PCIe 5.0 Thermal Buff)"
+    },
+    "performance": {
+      "sequential_read_mbs": 14000,
+      "sequential_write_mbs": 10000,
+      "random_read_iops": "1,300,000",
+      "random_write_iops": "1,400,000",
+      "tbw_endurance": "800 TBW"
+    },
+    "asset_path": "assets/ssd_images/adata-mars-980-storm-1tb.webp"
+  },
+  {
+    "id": "xpg_spectrix_s65g_1tb_nvme_gen4",
+    "brand": "XPG",
+    "series": "Spectrix S65G",
+    "model": "ADATA XPG SPECTRIX S65G 1TB PCIe Gen4x4 M.2 2280 SSD",
+    "capacity": "1 TB",
+    "price_tr": "N/A ",
+    "price_usd": "159.99 $",
+    "price_eur": "271.60 �",
+    "regions": ["USA", "EU"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 1.4",
+      "nand_type": "3D NAND",
+      "dram_cache": "Yes (Dedicated DRAM Cache)",
+      "cooling": "Passive Heatsink (Aluminum Heatsink with Integrated RGB Lighting)"
+    },
+    "performance": {
+      "sequential_read_mbs": 7000,
+      "sequential_write_mbs": 6000,
+      "random_read_iops": "750,000",
+      "random_write_iops": "750,000",
+      "tbw_endurance": "740 TBW"
+    },
+    "asset_path": "assets/ssd_images/xpg-spectrix-s65g-1tb.webp"
+  },
+  {
+    "id": "xpg_gammix_s70_blade_1tb_nvme_gen4",
+    "brand": "XPG",
+    "series": "GAMMIX S70 Blade",
+    "model": "XPG GAMMIX S70 BLADE 1TB PCIe Gen4x4 M.2 2280 SSD (AGAMMIXS70B-1T-CS)",
+    "capacity": "1 TB",
+    "price_tr": "13.999 ?",
+    "price_usd": "179.99 $",
+    "price_eur": "163.99 �",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 1.4",
+      "nand_type": "3D NAND",
+      "dram_cache": "Yes (InnoGrit IG5236 Controller with Dedicated DRAM Cache)",
+      "cooling": "Passive Heatsink (Slim Aluminum Heatsink Included)"
+    },
+    "performance": {
+      "sequential_read_mbs": 7400,
+      "sequential_write_mbs": 6800,
+      "random_read_iops": "740,000",
+      "random_write_iops": "740,000",
+      "tbw_endurance": "740 TBW"
+    },
+    "asset_path": "assets/ssd_images/xpg-gammix-s70-blade-1tb.webp"
+  },
+  {
+    "id": "xpg_gammix_s70_blade_2tb_nvme_gen4",
+    "brand": "XPG",
+    "series": "GAMMIX S70 Blade",
+    "model": "XPG GAMMIX S70 BLADE 2TB PCIe Gen4x4 M.2 2280 SSD (AGAMMIXS70B-2T-CS)",
+    "capacity": "2 TB",
+    "price_tr": "14.950 ?",
+    "price_usd": "329.00 $",
+    "price_eur": "330.00 �",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 1.4",
+      "nand_type": "3D NAND",
+      "dram_cache": "Yes (InnoGrit IG5236 Controller with Dedicated DRAM Cache)",
+      "cooling": "Passive Heatsink (Slim Aluminum Heatsink Included)"
+    },
+    "performance": {
+      "sequential_read_mbs": 7400,
+      "sequential_write_mbs": 6800,
+      "random_read_iops": "750,000",
+      "random_write_iops": "750,000",
+      "tbw_endurance": "1480 TBW"
+    },
+    "asset_path": "assets/ssd_images/xpg-gammix-s70-blade-2tb.webp"
+  },
+
+  {
+    "id": "xpg_gammix_s70_2tb_nvme_gen4",
+    "brand": "XPG",
+    "series": "GAMMIX S70",
+    "model": "ADATA XPG GAMMIX S70 2TB PCIe Gen4x4 M.2 2280 SSD (AGAMMIXS70-2T-C)",
+    "capacity": "2 TB",
+    "price_tr": "14.450 ?",
+    "price_usd": "383.00 $",
+    "price_eur": "375.30 �",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 1.4",
+      "nand_type": "3D NAND",
+      "dram_cache": "Yes (InnoGrit IG5236 Controller with Dedicated DRAM Cache)",
+      "cooling": "Passive Heatsink (Heavy Aluminum Heatsink Included)"
+    },
+    "performance": {
+      "sequential_read_mbs": 7400,
+      "sequential_write_mbs": 6800,
+      "random_read_iops": "750,000",
+      "random_write_iops": "750,000",
+      "tbw_endurance": "1480 TBW"
+    },
+    "asset_path": "assets/ssd_images/xpg-gammix-s70-2tb.webp"
+  },
+  {
+    "id": "xpg_gammix_s70_1tb_nvme_gen4",
+    "brand": "XPG",
+    "series": "GAMMIX S70",
+    "model": "XPG GAMMIX Gaming S70 1TB PCIe Gen4x4 M.2 2280 NVMe SSD (AGAMMIXS70-1T-C)",
+    "capacity": "1 TB",
+    "price_tr": "N/A",
+    "price_usd": "235.00 $",
+    "price_eur": "199.00 �",
+    "regions": ["USA", "EU"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 1.4",
+      "nand_type": "3D NAND",
+      "dram_cache": "Yes (InnoGrit IG5236 Controller with Dedicated DRAM Cache)",
+      "cooling": "Passive Heatsink (Heavy Aluminum Heatsink Included)"
+    },
+    "performance": {
+      "sequential_read_mbs": 7400,
+      "sequential_write_mbs": 6400,
+      "random_read_iops": "740,000",
+      "random_write_iops": "740,000",
+      "tbw_endurance": "740 TBW"
+    },
+    "asset_path": "assets/ssd_images/xpg-gammix-s70-1tb.webp"
+  },
+  {
+    "id": "crucial_p310_1tb_nvme_gen4",
+    "brand": "Crucial",
+    "series": "P310",
+    "model": "Crucial P310 1TB PCIe Gen4x4 M.2 2280 NVMe SSD (CT1000P310SSD8)",
+    "capacity": "1 TB",
+    "price_tr": "8.049 ₺",
+    "price_usd": "179.99 $",
+    "price_eur": "147.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D QLC NAND",
+      "dram_cache": "None (DRAM-less with HMB Support)",
+      "cooling": "None"
+    },
+    "performance": {
+      "sequential_read_mbs": 7100,
+      "sequential_write_mbs": 6000,
+      "random_read_iops": "1,000,000",
+      "random_write_iops": "1,200,000",
+      "tbw_endurance": 220
+    },
+    "asset_path": "assets/ssd_images/crucial-p310-1tb.webp"
+  },
+  {
+    "id": "crucial_e100_1tb_nvme_gen4",
+    "brand": "Crucial",
+    "series": "E100",
+    "model": "Crucial E100 1TB PCIe Gen4x4 M.2 2280 NVMe SSD (CT1000E100SSD8)",
+    "capacity": "1 TB",
+    "price_tr": "6.799 ₺",
+    "price_usd": "162.00 $",
+    "price_eur": "149.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 1.4",
+      "nand_type": "3D NAND",
+      "dram_cache": "None (DRAM-less with HMB Support)",
+      "cooling": "None"
+    },
+    "performance": {
+      "sequential_read_mbs": 5000,
+      "sequential_write_mbs": 4500,
+      "random_read_iops": "N/A",
+      "random_write_iops": "N/A",
+      "tbw_endurance": 300
+    },
+    "asset_path": "assets/ssd_images/crucial-e100-1tb.webp"
+  },
+  {
+    "id": "crucial_p310_1tb_nvme_gen4",
+    "brand": "Crucial",
+    "series": "P310",
+    "model": "Crucial P310 1TB PCIe Gen4x4 M.2 2280 NVMe SSD (CT1000P310SSD801)",
+    "capacity": "1 TB",
+    "price_tr": "7.450 ₺",
+    "price_usd": "177.50 $",
+    "price_eur": "156.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D QLC NAND",
+      "dram_cache": "None (DRAM-less with HMB Support)",
+      "cooling": "None"
+    },
+    "performance": {
+      "sequential_read_mbs": 7100,
+      "sequential_write_mbs": 6000,
+      "random_read_iops": "1,000,000",
+      "random_write_iops": "1,200,000",
+      "tbw_endurance": 220
+    },
+    "asset_path": "assets/ssd_images/crucial-p310-1tb.webp"
+  },
+  {
+    "id": "crucial_t700_2tb_nvme_gen5_heatsink",
+    "brand": "Crucial",
+    "series": "T700",
+    "model": "Crucial T700 2TB PCIe Gen5x4 M.2 2280 NVMe SSD with Heatsink (CT2000T700SSD5)",
+    "capacity": "2 TB",
+    "price_tr": "25.099 ₺",
+    "price_usd": "377.95 $",
+    "price_eur": "355.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D TLC NAND",
+      "dram_cache": "2GB LPDDR4",
+      "cooling": "Heatsink"
+    },
+    "performance": {
+      "sequential_read_mbs": 12400,
+      "sequential_write_mbs": 11800,
+      "random_read_iops": "1,500,000",
+      "random_write_iops": "1,500,000",
+      "tbw_endurance": 1200
+    },
+    "asset_path": "assets/ssd_images/crucial-t700-2tb-heatsink.webp"
+  },
+  {
+    "id": "crucial_t700_4tb_nvme_gen5_heatsink",
+    "brand": "Crucial",
+    "series": "T700",
+    "model": "Crucial T700 4TB PCIe Gen5x4 M.2 2280 NVMe SSD with Heatsink (CT4000T700SSD5)",
+    "capacity": "4 TB",
+    "price_tr": "48.869 ₺",
+    "price_usd": "579.45 $",
+    "price_eur": "576.67 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D TLC NAND",
+      "dram_cache": "4GB LPDDR4",
+      "cooling": "Heatsink"
+    },
+    "performance": {
+      "sequential_read_mbs": 12400,
+      "sequential_write_mbs": 11800,
+      "random_read_iops": "1,500,000",
+      "random_write_iops": "1,500,000",
+      "tbw_endurance": 2400
+    },
+    "asset_path": "assets/ssd_images/crucial-t700-4tb-heatsink.webp"
+  },
+  {
+    "id": "crucial_t700_4tb_nvme_gen5",
+    "brand": "Crucial",
+    "series": "T700",
+    "model": "Crucial T700 4TB PCIe Gen5x4 M.2 2280 NVMe SSD (CT4000T700SSD3)",
+    "capacity": "4 TB",
+    "price_tr": "51.990 ₺",
+    "price_usd": "687.00 $",
+    "price_eur": "524.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D TLC NAND",
+      "dram_cache": "4GB LPDDR4",
+      "cooling": "None"
+    },
+    "performance": {
+      "sequential_read_mbs": 12400,
+      "sequential_write_mbs": 11800,
+      "random_read_iops": "1,500,000",
+      "random_write_iops": "1,500,000",
+      "tbw_endurance": 2400
+    },
+    "asset_path": "assets/ssd_images/crucial-t700-4tb.webp"
+  },
+  {
+    "id": "crucial_t500_4tb_nvme_gen4_heatsink",
+    "brand": "Crucial",
+    "series": "T500",
+    "model": "Crucial T500 4TB PCIe Gen4x4 M.2 2280 NVMe SSD with Heatsink (CT4000T500SSD5)",
+    "capacity": "4 TB",
+    "price_tr": "32.649 ₺",
+    "price_usd": "739.00 $",
+    "price_eur": "546.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 4.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D TLC NAND",
+      "dram_cache": "4GB LPDDR4",
+      "cooling": "Heatsink"
+    },
+    "performance": {
+      "sequential_read_mbs": 7000,
+      "sequential_write_mbs": 6900,
+      "random_read_iops": "1,050,000",
+      "random_write_iops": "1,350,000",
+      "tbw_endurance": 2400
+    },
+    "asset_path": "assets/ssd_images/crucial-t500-4tb-heatsink.webp"
+  },
+  {
+    "id": "crucial_t705_4tb_nvme_gen5",
+    "brand": "Crucial",
+    "series": "T705",
+    "model": "Crucial T705 4TB PCIe Gen5x4 M.2 2280 NVMe SSD (CT4000T705SSD3)",
+    "capacity": "4 TB",
+    "price_tr": "47.000 ₺",
+    "price_usd": "625.99 $",
+    "price_eur": "549.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D TLC NAND",
+      "dram_cache": "4GB LPDDR4",
+      "cooling": "None"
+    },
+    "performance": {
+      "sequential_read_mbs": 14100,
+      "sequential_write_mbs": 12600,
+      "random_read_iops": "1,500,000",
+      "random_write_iops": "1,500,000",
+      "tbw_endurance": 2400
+    },
+    "asset_path": "assets/ssd_images/crucial-t705-4tb.webp"
+  },
+  {
+    "id": "crucial_t705_1tb_nvme_gen5_heatsink",
+    "brand": "Crucial",
+    "series": "T705",
+    "model": "Crucial T705 1TB PCIe Gen5x4 M.2 2280 NVMe SSD with Heatsink (CT1000T705SSD5)",
+    "capacity": "1 TB",
+    "price_tr": "11.250 ₺",
+    "price_usd": "299.99 $",
+    "price_eur": "208.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D TLC NAND",
+      "dram_cache": "1GB LPDDR4",
+      "cooling": "Heatsink"
+    },
+    "performance": {
+      "sequential_read_mbs": 13600,
+      "sequential_write_mbs": 10200,
+      "random_read_iops": "1,400,000",
+      "random_write_iops": "1,750,000",
+      "tbw_endurance": 600
+    },
+    "asset_path": "assets/ssd_images/crucial-t705-1tb-heatsink.webp"
+  },
+  {
+    "id": "crucial_t710_4tb_nvme_gen5",
+    "brand": "Crucial",
+    "series": "T710",
+    "model": "Crucial T710 4TB PCIe Gen5x4 M.2 2280 NVMe SSD (CT4000T710SSD8)",
+    "capacity": "4 TB",
+    "price_tr": "40.459 ₺",
+    "price_usd": "668.99 $",
+    "price_eur": "524.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D TLC NAND",
+      "dram_cache": "4GB LPDDR4",
+      "cooling": "None"
+    },
+    "performance": {
+      "sequential_read_mbs": 14500,
+      "sequential_write_mbs": 13800,
+      "random_read_iops": "2,200,000",
+      "random_write_iops": "2,300,000",
+      "tbw_endurance": 2400
+    },
+    "asset_path": "assets/ssd_images/crucial-t710-4tb.webp"
+  },
+  {
+    "id": "crucial_t700_1tb_nvme_gen5_heatsink",
+    "brand": "Crucial",
+    "series": "T700",
+    "model": "Crucial T700 1TB PCIe Gen5x4 M.2 2280 NVMe SSD with Heatsink (CT1000T700SSD5)",
+    "capacity": "1 TB",
+    "price_tr": "12.659 ₺",
+    "price_usd": "229.99 $",
+    "price_eur": "295.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D TLC NAND",
+      "dram_cache": "1GB LPDDR4",
+      "cooling": "Heatsink"
+    },
+    "performance": {
+      "sequential_read_mbs": 11700,
+      "sequential_write_mbs": 9500,
+      "random_read_iops": "1,350,000",
+      "random_write_iops": "1,400,000",
+      "tbw_endurance": 600
+    },
+    "asset_path": "assets/ssd_images/crucial-t700-1tb-heatsink.webp"
+  },
+  {
+    "id": "crucial_t700_2tb_nvme_gen5",
+    "brand": "Crucial",
+    "series": "T700",
+    "model": "Crucial T700 2TB PCIe Gen5x4 M.2 2280 NVMe SSD (CT2000T700SSD3)",
+    "capacity": "2 TB",
+    "price_tr": "20.240 ₺",
+    "price_usd": "398.99 $",
+    "price_eur": "300.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D TLC NAND",
+      "dram_cache": "2GB LPDDR4",
+      "cooling": "None"
+    },
+    "performance": {
+      "sequential_read_mbs": 12400,
+      "sequential_write_mbs": 11800,
+      "random_read_iops": "1,500,000",
+      "random_write_iops": "1,500,000",
+      "tbw_endurance": 1200
+    },
+    "asset_path": "assets/ssd_images/crucial-t700-2tb.webp"
+  },
+  {
+    "id": "crucial_t705_2tb_nvme_gen5_heatsink",
+    "brand": "Crucial",
+    "series": "T705",
+    "model": "Crucial T705 2TB PCIe Gen5x4 M.2 2280 NVMe SSD with Heatsink (CT2000T705SSD5)",
+    "capacity": "2 TB",
+    "price_tr": "21.020 ₺",
+    "price_usd": "392.99 $",
+    "price_eur": "309.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D TLC NAND",
+      "dram_cache": "2GB LPDDR4",
+      "cooling": "Heatsink"
+    },
+    "performance": {
+      "sequential_read_mbs": 14500,
+      "sequential_write_mbs": 12700,
+      "random_read_iops": "1,550,000",
+      "random_write_iops": "1,800,000",
+      "tbw_endurance": 1200
+    },
+    "asset_path": "assets/ssd_images/crucial-t705-2tb-heatsink.webp"
+  },
+  {
+    "id": "crucial_t710_1tb_nvme_gen5",
+    "brand": "Crucial",
+    "series": "T710",
+    "model": "Crucial T710 1TB PCIe Gen5x4 M.2 2280 NVMe SSD (CT1000T710SSD8)",
+    "capacity": "1 TB",
+    "price_tr": "11.959 ₺",
+    "price_usd": "234.99 $",
+    "price_eur": "199.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D TLC NAND",
+      "dram_cache": "1GB LPDDR4",
+      "cooling": "None"
+    },
+    "performance": {
+      "sequential_read_mbs": 14900,
+      "sequential_write_mbs": 13700,
+      "random_read_iops": "1,800,000",
+      "random_write_iops": "2,200,000",
+      "tbw_endurance": 600
+    },
+    "asset_path": "assets/ssd_images/crucial-t710-1tb.webp"
+  },
+  {
+    "id": "crucial_t710_2tb_nvme_gen5",
+    "brand": "Crucial",
+    "series": "T710",
+    "model": "Crucial T710 2TB PCIe Gen5x4 M.2 2280 NVMe SSD (CT2000T710SSD8)",
+    "capacity": "2 TB",
+    "price_tr": "19.850 ₺",
+    "price_usd": "356.99 $",
+    "price_eur": "329.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D TLC NAND",
+      "dram_cache": "2GB LPDDR4",
+      "cooling": "None"
+    },
+    "performance": {
+      "sequential_read_mbs": 14900,
+      "sequential_write_mbs": 13800,
+      "random_read_iops": "2,200,000",
+      "random_write_iops": "2,300,000",
+      "tbw_endurance": 1200
+    },
+    "asset_path": "assets/ssd_images/crucial-t710-2tb.webp"
+  },
+  {
+    "id": "crucial_t710_1tb_nvme_gen5_heatsink",
+    "brand": "Crucial",
+    "series": "T710",
+    "model": "Crucial T710 1TB PCIe Gen5x4 M.2 2280 NVMe SSD with Heatsink (CT1000T710SSD5)",
+    "capacity": "1 TB",
+    "price_tr": "12.739 ₺",
+    "price_usd": "235.61 $",
+    "price_eur": "209.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D TLC NAND",
+      "dram_cache": "1GB LPDDR4",
+      "cooling": "Heatsink"
+    },
+    "performance": {
+      "sequential_read_mbs": 14900,
+      "sequential_write_mbs": 13700,
+      "random_read_iops": "1,800,000",
+      "random_write_iops": "2,200,000",
+      "tbw_endurance": 600
+    },
+    "asset_path": "assets/ssd_images/crucial-t710-1tb-heatsink.webp"
+  },
+  {
+    "id": "crucial_t710_4tb_nvme_gen5_heatsink",
+    "brand": "Crucial",
+    "series": "T710",
+    "model": "Crucial T710 4TB PCIe Gen5x4 M.2 2280 NVMe SSD with Heatsink (CT4000T710SSD5)",
+    "capacity": "4 TB",
+    "price_tr": "36.499 ₺",
+    "price_usd": "774.95 $",
+    "price_eur": "519.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D TLC NAND",
+      "dram_cache": "4GB LPDDR4",
+      "cooling": "Heatsink"
+    },
+    "performance": {
+      "sequential_read_mbs": 14500,
+      "sequential_write_mbs": 13800,
+      "random_read_iops": "2,200,000",
+      "random_write_iops": "2,300,000",
+      "tbw_endurance": 2400
+    },
+    "asset_path": "assets/ssd_images/crucial-t710-4tb-heatsink.webp"
+  },
+  {
+    "id": "crucial_t710_2tb_nvme_gen5_heatsink",
+    "brand": "Crucial",
+    "series": "T710",
+    "model": "Crucial T710 2TB PCIe Gen5x4 M.2 2280 NVMe SSD with Heatsink (CT2000T710SSD5)",
+    "capacity": "2 TB",
+    "price_tr": "21.840 ₺",
+    "price_usd": "448.99 $",
+    "price_eur": "319.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D TLC NAND",
+      "dram_cache": "2GB LPDDR4",
+      "cooling": "Heatsink"
+    },
+    "performance": {
+      "sequential_read_mbs": 14900,
+      "sequential_write_mbs": 13800,
+      "random_read_iops": "2,200,000",
+      "random_write_iops": "2,300,000",
+      "tbw_endurance": 1200
+    },
+    "asset_path": "assets/ssd_images/crucial-t710-2tb-heatsink.webp"
+  }
+ ]

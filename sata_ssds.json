@@ -1,0 +1,245 @@
+[
+  {
+    "id": "adata_ultimate_su650_256gb_sata_3",
+    "brand": "ADATA",
+    "series": "Ultimate SU650",
+    "model": "ADATA Ultimate SU650 256GB 2.5\" SATA III 3D NAND SSD (ASU650SS-256GT-R)",
+    "capacity": "256 GB",
+    "price_tr": "N/A",
+    "price_usd": "64.25 $",
+    "price_eur": "52.00 �",
+    "regions": ["EU"],
+    "specs": {
+      "form_factor": "2.5\"",
+      "interface": "SATA III 6Gb/s",
+      "protocol": "AHCI",
+      "nand_type": "3D NAND",
+      "dram_cache": "None (SLC Caching Supported)",
+      "cooling": "None"
+    },
+    "performance": {
+      "sequential_read_mbs": 520,
+      "sequential_write_mbs": 450,
+      "random_read_iops": "40,000",
+      "random_write_iops": "75,000",
+      "tbw_endurance": "140 TBW"
+    },
+    "asset_path": "assets/ssd_images/adata-ultimate-su650-256gb.webp"
+  },
+  {
+    "id": "adata_ultimate_su650_240gb_sata_3",
+    "brand": "ADATA",
+    "series": "Ultimate SU650",
+    "model": "ADATA Ultimate SU650 240GB 2.5\" SATA III 3D NAND SSD (ASU650SS-240GT-R)",
+    "capacity": "240 GB",
+    "price_tr": "2749.00 ₺",
+    "price_usd": "75.00",
+    "price_eur": "53.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "2.5\"",
+      "interface": "SATA III 6Gb/s",
+      "protocol": "AHCI",
+      "nand_type": "3D NAND",
+      "dram_cache": "None (SLC Caching Supported)",
+      "cooling": "None"
+    },
+    "performance": {
+      "sequential_read_mbs": 520,
+      "sequential_write_mbs": 450,
+      "random_read_iops": "40,000",
+      "random_write_iops": "75,000",
+      "tbw_endurance": 140
+    },
+    "asset_path": "assets/ssd_images/adata-ultimate-su650-240gb.webp"
+  },
+  {
+    "id": "adata_ultimate_su650_480gb_sata_3",
+    "brand": "ADATA",
+    "series": "Ultimate SU650",
+    "model": "ADATA Ultimate SU650 480GB 2.5\" SATA III 3D NAND SSD (ASU650SS-480GT-R)",
+    "capacity": "480 GB",
+    "price_tr": "4.969 ₺",
+    "price_usd": "83.25 $",
+    "price_eur": "91.50 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "2.5\"",
+      "interface": "SATA III 6Gb/s",
+      "protocol": "AHCI",
+      "nand_type": "3D NAND",
+      "dram_cache": "None (SLC Caching Supported)",
+      "cooling": "None"
+    },
+    "performance": {
+      "sequential_read_mbs": 520,
+      "sequential_write_mbs": 450,
+      "random_read_iops": "40,000",
+      "random_write_iops": "75,000",
+      "tbw_endurance": 280
+    },
+    "asset_path": "assets/ssd_images/adata-ultimate-su650-480gb.webp"
+  },
+  {
+    "id": "adata_ultimate_su630_960gb_sata_3",
+    "brand": "ADATA",
+    "series": "Ultimate SU630",
+    "model": "ADATA Ultimate SU630 960GB 2.5\" SATA III 3D QLC NAND SSD (ASU630SS-960GQ-R)",
+    "capacity": "960 GB",
+    "price_tr": "7.635 ₺",
+    "price_usd": "194.99 $",
+    "price_eur": "156.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "2.5\"",
+      "interface": "SATA III 6Gb/s",
+      "protocol": "AHCI",
+      "nand_type": "3D QLC NAND",
+      "dram_cache": "None (SLC Caching Supported)",
+      "cooling": "None"
+    },
+    "performance": {
+      "sequential_read_mbs": 520,
+      "sequential_write_mbs": 450,
+      "random_read_iops": "40,000",
+      "random_write_iops": "65,000",
+      "tbw_endurance": 200
+    },
+    "asset_path": "assets/ssd_images/adata-ultimate-su630-960gb.webp"
+  },
+  {
+    "id": "adata_ultimate_su630_1t92_sata_3",
+    "brand": "ADATA",
+    "series": "Ultimate SU630",
+    "model": "ADATA Ultimate SU630 1.92TB 2.5\" SATA III 3D QLC NAND SSD (ASU630SS-1T92Q-R)",
+    "capacity": "1.92 TB",
+    "price_tr": "N/A",
+    "price_usd": "326.99 $",
+    "price_eur": "293.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "2.5\"",
+      "interface": "SATA III 6Gb/s",
+      "protocol": "AHCI",
+      "nand_type": "3D QLC NAND",
+      "dram_cache": "None (SLC Caching Supported)",
+      "cooling": "None"
+    },
+    "performance": {
+      "sequential_read_mbs": 520,
+      "sequential_write_mbs": 450,
+      "random_read_iops": "40,000",
+      "random_write_iops": "65,000",
+      "tbw_endurance": 400
+    },
+    "asset_path": "assets/ssd_images/adata-ultimate-su630-1t92.webp"
+  },
+  {
+    "id": "adata_ultimate_su650_1tb_sata_3",
+    "brand": "ADATA",
+    "series": "Ultimate SU650",
+    "model": "ADATA Ultimate SU650 1TB 2.5\" SATA III 3D NAND SSD (ASU650SS-1TT-R)",
+    "capacity": "1 TB",
+    "price_tr": "7.899 ₺",
+    "price_usd": "152.99 $",
+    "price_eur": "161.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "2.5\"",
+      "interface": "SATA III 6Gb/s",
+      "protocol": "AHCI",
+      "nand_type": "3D NAND",
+      "dram_cache": "None (SLC Caching Supported)",
+      "cooling": "None"
+    },
+    "performance": {
+      "sequential_read_mbs": 520,
+      "sequential_write_mbs": 450,
+      "random_read_iops": "40,000",
+      "random_write_iops": "65,000",
+      "tbw_endurance": 600
+    },
+    "asset_path": "assets/ssd_images/adata-ultimate-su650-1tb.webp"
+  },
+  {
+    "id": "adata_ultimate_su650_2tb_sata_3",
+    "brand": "ADATA",
+    "series": "Ultimate SU650",
+    "model": "ADATA Ultimate SU650 2TB 2.5\" SATA III 3D NAND SSD (ASU650SS-2TT-R)",
+    "capacity": "2 TB",
+    "price_tr": "14.299 ₺",
+    "price_usd": "225.99 $",
+    "price_eur": "318.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "2.5\"",
+      "interface": "SATA III 6Gb/s",
+      "protocol": "AHCI",
+      "nand_type": "3D NAND",
+      "dram_cache": "None (SLC Caching Supported)",
+      "cooling": "None"
+    },
+    "performance": {
+      "sequential_read_mbs": 520,
+      "sequential_write_mbs": 450,
+      "random_read_iops": "40,000",
+      "random_write_iops": "75,000",
+      "tbw_endurance": 1120
+    },
+    "asset_path": "assets/ssd_images/adata-ultimate-su650-2tb.webp"
+  },
+  {
+    "id": "crucial_t700_2tb_nvme_gen5_heatsink",
+    "brand": "Crucial",
+    "series": "T700",
+    "model": "Crucial T700 2TB PCIe Gen5x4 M.2 2280 NVMe SSD with Heatsink (CT2000T700SSD5)",
+    "capacity": "2 TB",
+    "price_tr": "8.450 ₺",
+    "price_usd": "259.99 $",
+    "price_eur": "249.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "M.2 2280",
+      "interface": "PCIe 5.0 x4",
+      "protocol": "NVMe 2.0",
+      "nand_type": "3D TLC NAND",
+      "dram_cache": "2GB LPDDR4",
+      "cooling": "Heatsink"
+    },
+    "performance": {
+      "sequential_read_mbs": 12400,
+      "sequential_write_mbs": 11800,
+      "random_read_iops": "1,500,000",
+      "random_write_iops": "1,500,000",
+      "tbw_endurance": 1200
+    },
+    "asset_path": "assets/ssd_images/crucial-t700-2tb-heatsink.webp"
+  },
+  {
+    "id": "crucial_bx500_1tb_sata_3",
+    "brand": "Crucial",
+    "series": "BX500",
+    "model": "Crucial BX500 1TB 2.5\" SATA III 3D NAND SSD (CT1000BX500SSD1)",
+    "capacity": "1 TB",
+    "price_tr": "7.169 ₺",
+    "price_usd": "171.99 $",
+    "price_eur": "159.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "2.5\"",
+      "interface": "SATA III 6Gb/s",
+      "protocol": "AHCI",
+      "nand_type": "3D NAND",
+      "dram_cache": "None (SLC Caching Supported)",
+      "cooling": "None"
+    },
+    "performance": {
+      "sequential_read_mbs": 540,
+      "sequential_write_mbs": 500,
+      "random_read_iops": "N/A",
+      "random_write_iops": "N/A",
+      "tbw_endurance": 360
+    },
+    "asset_path": "assets/ssd_images/crucial-bx500-1tb.webp"
+  }
+]

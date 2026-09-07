@@ -1,0 +1,62 @@
+[
+  {
+    "id": "samsung_odyssey_g5",
+    "brand": "Samsung",
+    "model": "Odyssey G5",
+    "resolution": "2560x1440",
+    "hz": 144,
+    "inch": 27.0,
+    "panel": "VA",
+    "sync": "FreeSync Premium"
+  },
+  {
+    "id": "lg_ultragear_24gn600",
+    "brand": "LG",
+    "model": "UltraGear 24GN600-B",
+    "resolution": "1920x1080",
+    "hz": 144,
+    "inch": 23.8,
+    "panel": "IPS",
+    "sync": "FreeSync Premium"
+  },
+  {
+    "id": "asus_tuf_vg27aq",
+    "brand": "ASUS",
+    "model": "TUF Gaming VG27AQ",
+    "resolution": "2560x1440",
+    "hz": 165,
+    "inch": 27.0,
+    "panel": "IPS",
+    "sync": "G-Sync Compatible"
+  },
+  {
+    "id": "dell_u2723qe",
+    "brand": "Dell",
+    "model": "UltraSharp U2723QE",
+    "resolution": "3840x2160",
+    "hz": 60,
+    "inch": 27.0,
+    "panel": "IPS Black",
+    "sync": "None"
+  },
+  {
+    "id": "msi_mag274qrf_qd",
+    "brand": "MSI",
+    "model": "Optix MAG274QRF-QD",
+    "resolution": "2560x1440",
+    "hz": 165,
+    "inch": 27.0,
+    "panel": "Rapid IPS",
+    "sync": "G-Sync Compatible"
+  },
+  {
+    "id": "viewsonic_vx2476",
+    "brand": "ViewSonic",
+    "model": "VX2476-SMH",
+    "resolution": "1920x1080",
+    "hz": 75,
+    "inch": 23.8,
+    "panel": "IPS",
+    "sync": "None"
+  }
+]

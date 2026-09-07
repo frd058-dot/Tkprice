@@ -1,0 +1,90 @@
+[
+  {
+    "id": "seagate_barracuda_2tb_7200",
+    "brand": "Seagate",
+    "series": "BarraCuda",
+    "model": "Seagate BarraCuda 2TB 7200RPM 256MB Cache SATA 6.0Gb/s 3.5\" Internal HDD (ST2000DM008)",
+    "capacity": "2 TB",
+    "price_tr": "2.850 ₺",
+    "price_usd": "64.99 $",
+    "price_eur": "62.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "3.5\"",
+      "interface": "SATA 6.0Gb/s",
+      "rpm": 7200,
+      "cache": "256 MB"
+    },
+    "performance": {
+      "sequential_read_mbs": 220,
+      "sequential_write_mbs": 190
+    },
+    "asset_path": "assets/hdd_images/seagate-barracuda-2tb.webp"
+  },
+  {
+    "id": "wd_blue_2tb_7200",
+    "brand": "Western Digital",
+    "series": "WD Blue",
+    "model": "Western Digital Blue 2TB 7200RPM 256MB Cache SATA 6.0Gb/s 3.5\" Internal HDD (WD20EZBX)",
+    "capacity": "2 TB",
+    "price_tr": "2.750 ₺",
+    "price_usd": "59.99 $",
+    "price_eur": "58.50 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "3.5\"",
+      "interface": "SATA 6.0Gb/s",
+      "rpm": 7200,
+      "cache": "256 MB"
+    },
+    "performance": {
+      "sequential_read_mbs": 215,
+      "sequential_write_mbs": 185
+    },
+    "asset_path": "assets/hdd_images/wd-blue-2tb.webp"
+  },
+  {
+    "id": "toshiba_p300_2tb_7200",
+    "brand": "Toshiba",
+    "series": "P300",
+    "model": "Toshiba P300 2TB 7200RPM 64MB Cache SATA 6.0Gb/s 3.5\" Internal HDD (HDWD120UZSVA)",
+    "capacity": "2 TB",
+    "price_tr": "2.650 ₺",
+    "price_usd": "55.00 $",
+    "price_eur": "54.90 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "3.5\"",
+      "interface": "SATA 6.0Gb/s",
+      "rpm": 7200,
+      "cache": "64 MB"
+    },
+    "performance": {
+      "sequential_read_mbs": 210,
+      "sequential_write_mbs": 180
+    },
+    "asset_path": "assets/hdd_images/toshiba-p300-2tb.webp"
+  },
+  {
+    "id": "seagate_ironwolf_4tb_5400",
+    "brand": "Seagate",
+    "series": "IronWolf",
+    "model": "Seagate IronWolf 4TB 5400RPM 256MB Cache SATA 6.0Gb/s 3.5\" NAS HDD (ST4000VN006)",
+    "capacity": "4 TB",
+    "price_tr": "5.450 ₺",
+    "price_usd": "104.99 $",
+    "price_eur": "99.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "form_factor": "3.5\"",
+      "interface": "SATA 6.0Gb/s",
+      "rpm": 5400,
+      "cache": "256 MB"
+    },
+    "performance": {
+      "sequential_read_mbs": 202,
+      "sequential_write_mbs": 180
+    },
+    "asset_path": "assets/hdd_images/seagate-ironwolf-4tb.webp"
+  }
+]

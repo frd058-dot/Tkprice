@@ -1,0 +1,3775 @@
+[
+                        "//DDR4 RAM Memory models",
+
+  {
+    "id": "kingston_fury_beast_32gb_3600_dual",
+    "series": "Fury Beast",
+    "model": "Kingston 32GB (2x16GB) 3600MHz CL18 DDR4 Dual Kit",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "15.588 ₺",
+    "price_usd": "428.50 $",
+    "price_eur": "314.55 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 34.1,
+      "type": "DDR4",
+      "speed_mts": 3600,
+      "latency_cl": 18,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0 / Plug N Play"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-beast-32gb-3600-dual.webp"
+  },
+  {
+    "id": "kingston_fury_beast_32gb_3600_single",
+    "series": "Fury Beast",
+    "model": "Kingston 32GB (1x32GB) 3600MHz CL18 DDR4 Single Kit",
+    "capacity": "32 GB",
+    "price_tr": "10.899 ₺",
+    "price_usd": "494.50 $",
+    "price_eur": "305.80 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 34.1,
+      "type": "DDR4",
+      "speed_mts": 3600,
+      "latency_cl": 18,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0 / Plug N Play"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-beast-32gb-ddr4-3600-single.webp"
+  },
+  {
+    "id": "kingston_beast_32gb_3200_cl16_dual",
+    "series": "Fury Beast",
+    "model": "Kingston 32GB (2x16GB) 3200MHz CL16 DDR4 Dual Kit",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "13.750 ₺",
+    "price_usd": "324.50 $",
+    "price_eur": "229.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 34.1,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0 / Plug N Play"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-beast-32gb-ddr4-3200-dual.webp"
+  },
+  {
+    "id": "kingston_beast_32gb_3200_cl16_single",
+    "series": "Fury Beast",
+    "model": "Kingston 32GB (1x32GB) 3200MHz CL16 DDR4 Single Kit",
+    "capacity": "32 GB",
+    "price_tr": "10.879 ₺",
+    "price_usd": "278.00 $",
+    "price_eur": "254.50 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 34.1,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0 / Plug N Play"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-beast-32gb-ddr4-3200-single.webp"
+  },
+  {
+    "id": "kingston_beast_16gb_3200_cl16_single",
+    "series": "Fury Beast",
+    "model": "Kingston 16GB (1x16GB) 3200MHz CL16 DDR4 Single Kit",
+    "capacity": "16 GB",
+    "price_tr": "5.950 ₺",
+    "price_usd": "138.00 $",
+    "price_eur": "159.50 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 34.1,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0 / Plug N Play"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-beast-16gb-ddr4-3200-single.webp"
+  },
+
+  {
+    "id": "corsair_vengeance_rgb_rs_16gb_3200_cl16",
+    "series": "Vengeance RGB RS",
+    "model": "Corsair 16GB Vengeance RGB RS 3200MHz CL16 DDR4 Single Kit CMG16GX4M1E3200C16",
+    "capacity": "16 GB",
+    "price_tr": "7.999 ₺",
+    "price_usd": "117.00 $",
+    "price_eur": "131.59 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 44,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-rgb-rs-16gb-ddr4-3200.webp"
+  },
+  {
+    "id": "gskill_ripjaws_v_8gb_3200",
+    "series": "Ripjaws V",
+    "model": "G.Skill 8GB 3200MHz CL16 DDR4 Single Kit",
+    "capacity": "8 GB",
+    "price_tr": "3.999 ₺",
+    "price_usd": "75.99 $",
+    "price_eur": "142.90 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 42,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-ripjaws-v-8gb-ddr4-3200.webp"
+  },
+  {
+    "id": "corsair_vengeance_lpx_32gb_3200",
+    "series": "Vengeance LPX",
+    "model": "Corsair 32GB (2x16GB) 3200MHz CL16 DDR4 Dual Kit",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "13.299 ₺",
+    "price_usd": "199.99 $",
+    "price_eur": "249.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 31,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-lpx-16gb-ddr4-3200-dual.webp"
+  },
+  {
+    "id": "corsair_vengeance_rgb_pro_32gb_3200",
+    "series": "Vengeance RGB Pro",
+    "model": "Corsair Vengeance RGB Pro 32GB (2x16GB) 3200MHz CL16 DDR4 Dual Kit",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "14.500 ₺",
+    "price_usd": "211.00 $",
+    "price_eur": "294.20 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 51,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-rgb-pro-32gb-ddr4-3200-dual.webp"
+  },
+  {
+    "id": "corsair_vengeance_rgb_pro_32gb_white",
+    "series": "Vengeance RGB Pro",
+    "model": "Corsair 32GB (2x16GB) Vengeance RGB Pro White 3200MHz CL16 DDR4",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "14.200 ₺",
+    "price_usd": "269.99 $",
+    "price_eur": "256.99 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 51,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-rgb-pro-32gb-ddr4-3200-dual-white.webp"
+  },
+  {
+    "id": "corsair_vengeance_lpx_16gb_3200",
+    "series": "Vengeance LPX",
+    "model": "Corsair 16GB Vengeance LPX Black 3200MHz CL16 DDR4",
+    "capacity": "16 GB",
+    "price_tr": "7.600 ₺",
+    "price_usd": "145.00 $",
+    "price_eur": "157.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 31,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-lpx-16gb-3200-single.webp"
+  },
+  {
+    "id": "gskill_ripjaws_v_16gb_3200_cl16_single",
+    "series": "Ripjaws V",
+    "model": "G.Skill 16GB Ripjaws V Black 3200MHz CL16 DDR4 Single Kit",
+    "capacity": "16 GB",
+    "price_tr": "6.600 ₺",
+    "price_usd": "150.80 $",
+    "price_eur": "142.80 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 42,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-ripjaws-v-16gb-3200-single.webp"
+  },
+  {
+    "id": "gskill_ripjaws_v_8gb_3600_cl18_single",
+    "series": "Ripjaws V",
+    "model": "G.Skill 8GB Ripjaws V Black 3600MHz CL18 DDR4 Single Kit F4-3600C18S-8GVK",
+    "capacity": "8 GB",
+    "price_tr": "3.500 ₺",
+    "price_usd": "85.00 $",
+    "price_eur": "77.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 42,
+      "type": "DDR4",
+      "speed_mts": 3600,
+      "latency_cl": 18,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-ripjaws-v-8gb-ddr4-3600.webp"
+  },
+  {
+    "id": "lexar_thor_8gb_3200_cl16_single",
+    "series": "Thor",
+    "model": "Lexar 8GB Thor 3200MHz CL16 DDR4 Single Kit",
+    "capacity": "8 GB",
+    "price_tr": "3.750 ₺",
+    "price_usd": "85.00 $",
+    "price_eur": "99.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 35.5,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/lexar-thor-8gb-ddr4-3200.webp"
+  },
+  {
+    "id": "xpg_gammix_d35_8gb_3600",
+    "series": "Gammix D35",
+    "model": "XPG Gammix D35 8GB 3600MHz CL18 DDR4 Gaming RAM",
+    "capacity": "8 GB",
+    "price_tr": "4.599 ₺",
+    "price_usd": "50.99 $",
+    "price_eur": "60.20 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 40.5,
+      "type": "DDR4",
+      "speed_mts": 3600,
+      "latency_cl": 18,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/xpg-gammix-d35-8gb-ddr4-3600.webp"
+  },
+
+
+  {
+    "id": "lexar_thor_16gb_3200_cl18_dual",
+    "series": "Thor",
+    "model": "Lexar 16GB (2x8GB) Thor 3200MHz CL18 DDR4 Gaming RAM LD4BU008G-R3200GDXG",
+    "capacity": "16 GB (2x8)",
+    "price_tr": "6.549 ₺",
+    "price_usd": "153.10 $",
+    "price_eur": "140.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 35.5,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 18,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/lexar-thor-16gb-ddr4-3200-dual.webp"
+  },
+  {
+    "id": "patriot_viper_steel_rgb_16gb_3600_cl20_dual",
+    "series": "Viper Steel RGB",
+    "model": "Patriot Viper Steel RGB DDR4 16GB (2x8GB) 3600MHz CL20 PVSR416G360C0K",
+    "capacity": "16 GB (2x8)",
+    "price_tr": "3.850 ₺",
+    "price_usd": "269.99 $",
+    "price_eur": "279.90 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR4",
+      "speed_mts": 3600,
+      "latency_cl": 20,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-steel-rgb-16gb-ddr4-3600-dual.webp"
+  },
+  {
+    "id": "kingston_8gb_3200_cl22_kvr",
+    "series": "ValueRAM",
+    "model": "Kingston 8GB 3200MHz CL22 DDR4 ValueRAM Desktop Memory",
+    "capacity": "8 GB",
+    "price_tr": "2.999 ₺",
+    "price_usd": "74.99 $",
+    "price_eur": "85.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 31.25,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 22,
+      "voltage": 1.2,
+      "profile_support": "JEDEC"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-value-8gb-3200.webp"
+  },
+  {
+    "id": "xpg_spectrix_d35g_32gb_3200_cl16_dual",
+    "series": "Spectrix D35G",
+    "model": "XPG Spectrix D35G 32GB (2x16GB) 3200MHz CL16 DDR4 Gaming RAM",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "15.099 ₺",
+    "price_usd": "387.10 $",
+    "price_eur": "344.70 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 34,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/xpg-spectrix-d35g-32gb-3200-dual.webp"
+  },
+
+  {
+    "id": "gskill_trident_z_neo_32gb_3600_cl16",
+    "series": "Trident Z Neo",
+    "model": "G.Skill Trident Z Neo 32GB (2x16GB) 3600MHz CL16 DDR4 Dual Kit",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "17.950 ₺",
+    "price_usd": "304.10 $",
+    "price_eur": "305.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 44,
+      "type": "DDR4",
+      "speed_mts": 3600,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z-neo-32gb-3600-dual-cl16.webp"
+  },
+  {
+    "id": "gskill_trident_z_neo_32gb_3600_cl18",
+    "series": "Trident Z Neo",
+    "model": "G.Skill Trident Z Neo 32GB (2x16GB) 3600MHz CL18 DDR4 Dual Kit",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "15.850 ₺",
+    "price_usd": "305.00 $",
+    "price_eur": "304.90 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 44,
+      "type": "DDR4",
+      "speed_mts": 3600,
+      "latency_cl": 18,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z-neo-32gb-3600-dual.webp"
+  },
+  {
+    "id": "gskill_trident_z_rgb_16gb_3600_cl18",
+    "series": "Trident Z RGB",
+    "model": "G.Skill Trident Z RGB 16GB (2x8GB) 3600MHz CL18 DDR4 Dual Kit",
+    "capacity": "16 GB (2x8)",
+    "price_tr": "19.999 ₺",
+    "price_usd": "174.99 $",
+    "price_eur": "242.50 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 44,
+      "type": "DDR4",
+      "speed_mts": 3600,
+      "latency_cl": 18,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z-rgb-16gb-3600-dual.webp"
+  },
+  {
+    "id": "xpg_spectrix_d35g_8gb_3600_cl18",
+    "series": "Spectrix D35G",
+    "model": "XPG Spectrix D35G RGB 8GB (1x8GB) 3600MHz CL18 DDR4 Gaming RAM",
+    "capacity": "8 GB",
+    "price_tr": "3.650 ₺",
+    "price_usd": "81.50 $",
+    "price_eur": "69.10 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 34,
+      "type": "DDR4",
+      "speed_mts": 3600,
+      "latency_cl": 18,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/xpg-spectrix-d35g-8gb-3600.webp"
+  },
+
+
+  {
+    "id": "kingston_fury_beast_rgb_16gb_3200_cl16_dual",
+    "series": "Fury Beast RGB",
+    "model": "Kingston Fury Beast RGB 16GB (2x8GB) 3200MHz CL16 DDR4 Dual Kit",
+    "capacity": "16 GB (2x8)",
+    "price_tr": "10.879 ₺",
+    "price_usd": "362.50 $",
+    "price_eur": "362.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 41.2,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-rgb-16gb-3200-dual.webp"
+  },
+  {
+    "id": "kingston_fury_beast_32gb_3200_cl16_single",
+    "series": "Fury Beast",
+    "model": "Kingston Fury Beast 32GB 3200MHz CL16 DDR4 Single Kit",
+    "capacity": "32 GB",
+    "price_tr": "14.128 ₺",
+    "price_usd": "255.00 $",
+    "price_eur": "215.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 34.1,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-32gb-3200-single.webp"
+  },
+  {
+    "id": "crucial_pro_32gb_3200_cl22_dual",
+    "series": "Pro",
+    "model": "Crucial 32GB (2x16GB) Pro 3200MHz CL22 DDR4 Dual Kit",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "13.450 ₺",
+    "price_usd": "316.00 $",
+    "price_eur": "289.80 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 30,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 22,
+      "voltage": 1.2,
+      "profile_support": "JEDEC"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/crucial-pro-32gb-3200-dual.webp"
+  },
+
+  {
+    "id": "crucial_16gb_3200_cl22_udimm",
+    "series": "Standart Udimm",
+    "model": "Crucial 16GB 3200MHz CL22 DDR4 UDIMM Desktop Memory CT32G4DFD832A",
+    "capacity": "16 GB",
+    "price_tr": "5.250 ₺",
+    "price_usd": "267.25 $",
+    "price_eur": "168.50 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 30,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 22,
+      "voltage": 1.2,
+      "profile_support": "JEDEC"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/crucial-udimm-16gb-3200-single.webp"
+  },
+
+  {
+    "id": "xpg_spectrix_d35_32gb_3600_cl18_dual",
+    "series": "Spectrix D35",
+    "model": "XPG Spectrix D35 32GB (2x16GB) 3600MHz CL18 DDR4 Gaming RAM",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "13.350 ₺",
+    "price_usd": "228.30 $",
+    "price_eur": "193.70 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 34,
+      "type": "DDR4",
+      "speed_mts": 3600,
+      "latency_cl": 18,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/xpg-spectrix-d35-32gb-3600-dual.webp"
+  },
+  {
+    "id": "xpg_spectrix_32gb_3200_cl16_dual",
+    "series": "Spectrix",
+    "model": "XPG Spectrix D35G RGB 32GB (2x16GB) 3200MHz CL16 DDR4 Gaming RAM",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "15.745 ₺",
+    "price_usd": "387.90 $",
+    "price_eur": "327.90 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 34,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/xpg-spectrix-rgb-32gb-3200-dual.webp"
+  },
+  {
+    "id": "crucial_16gb_3200_cl22_udimm_dual",
+    "series": "Standard",
+    "model": "Crucial 16GB (2x8GB) 3200MHz CL22 DDR4 UDIMM Desktop Memory",
+    "capacity": "16 GB (2x8)",
+    "price_tr": "10.429 ₺",
+    "price_usd": "130.99 $",
+    "price_eur": "110.90 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 30,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 22,
+      "voltage": 1.2,
+      "profile_support": "JEDEC"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/crucial-16gb-3200-udimm-dual.webp"
+  },
+  {
+    "id": "xpg_spectrix_d35g_32gb_3200_cl16_white",
+    "series": "Spectrix D35G",
+    "model": "XPG Spectrix D35G RGB White 32GB (2x16GB) 3200MHz CL16 DDR4 Gaming RAM",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "15.650 ₺",
+    "price_usd": "103.85 $",
+    "price_eur": "327.90 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 34,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/xpg-spectrix-d35g-32gb-3200-white-dual.webp"
+  },
+  {
+    "id": "gskill_ripjaws_v_16gb_3600_cl18_dual",
+    "series": "Ripjaws V",
+    "model": "G.Skill Ripjaws V 16GB (2x8GB) 3600MHz CL18 DDR4 Dual Kit",
+    "capacity": "16 GB (2x8)",
+    "price_tr": "7.999 ₺",
+    "price_usd": "128.00 $",
+    "price_eur": "109.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 42,
+      "type": "DDR4",
+      "speed_mts": 3600,
+      "latency_cl": 18,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-ripjaws-v-16gb-3600-dual.webp"
+  },
+
+  {
+    "id": "xpg_spectrix_d35g_16gb_3600_cl18_dual",
+    "series": "Spectrix D35G",
+    "model": "XPG Spectrix D35G RGB 16GB (2x8GB) 3600MHz CL18 DDR4 Gaming RAM",
+    "capacity": "16 GB (2x8)",
+    "price_tr": "13.370 ₺",
+    "price_usd": "228.00 $",
+    "price_eur": "193.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 34,
+      "type": "DDR4",
+      "speed_mts": 3600,
+      "latency_cl": 18,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/xpg-spectrix-d35g-16gb-3600-dual.webp"
+  },
+
+  {
+    "id": "xpg_spectrix_d41_8gb_3600_cl18_single",
+    "series": "Spectrix D41",
+    "model": "XPG Spectrix D41 RGB 8GB (1x8GB) 3600MHz CL18 DDR4 Gaming RAM",
+    "capacity": "8 GB",
+    "price_tr": "6.679 ₺",
+    "price_usd": "215.00 $",
+    "price_eur": "190.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 45.8,
+      "type": "DDR4",
+      "speed_mts": 3600,
+      "latency_cl": 18,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/xpg-spectrix-d41-rgb-8gb-3600.webp"
+  },
+  {
+    "id": "crucial_32gb_kit_3200_cl22_dual",
+    "series": "Standard",
+    "model": "Crucial 32GB (2x16GB) 3200MHz CL22 DDR4 UDIMM Kit",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "10.690 ₺",
+    "price_usd": "235.00 $",
+    "price_eur": "195.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 30,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 22,
+      "voltage": 1.2,
+      "profile_support": "JEDEC"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/crucial-32gb-3200-udimm-standart-dual.webp"
+  },
+  {
+    "id": "gskill_ripjawsv_16gb_3000_cl15_dual",
+    "series": "Ripjaws V",
+    "model": "GSKILL 16GB (2x8GB) RipjawsV Black DDR4 3000MHz CL15 1.35V Dual Kit Ram",
+    "capacity": "16 GB (2x8)",
+    "price_tr": "12.499 ₺",
+    "price_usd": "159.99 $",
+    "price_eur": "154.49 €",
+    "regions": ["TR"],
+    "specs": {
+      "height_mm": 42.0,
+      "type": "DDR4",
+      "speed_mts": 3000,
+      "latency_cl": 15,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-ripjawsv-16gb-3000-dual.webp"
+  },
+  {
+    "id": "corsair_vengeance_rgb_rs_16gb_3200_cl16_dual",
+    "series": "Vengeance RGB RS",
+    "model": "Corsair Vengeance RGB RS 16GB (2x8GB) DDR4 3200MHz CL16 ",
+    "capacity": "16 GB (2x8)",
+    "price_tr": "8.286 ₺",
+    "price_usd": "144.99 $",
+    "price_eur": "155.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 45.0,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-rgb-rs-16gb-3200-dual.webp"
+  },
+  {
+    "id": "corsair_vengeance_rgb_pro_32gb_3200_cl16_dual",
+    "series": "Vengeance RGB Pro",
+    "model": "Corsair Vengeance RGB Pro 32GB (2x16GB) DDR4 3200MHz CL16 CMW32GX4M2E3200C16",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "14.850 ₺",
+    "price_usd": "249.00 $",
+    "price_eur": "215.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 51.0,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-rgb-pro-32gb-3200-dual.webp"
+  },
+  {
+    "id": "lexar_standard_8gb_3200_cl22_single",
+    "series": "Lexar DDR4",
+    "model": "Lexar 8GB DDR4 3200 MHz UDIMM Desktop Mem",
+    "capacity": "8 GB (1x8)",
+    "price_tr": "4.120 ₺",
+    "price_usd": "126.75 $",
+    "price_eur": "85.00 €",
+    "regions": ["TR", "EU"],
+    "specs": {
+      "height_mm": 31.25,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 22,
+      "voltage": 1.2,
+      "profile_support": "JEDEC"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/lexar-8gb-3200-standard.webp"
+  },
+  {
+    "id": "twinmos_tornadox7_8gb_3200_cl16_single",
+    "series": "TornadoX7",
+    "model": "TwinMOS TornadoX7 8GB DDR4 3200MHz CL16 Desktop Pc RAM",
+    "capacity": "8 GB (1x8)",
+    "price_tr": "3.699 ₺",
+    "price_usd": "149.20 $",
+    "price_eur": "137.80 €",
+    "regions": ["TR"],
+    "specs": {
+      "height_mm": 34.0,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Masaüstü (Desktop)",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/twinmos-tornadox7-8gb-3200.webp"
+  },
+
+  {
+    "id": "kingston_fury_beast_8gb_3200_cl16_single",
+    "series": "Fury Beast",
+    "model": "Kingston FURY Beast Black 8GB DDR4 3200MT/s CL16 KF432C16BB/8",
+    "capacity": "8 GB (1x8)",
+    "price_tr": "3.525 ₺",
+    "price_usd": "85.50 $",
+    "price_eur": "92.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 34.1,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-8gb-3200.webp"
+  },
+  {
+    "id": "xpg_gammix_d30_8gb_3600_cl18_single",
+    "series": "Gammix D30",
+    "model": "XPG Gammix D30 8GB DDR4 3600MHz CL18 AX4U36008G18I-SR30",
+    "capacity": "8 GB (1x8)",
+    "price_tr": "4.950 ₺",
+    "price_usd": "152.30 $",
+    "price_eur": "140.60 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.7,
+      "type": "DDR4",
+      "speed_mts": 3600,
+      "latency_cl": 18,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/xpg-gammix-d30-8gb-3600.webp"
+  },
+  {
+    "id": "kingston_fury_beast_16gb_3600_cl18_single",
+    "series": "Fury Beast",
+    "model": "Kingston FURY Beast Black 16GB DDR4 3600MT/s CL18 KF436C18BB/16",
+    "capacity": "16 GB (1x16)",
+    "price_tr": "7.850 ₺",
+    "price_usd": "241.50 $",
+    "price_eur": "155.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 34.1,
+      "type": "DDR4",
+      "speed_mts": 3600,
+      "latency_cl": 18,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-16gb-3600.webp"
+  },
+  {
+    "id": "goodram_irdm_pro_hollow_white_8gb_3600_cl18_single",
+    "series": "IRDM Pro",
+    "model": "GoodRam IRDM Pro Hollow White 8GB DDR4 3600MHz CL18 IRP-W3600D4V64L18S/8G",
+    "capacity": "8 GB (1x8)",
+    "price_tr": "4.680 ₺",
+    "price_usd": "197.00 $",
+    "price_eur": "187.90 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 33.0,
+      "type": "DDR4",
+      "speed_mts": 3600,
+      "latency_cl": 18,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/goodram-irdm-pro-white-8gb-3600.webp"
+  },
+  {
+    "id": "goodram_standard_8gb_3200_cl22_single",
+    "series": "Goodram Standard",
+    "model": "Goodram 8GB DDR4 3200MHz CL22 GR3200D464L22S/8G",
+    "capacity": "8 GB (1x8)",
+    "price_tr": "3.850 ₺",
+    "price_usd": "122.50 $",
+    "price_eur": "91.50 €",
+    "regions": ["TR", "USA","EU"],
+    "specs": {
+      "height_mm": 31.25,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 22,
+      "voltage": 1.2,
+      "profile_support": "JEDEC"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/goodram-8gb-3200-standard.webp"
+  },
+  {
+    "id": "kingston_fury_beast_32gb_3200_cl16_dual",
+    "series": "Fury Beast",
+    "model": "Kingston FURY Beast Black 32GB (2x16GB) DDR4 3200MT/s CL16 KF432C16BBK2/32",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "13.250 ₺",
+    "price_usd": "324.70 $",
+    "price_eur": "269.40 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 34.1,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-32gb-3200-dual.webp"
+  },
+  {
+    "id": "crucial_standard_32gb_3200_cl22_single",
+    "series": "Crucial Standard",
+    "model": "Crucial 32GB DDR4 3200MHz CL22 Desktop Memory CT32G4DFD832A",
+    "capacity": "32 GB (1x32)",
+    "price_tr": "11.750 ₺",
+    "price_usd": "264.50 $",
+    "price_eur": "237.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 31.25,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 22,
+      "voltage": 1.2,
+      "profile_support": "JEDEC"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/crucial-32gb-3200-standard.webp"
+  },
+  {
+    "id": "teamgroup_t_force_vulcan_z_16gb_3200_cl16_dual_gray",
+    "series": "T-Force Vulcan Z",
+    "model": "TEAMGROUP T-Force Vulcan Z DDR4 16GB (2x8GB) 3200MHz CL16 Desktop Memory Gray TLZGD416G3200HC16FDC01",
+    "capacity": "16 GB (2x8)",
+    "price_tr": "5.199 ₺",
+    "price_usd": "129.90 $",
+    "price_eur": "196.75 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 32.0,
+      "type": "DDR4",
+      "speed_mts": 3200,
+      "latency_cl": 16,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/tforce-vulcan-z-gray-16gb-3200-dual.webp"
+  },
+  {
+    "id": "gskill_trident_z_rgb_32gb_3600_cl18_dual",
+    "series": "Trident Z RGB",
+    "model": "G.Skill Trident Z RGB 32GB (2x16GB) DDR4 3600MHz CL18-22-22-42 F4-3600C18D-32GTZR",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "15.999 ₺",
+    "price_usd": "299.98 $",
+    "price_eur": "310.60 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR4",
+      "speed_mts": 3600,
+      "latency_cl": 18,
+      "voltage": 1.35,
+      "profile_support": "XMP 2.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z-rgb-32gb-3600-dual.webp"
+  },
+
+                             "//DDR5 RAM memory models",
+
+  {
+    "id": "patriot_viper_venom_32gb_6000_cl36_dual",
+    "series": "Viper Venom (Non-RGB)",
+    "model": "Patriot Viper Venom 32GB (2x16GB) DDR5 6000MT/s CL36-36-36-76 PVV532G600C36K",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "25.199 ₺",
+    "price_usd": "369.00 $",
+    "price_eur": "397.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 43.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.25,
+      "profile_support": "Intel XMP 3.0 / AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-venom-32gb-ddr5-6000-dual-cl36.webp"
+  },
+  {
+    "id": "patriot_viper_venom_rgb_32gb_5600_cl36_dual",
+    "series": "Viper Venom RGB",
+    "model": "Patriot Viper Venom RGB 32GB (2x16GB) DDR5 5600MT/s CL36-36-36-68 PVVR532G560C36K",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "23.130 ₺",
+    "price_usd": "379.99 $",
+    "price_eur": "498.99 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 43.0,
+      "type": "DDR5",
+      "speed_mts": 5600,
+      "latency_cl": 36,
+      "voltage": 1.25,
+      "profile_support": "Intel XMP 3.0 / AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-venom-rgb-32gb-ddr5-5600-dual-cl36.webp"
+  },
+  {
+    "id": "patriot_viper_venom_rgb_32gb_7200_cl34_dual",
+    "series": "Viper Venom RGB",
+    "model": "Patriot Viper Venom RGB 32GB (2x16GB) DDR5 7200MT/s CL34-42-42-84 PVVR532G720C34K",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "28.829 ₺",
+    "price_usd": "855.99 $",
+    "price_eur": "569.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 43.3,
+      "type": "DDR5",
+      "speed_mts": 7200,
+      "latency_cl": 34,
+      "voltage": 1.45,
+      "profile_support": "Intel XMP 3.0 / AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-venom-rgb-32gb-7200-dual.webp"
+  },
+  {
+    "id": "patriot_viper_venom_32gb_7400_cl36_dual",
+    "series": "Viper Venom (Non-RGB)",
+    "model": "Patriot Viper Venom 32GB (2x16GB) DDR5 7400MT/s CL36-44-44-110 PVV532G740C36K",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "27.899 ₺",
+    "price_usd": "1116.99 $",
+    "price_eur": "800.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 43.0,
+      "type": "DDR5",
+      "speed_mts": 7400,
+      "latency_cl": 36,
+      "voltage": 1.5,
+      "profile_support": "Intel XMP 3.0 / AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-venom-rgb-32gb-7400-dual.webp"
+  },
+
+  {
+    "id": "patriot_viper_venom_16gb_6000_cl30_single",
+    "series": "Viper Venom (Non-RGB)",
+    "model": "Patriot Viper Venom 16GB DDR5 6000MT/s CL30-40-40-76 PVV516G60C30",
+    "capacity": "16 GB (1x16)",
+    "price_tr": "11.122 ₺",
+    "price_usd": "199.99 $",
+    "price_eur": "209.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 43.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 30,
+      "voltage": 1.35,
+      "profile_support": "XMP 3.0 / EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-venom-16gb-ddr5-6000-cl30.webp"
+  },
+  {
+    "id": "patriot_viper_elite_5_ultra_rgb_32gb_6000_cl28_dual",
+    "series": "Viper Elite 5 Ultra RGB",
+    "model": "Patriot Viper Elite 5 Ultra 32GB (2x16GB) DDR5 6000MT/s CL28-40-40-100 VEUR532G6028K",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "N/A (Stok Yok)",
+    "price_usd": "539.99 $",
+    "price_eur": "646.00 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 28,
+      "voltage": 1.4,
+      "profile_support": "Intel XMP 3.0 / AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-elite-5-ultra-rgb-32gb-6000-dual.webp"
+  },
+  {
+    "id": "patriot_viper_venom_rgb_32gb_7000_cl32_dual",
+    "series": "Viper Venom RGB",
+    "model": "Patriot Viper Venom RGB 32GB (2x16GB) DDR5 7000MT/s CL32-48-48-96 PVVR532G700C32K",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "28.249 ₺",
+    "price_usd": "855.00 $",
+    "price_eur": "699.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 43.0,
+      "type": "DDR5",
+      "speed_mts": 7000,
+      "latency_cl": 32,
+      "voltage": 1.45,
+      "profile_support": "Intel XMP 3.0 / AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-venom-rgb-32gb-7000-dual.webp"
+  },
+  {
+    "id": "patriot_viper_xtreme_5_red_48gb_8200_cl38_dual",
+    "series": "Viper Xtreme 5 RGB",
+    "model": "Patriot Viper Xtreme 5 Red 48GB (2x24GB) DDR5 8200MT/s CL38-48-48-117 PVX548G82C38K",
+    "capacity": "48 GB (2x24)",
+    "price_tr": "43.650 ₺",
+    "price_usd": "1271.99 $",
+    "price_eur": "992.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 8200,
+      "latency_cl": 38,
+      "voltage": 1.5,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-xtreme-5-red-48gb-8200-dual.webp"
+  },
+  {
+    "id": "patriot_viper_xtreme_5_rgb_48gb_7600_cl36_dual",
+    "series": "Viper Xtreme 5 RGB",
+    "model": "Patriot Viper Xtreme 5 RGB 48GB (2x24GB) DDR5 7600MT/s CL36-48-48-84 PVXR548G76C36K",
+    "capacity": "48 GB (2x24)",
+    "price_tr": "44.749 ₺",
+    "price_usd": "1.276,00 $",
+    "price_eur": "1.172,00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 7600,
+      "latency_cl": 36,
+      "voltage": 1.45,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-xtreme-5-rgb-48gb-7600-dual.webp"
+  },
+  {
+    "id": "patriot_viper_xtreme_5_red_32gb_7600_cl36_dual",
+    "series": "Viper Xtreme 5 (Non-RGB)",
+    "model": "Patriot Viper Xtreme 5 RED 32GB (2x16GB) DDR5 7600MT/s CL36-48-48-84 PVX532G76C36K",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "32.289 ₺",
+    "price_usd": "1116.00 $",
+    "price_eur": "1002.99 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 7600,
+      "latency_cl": 36,
+      "voltage": 1.45,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-xtreme-5-red-32gb-7600-dual.webp"
+  },
+  {
+    "id": "patriot_viper_xtreme_5_red_32gb_8200_cl38_dual",
+    "series": "Viper Xtreme 5 (Non-RGB)",
+    "model": "Patriot Viper Xtreme 5 32GB (2x16GB) DDR5 8200MT/s CL38-48-48-84 PVX532G82C38K",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "31.899 ₺",
+    "price_usd": "1122.99 $",
+    "price_eur": "824.99 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 8200,
+      "latency_cl": 38,
+      "voltage": 1.45,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-xtreme-5-red-32gb-8200-dual.webp"
+  },
+  {
+    "id": "patriot_viper_xtreme_5_rgb_48gb_8000_cl38_dual",
+    "series": "Viper Xtreme 5 RGB",
+    "model": "Patriot Viper Xtreme 5 RGB 48GB (2x24GB) DDR5 8000MT/s CL38-48-48-84 PVXR548G80C38K",
+    "capacity": "48 GB (2x24)",
+    "price_tr": "45.489 ₺",
+    "price_usd": "799.99 $",
+    "price_eur": "760.99 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 8000,
+      "latency_cl": 38,
+      "voltage": 1.45,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-xtreme-5-rgb-48gb-8000-dual.webp"
+  },
+  {
+    "id": "patriot_viper_xtreme_5_red_48gb_7600_cl36_dual",
+    "series": "Viper Xtreme 5",
+    "model": "Patriot Viper Xtreme 5 Red 48GB (2x24GB) DDR5 7600MT/s CL36-48-48-84 PVX548G76C36K",
+    "capacity": "48 GB (2x24)",
+    "price_tr": "42.300 ₺",
+    "price_usd": "1261.99 $",
+    "price_eur": "N/A (Stok Yok)",
+    "regions": ["TR", "USA"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 7600,
+      "latency_cl": 36,
+      "voltage": 1.45,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-xtreme-5-red-48gb-7600-dual.webp"
+  },
+  {
+    "id": "patriot_viper_xtreme_5_rgb_32gb_8000_cl38_dual",
+    "series": "Viper Xtreme 5 RGB",
+    "model": "Patriot Viper Xtreme 5 RGB 32GB (2x16GB) DDR5 8000MT/s CL38-48-48-84 PVXR532G80C38K",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "38.650 ₺",
+    "price_usd": "679.99 $",
+    "price_eur": "699.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 8000,
+      "latency_cl": 38,
+      "voltage": 1.45,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-xtreme-5-rgb-32gb-8000-dual.webp"
+  },
+  {
+    "id": "patriot_viper_xtreme_5_mpower_rgb_48gb_6400_cl32_dual",
+    "series": "Viper Xtreme 5 RGB MPOWER",
+    "model": "Patriot Viper Xtreme 5 RGB MPOWER 48GB (2x24GB) DDR5 6400MT/s CL32-40-40-84 PVXR548G64C32KM",
+    "capacity": "48 GB (2x24)",
+    "price_tr": "N/A (Stok Yok)",
+    "price_usd": "1122.00 $",
+    "price_eur": "730.00 €",
+    "regions": [ "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 32,
+      "voltage": 1.4,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop (Optimized for MSI MPOWER)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-xtreme-5-mpower-rgb-48gb-6400-dual.webp"
+  },
+  {
+    "id": "patriot_viper_xtreme_5_mpower_rgb_32gb_6000_cl30_dual",
+    "series": "Viper Xtreme 5 RGB MPOWER",
+    "model": "Patriot Viper Xtreme 5 RGB MPOWER 32GB (2x16GB) DDR5 6000MT/s CL30-40-40-76 PVXR532G60C30KM",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "28.450 ₺",
+    "price_usd": "912.99 $",
+    "price_eur": "534.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 30,
+      "voltage": 1.35,
+      "profile_support": "Intel XMP 3.0 / AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop (Optimized for MSI MPOWER)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-xtreme-5-mpower-rgb-32gb-6000-dual.webp"
+  },
+  {
+    "id": "patriot_viper_xtreme_5_m_rgb_32gb_6400_cl32_dual",
+    "series": "Viper Xtreme 5 RGB MPOWER",
+    "model": "Patriot Viper Xtreme 5 M 32GB (2x16GB) DDR5 6400MT/s CL32-40-40-84 PVXR532G64C32KM",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "27.999 ₺",
+    "price_usd": "432.99 $",
+    "price_eur": "489.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 32,
+      "voltage": 1.4,
+      "profile_support": "Intel XMP 3.0 / AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop (MSI MPOWER Certified)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-xtreme-5-m-rgb-32gb-6400-dual.webp"
+  },
+  {
+    "id": "patriot_viper_xtreme_5_ckd_48gb_9200_cl44_dual",
+    "series": "Viper Xtreme 5 CKD",
+    "model": "Patriot Viper Xtreme 5 CKD 48GB (2x24GB) DDR5 9200MT/s CL44-52-52-126 VX548G9244CK",
+    "capacity": "48 GB (2x24)",
+    "price_tr": "68.450 ₺",
+    "price_usd": "1.148,99 $",
+    "price_eur": "1.343,00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5 (CUDIMM)",
+      "speed_mts": 9200,
+      "latency_cl": 44,
+      "voltage": 1.45,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop (Intel Z890 / Next-Gen)",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM with CKD"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-xtreme-5-ckd-48gb-9200-dual.webp"
+  },
+  {
+    "id": "patriot_viper_xtreme_5_rgb_32gb_7600_cl36_dual",
+    "series": "Viper Xtreme 5 RGB",
+    "model": "Patriot Viper Xtreme 5 RGB 32GB (2x16GB) DDR5 7600MT/s CL36-48-48-84 PVXR532G76C36K",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "34.750 ₺",
+    "price_usd": "1132.00 $",
+    "price_eur": "837.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 7600,
+      "latency_cl": 36,
+      "voltage": 1.45,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-xtreme-5-rgb-32gb-7600-dual.webp"
+  },
+
+  {
+    "id": "xpg_lancer_blade_16gb_6000_cl48_single",
+    "series": "Lancer Blade",
+    "model": "XPG Lancer Blade Black 16GB DDR5 6000MT/s CL48 AX5U6000C4816G-SLABBK",
+    "capacity": "16 GB (1x16)",
+    "price_tr": "22.199 ₺",
+    "price_usd": "449.00 $",
+    "price_eur": "305.99 €",
+    "regions": ["TR","USA","EU"],
+    "specs": {
+      "height_mm": 33.8,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 48,
+      "voltage": 1.25,
+      "profile_support": "XMP 3.0 / EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/xpg-lancer-blade-16gb-6000.webp"
+  },
+  {
+    "id": "kingston_fury_beast_16gb_6000_cl36_single",
+    "series": "Fury Beast",
+    "model": "Kingston FURY Beast 16GB DDR5 6000MT/s CL36 KF560C36BBE2-16TR",
+    "capacity": "16 GB (1x16)",
+    "price_tr": "23.000 ₺",
+    "price_usd": "249.99 $",
+    "price_eur": "242.50 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 34.9,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "EXPO / XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-16gb-6000.webp"
+  },
+  {
+    "id": "xpg_lancer_blade_rgb_16gb_6000_cl48_single",
+    "series": "Lancer Blade RGB",
+    "model": "XPG Lancer Blade RGB Black 16GB DDR5 6000MT/s CL48 AX5U6000C4816G-SLABRBK",
+    "capacity": "16 GB (1x16)",
+    "price_tr": "15.700 ₺",
+    "price_usd": "449.90 $",
+    "price_eur": "305.99 €",
+    "regions": ["TR", "EU"],
+    "specs": {
+      "height_mm": 40.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 48,
+      "voltage": 1.25,
+      "profile_support": "XMP 3.0 / EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/xpg-lancer-blade-rgb-16gb-6000.webp"
+  },
+  {
+    "id": "gskill_ripjaws_s5_16gb_6000_cl36_single",
+    "series": "Ripjaws S5",
+    "model": "G.Skill Ripjaws S5 16GB DDR5 6000MT/s CL36-48-48-96 F5-6000J3648D16GX1-RS5K",
+    "capacity": "16 GB (1x16)",
+    "price_tr": "13.950 ₺",
+    "price_usd": "244.99 $",
+    "price_eur": "250.20 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 33.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-ripjaws-s5-16gb-6000.webp"
+  },
+  {
+    "id": "gskill_ripjaws_s5_16gb_5200_cl40_single",
+    "series": "Ripjaws S5",
+    "model": "G.Skill Ripjaws S5 16GB DDR5 5200MT/s CL40-40-40-83 F5-5200J4040A16GX1-RS5K",
+    "capacity": "16 GB (1x16)",
+    "price_tr": "12.369 ₺",
+    "price_usd": "295.90 $",
+    "price_eur": "357.80 €",
+    "regions": ["EU", "TR"],
+    "specs": {
+      "height_mm": 33.0,
+      "type": "DDR5",
+      "speed_mts": 5200,
+      "latency_cl": 40,
+      "voltage": 1.1,
+      "profile_support": "XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-ripjaws-s5-16gb-5200.webp"
+  },
+  {
+    "id": "kingston_fury_beast_black_16gb_5600_cl36_single",
+    "series": "Fury Beast Black",
+    "model": "Kingston FURY Beast 16GB DDR5 5600MT/s CL36-38-38 KF556C36BBE-16TR",
+    "capacity": "16 GB (1x16)",
+    "price_tr": "13.240 ₺",
+    "price_usd": "245.90 $",
+    "price_eur": "227.60 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 34.9,
+      "type": "DDR5",
+      "speed_mts": 5600,
+      "latency_cl": 36,
+      "voltage": 1.25,
+      "profile_support": "AMD EXPO / XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-16gb-5600.webp"
+  },
+  {
+    "id": "gskill_ripjaws_s5_16gb_6000_cl36_tight_single",
+    "series": "Ripjaws S5",
+    "model": "G.Skill Ripjaws S5 16GB DDR5 6000MT/s CL36-36-36-96 F5-6000J3636F16GX1-RS5K",
+    "capacity": "16 GB (1x16)",
+    "price_tr": "11.590 ₺",
+    "price_usd": "127.80 $",
+    "price_eur": "117.50 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 33.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-ripjaws-s5-16gb-6000-cl36.webp"
+  },
+  {
+    "id": "kingston_fury_beast_black_16gb_6000_cl36_dual",
+    "series": "Fury Beast Black",
+    "model": "Kingston FURY Beast 16GB (2x8GB) DDR5 6000MT/s CL36-38-38",
+    "capacity": "16 GB (2x8)",
+    "price_tr": "14.919 ₺",
+    "price_usd": "237.90 $",
+    "price_eur": "276.90 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 34.9,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "AMD EXPO / XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-16gb-6000-dual.webp"
+  },
+  {
+    "id": "xpg_lancer_blade_rgb_16gb_6000_cl36_single",
+    "series": "Lancer Blade RGB",
+    "model": "XPG Lancer Blade RGB Black 16GB DDR5 6000MT/s CL36-38-38 AX5U6000C3616G-SLABRBK",
+    "capacity": "16 GB (1x16)",
+    "price_tr": "12.915 ₺",
+    "price_usd": "449.00 $",
+    "price_eur": "325.00 €",
+    "regions": ["TR", "USA","EU"],
+    "specs": {
+      "height_mm": 40.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "XMP 3.0 / EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/xpg-lancer-blade-rgb-16gb-6000-single.webp"
+  },
+  {
+    "id": "xpg_lancer_rgb_16gb_6400_cl32_single",
+    "series": "Lancer RGB",
+    "model": "XPG Lancer RGB Black 16GB DDR5 6400MT/s CL32-39-39 AX5U6400C3216G-CLARBK",
+    "capacity": "16 GB (1x16)",
+    "price_tr": "17.299 ₺",
+    "price_usd": "345.00 $",
+    "price_eur": "331.50 €",
+    "regions": ["TR", "EU"],
+    "specs": {
+      "height_mm": 40.0,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 32,
+      "voltage": 1.4,
+      "profile_support": "XMP 3.0 / EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/xpg-lancer-rgb-16gb-6400-cl32.webp"
+  },
+  {
+    "id": "kingston_fury_beast_16gb_6000_cl30_dual",
+    "series": "Fury Beast Black",
+    "model": "Kingston FURY Beast 16GB (2x8GB) DDR5 6000MT/s CL30-36-36 KF560C30BBEK2-16",
+    "capacity": "16 GB (2x8)",
+    "price_tr": "15.299 ₺",
+    "price_usd": "279.99 $",
+    "price_eur": "276.60 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 35.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 30,
+      "voltage": 1.4,
+      "profile_support": "AMD EXPO / XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-16gb-6000-dual-cl30.webp"
+  },
+  {
+    "id": "kingston_fury_beast_32gb_6000_cl36_dual",
+    "series": "Fury Beast Black",
+    "model": "Kingston FURY Beast 32GB (2x16GB) DDR5 6000MT/s CL36-44-44 KF560C36BBE2K2-32",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "22.440 ₺",
+    "price_usd": "380.00 $",
+    "price_eur": "465.50 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 35.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "AMD EXPO / XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-32gb-6000-dual.webp"
+  },
+  {
+    "id": "kingston_fury_beast_32gb_5600_cl36_dual",
+    "series": "Fury Beast Black",
+    "model": "Kingston FURY Beast 32GB (2x16GB) DDR5 5600MT/s CL36-38-38 KF556C36BBEK2-32TR",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "23.310 ₺",
+    "price_usd": "499.99 $",
+    "price_eur": "433.40 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 35.0,
+      "type": "DDR5",
+      "speed_mts": 5600,
+      "latency_cl": 36,
+      "voltage": 1.25,
+      "profile_support": "AMD EXPO / XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-32gb-5600-dual.webp"
+  },
+  {
+    "id": "gskill_flare_x5_32gb_5600_cl36_dual",
+    "series": "Flare X5",
+    "model": "G.Skill Flare X5 32GB (2x16GB) DDR5 5600MT/s CL36-36-36-89 F5-5600J3636C16GX2-FX5",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "23.650 ₺",
+    "price_usd": "449.99 $",
+    "price_eur": "559.99 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 33.0,
+      "type": "DDR5",
+      "speed_mts": 5600,
+      "latency_cl": 36,
+      "voltage": 1.2,
+      "profile_support": "AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-flare-x5-32gb-5600-dual.webp"
+  },
+  {
+    "id": "kingston_fury_beast_rgb_32gb_6000_cl36_dual",
+    "series": "Fury Beast RGB",
+    "model": "Kingston FURY Beast RGB 32GB (2x16GB) DDR5 6000MT/s CL36-44-44 KF560C36BBE2AK2-32TR",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "23.540 ₺",
+    "price_usd": "359.50 $",
+    "price_eur": "459.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 42.2,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "AMD EXPO / XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-rgb-32gb-6000-dual.webp"
+  },
+  {
+    "id": "gskill_ripjaws_m5_rgb_white_32gb_6000_cl36_dual",
+    "series": "Ripjaws M5 RGB",
+    "model": "G.Skill Ripjaws M5 RGB White 32GB (2x16GB) DDR5 6000MT/s CL36-36-36-96 F5-6000J3636F16GX2-RM5RW",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "25.840 ₺",
+    "price_usd": "509.60 $",
+    "price_eur": "595.00 €",
+    "regions": ["TR", "EU"],
+    "specs": {
+      "height_mm": 41.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "XMP 3.0 / EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-ripjaws-m5-white-32gb-6000-dual.webp"
+  },
+  {
+    "id": "kingston_fury_beast_black_32gb_6400_cl32_dual",
+    "series": "Fury Beast Black",
+    "model": "Kingston FURY Beast 32GB (2x16GB) DDR5 6400MT/s CL32-39-39 KF564C32BBK2-32",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "27.749 ₺",
+    "price_usd": "539.50 $",
+    "price_eur": "529.99 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 34.9,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 32,
+      "voltage": 1.4,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-32gb-6400-dual.webp"
+  },
+  {
+    "id": "gskill_ripjaws_s5_32gb_6000_cl36_dual",
+    "series": "Ripjaws S5",
+    "model": "G.Skill Ripjaws S5 32GB (2x16GB) DDR5 6000MT/s CL36-36-36-96 F5-6000J3636F16GX2-RS5K",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "25.658 ₺",
+    "price_usd": "498.90 $",
+    "price_eur": "411.99 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 33.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-ripjaws-s5-32gb-6000-dual.webp"
+  },
+  {
+    "id": "kingston_fury_beast_rgb_32gb_5600_cl36_dual",
+    "series": "Fury Beast RGB",
+    "model": "Kingston FURY Beast RGB 32GB (2x16GB) DDR5 5600MT/s CL36-38-38 KF556C36BBEAK2-32TR",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "24.290 ₺",
+    "price_usd": "439.99 $",
+    "price_eur": "433.20 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 42.2,
+      "type": "DDR5",
+      "speed_mts": 5600,
+      "latency_cl": 36,
+      "voltage": 1.25,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-rgb-32gb-5600-dual.webp"
+  },
+  {
+    "id": "kingston_fury_beast_rgb_32gb_6000_cl30_dual",
+    "series": "Fury Beast RGB",
+    "model": "Kingston FURY Beast RGB 32GB (2x16GB) DDR5 6000MT/s CL30-36-36 KF560C30BBEAK2-32TR",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "26.080 ₺",
+    "price_usd": "444.99 $",
+    "price_eur": "461.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 42.2,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 30,
+      "voltage": 1.4,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-rgb-32gb-6000-dual.webp"
+  },
+  {
+    "id": "gskill_trident_z5_neo_rgb_32gb_6000_cl36_dual",
+    "series": "Trident Z5 Neo RGB",
+    "model": "G.Skill Trident Z5 Neo RGB 32GB (2x16GB) DDR5 6000MT/s CL36-36-36-96 F5-6000J3636F16GX2-TZ5NR",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "27.673 ₺",
+    "price_usd": "852.50 $",
+    "price_eur": "786.20 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "bit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z5-neo-rgb-32gb-6000-dual.webp"
+  },
+  {
+    "id": "gskill_trident_z5_rgb_black_32gb_6000_cl36_dual",
+    "series": "Trident Z5 RGB",
+    "model": "G.Skill Trident Z5 RGB Black 32GB (2x16GB) DDR5 6000MT/s CL36-36-36-96 F5-6000J3636F16GX2-TZ5RK",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "25.070 ₺",
+    "price_usd": "455.00 $",
+    "price_eur": "467.50 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z5-rgb-32gb-6000-dual.webp"
+  },
+
+  {
+    "id": "gskill_ripjaws_m5_rgb_32gb_6400_cl36_dual",
+    "series": "Ripjaws M5 RGB",
+    "model": "G.Skill Ripjaws M5 RGB 32GB (2x16GB) DDR5 6400MT/s CL36-48-48-102 F5-6400J3648F16GX2-RM5RK",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "24.260 ₺",
+    "price_usd": "509.99 $",
+    "price_eur": "509.99 €",
+    "regions": ["TR", "EU"],
+    "specs": {
+      "height_mm": 41.0,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-ripjaws-m5-rgb-32gb-6400-dual.webp"
+  },
+
+  {
+    "id": "gskill_ripjaws_s5_black_32gb_6400_cl36_dual",
+    "series": "Ripjaws S5",
+    "model": "G.Skill Ripjaws S5 Black 32GB (2x16GB) DDR5 6400MT/s CL36-48-48-102 F5-6400J3648F16GX2-RS5K",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "25.850 ₺",
+    "price_usd": "429.95 $",
+    "price_eur": "411.99 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 33.0,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-ripjaws-s5-32gb-6400-dual.webp"
+  },
+  {
+    "id": "gskill_trident_z5_royal_silver_32gb_6400_cl32_dual",
+    "series": "Trident Z5 Royal",
+    "model": "G.Skill Trident Z5 Royal Silver 32GB (2x16GB) DDR5 6400MT/s CL32-39-39-102 F5-6400J3239G16GX2-TR5S",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "42.850 ₺",
+    "price_usd": "569.99 $",
+    "price_eur": "1387.80 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 32,
+      "voltage": 1.4,
+      "profile_support": "XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z5-royal-silver-32gb-6400-dual.webp"
+  },
+  {
+    "id": "gskill_trident_z5_rgb_black_32gb_6400_cl32_dual",
+    "series": "Trident Z5 RGB",
+    "model": "G.Skill Trident Z5 RGB Black 32GB (2x16GB) DDR5 6400MT/s CL32-39-39-102 F5-6400J3239G16GX2-TZ5RK",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "29.850 ₺",
+    "price_usd": "549.99 $",
+    "price_eur": "467.50 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 32,
+      "voltage": 1.4,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z5-rgb-black-32gb-6400-dual.webp"
+  },
+  {
+    "id": "gskill_trident_z5_rgb_white_32gb_6400_cl32_dual",
+    "series": "Trident Z5 RGB",
+    "model": "G.Skill Trident Z5 RGB White 32GB (2x16GB) DDR5 6400MT/s CL32-39-39-102 F5-6400J3239G16GX2-TZ5RW",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "30.420 ₺",
+    "price_usd": "519.90 $",
+    "price_eur": "763.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 32,
+      "voltage": 1.4,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z5-rgb-white-32gb-6400-dual.webp"
+  },
+  {
+    "id": "xpg_lancer_neon_rgb_32gb_6400_cl32_dual",
+    "series": "Lancer Neon RGB",
+    "model": "XPG Lancer Neon RGB Black 32GB (2x16GB) DDR5 6400MT/s CL32-39-39 AX5U6400C3216G-DCLANRSG",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "30.150 ₺",
+    "price_usd": "761.20 $",
+    "price_eur": "711.80 €",
+    "regions": ["TR", "EU"],
+    "specs": {
+      "height_mm": 43.5,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 32,
+      "voltage": 1.4,
+      "profile_support": "XMP 3.0 / EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/xpg-lancer-neon-rgb-32gb-6400-dual.webp"
+  },
+  {
+    "id": "kingston_fury_beast_rgb_64gb_6000_cl36_dual",
+    "series": "Fury Beast RGB",
+    "model": "Kingston FURY Beast RGB 64GB (2x32GB) DDR5 6000MT/s CL36-38-38 KF560C36BBEAK2-64TR",
+    "capacity": "64 GB (2x32)",
+    "price_tr": "43.050 ₺",
+    "price_usd": "869.99 $",
+    "price_eur": "843.98 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 42.2,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-rgb-64gb-6000-dual.webp"
+  },
+  {
+    "id": "gskill_trident_z5_rgb_black_48gb_6800_cl34_dual",
+    "series": "Trident Z5 RGB",
+    "model": "G.Skill Trident Z5 RGB Black 48GB (2x24GB) DDR5 6800MT/s CL34-46-46-108 F5-6800J3446F24GX2-TZ5RK",
+    "capacity": "48 GB (2x24)",
+    "price_tr": "39.680 ₺",
+    "price_usd": "1299.99 $",
+    "price_eur": "1309.30 €",
+    "regions": ["TR", "USA" ],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6800,
+      "latency_cl": 34,
+      "voltage": 1.35,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z5-rgb-48gb-6800-dual.webp"
+  },
+  {
+    "id": "gskill_trident_z5_rgb_64gb_6000_cl36_dual",
+    "series": "Trident Z5 RGB",
+    "model": "G.Skill Trident Z5 RGB 64GB (2x32GB) DDR5 6000MT/s CL36-36-36-96 F5-6000J3636F32GX2-TZ5RK",
+    "capacity": "64 GB (2x32)",
+    "price_tr": "45.410 ₺",
+    "price_usd": "838.00 $",
+    "price_eur": "824.70 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z5-rgb-64gb-6000-dual.webp"
+  },
+  {
+    "id": "kingston_fury_beast_64gb_6000_cl36_dual",
+    "series": "Fury Beast Black",
+    "model": "Kingston FURY Beast 64GB (2x32GB) DDR5 6000MT/s CL36-38-38 ",
+    "capacity": "64 GB (2x32)",
+    "price_tr": "45.450 ₺",
+    "price_usd": "929.99 $",
+    "price_eur": "819.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 34.9,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-64gb-6000-dual.webp"
+  },
+  {
+    "id": "kingston_fury_beast_64gb_6000_cl30_dual",
+    "series": "Fury Beast Black",
+    "model": "Kingston FURY Beast 64GB (2x32GB) DDR5 6000MT/s CL30-36-36 ",
+    "capacity": "64 GB (2x32)",
+    "price_tr": "52.420 ₺",
+    "price_usd": "999.00 $",
+    "price_eur": "919.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 34.9,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 30,
+      "voltage": 1.4,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/kingston-fury-beast-64gb-6000-cl30-dual.webp"
+  },
+  {
+    "id": "gskill_trident_z5_rgb_black_96gb_6400_cl32_dual",
+    "series": "Trident Z5 RGB",
+    "model": "G.Skill Trident Z5 RGB Black 96GB (2x48GB) DDR5 6400MT/s CL32-39-39-102 F5-6400J3239F48GX2-TZ5RK",
+    "capacity": "96 GB (2x48)",
+    "price_tr": "70.250 ₺",
+    "price_usd": "2407.70 $",
+    "price_eur": "1169.99 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 32,
+      "voltage": 1.35,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z5-rgb-96gb-6400-dual.webp"
+  },
+  {
+    "id": "gskill_trident_z5_royal_neo_silver_96gb_6400_cl28_dual",
+    "series": "Trident Z5 Royal",
+    "model": "G.SKILL Trident Z5 Royal Neo DDR5 RAM 96GB (2x48GB) 6000MT/s CL28-36-36-96 1.35VMT/s ",
+    "capacity": "96 GB (2x48)",
+    "price_tr": "94.600 ₺",
+    "price_usd": "1299.00 $",
+    "price_eur": "1300.00 €",
+    "regions": ["TR", "USA" ],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 32,
+      "voltage": 1.4,
+      "profile_support": "AMD Expo / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z5-royal-silver-96gb-6400-dual.webp"
+  },
+  {
+    "id": "crucial_pro_oc_32gb_6400_cl32_dual",
+    "series": "Crucial Pro Overclocking",
+    "model": "Crucial Pro OC 32GB (2x16GB) DDR5 6400MT/s CL32-39-39 CP2K16G64C32U5B",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "21.150 ₺",
+    "price_usd": "359.40 $",
+    "price_eur": "398.90 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 32.0,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 32,
+      "voltage": 1.35,
+      "profile_support": "Intel XMP 3.0 / AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/crucial-pro-oc-32gb-6400-dual.webp"
+  },
+  {
+    "id": "corsair_vengeance_rgb_black_32gb_6000_cl30_dual",
+    "series": "Vengeance RGB",
+    "model": "CORSAIR Vengeance RGB Black 32GB (2x16GB) DDR5 6000MT/s CL30-36-36-76 CMH32GX5M2B6000C30",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "27.990 ₺",
+    "price_usd": "578.00 $",
+    "price_eur": "405.00 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 30,
+      "voltage": 1.4,
+      "profile_support": "Intel XMP 3.0 / AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-rgb-32gb-6000-cl30-dual.webp"
+  },
+  {
+    "id": "lexar_thor_z_rgb_black_32gb_6000_cl36_dual_expo",
+    "series": "Thor Z 2nd Gen Series RGB",
+    "model": "Lexar THOR Z 2nd Gen RGB 32GB (2x16GB) DDR5 6000MT/s CL36-38-38-96 LD5U32G60C36BG-RGD",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "38.850 ₺",
+    "price_usd": "419.20 $",
+    "price_eur": "439.50 €",
+    "regions": ["EU", "TR"],
+    "specs": {
+      "height_mm": 40.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/lexar-thor-z-2ndgen-rgb-32gb-6000-dual.webp"
+  },
+  {
+    "id": "lexar_thor_z_series_oc_black_32gb_6000_cl36_expo",
+    "series": "Thor Z Series OC",
+    "model": "Lexar THOR Z Series OC 32GB (2x16GB) DDR5 6000MT/s CL36-38-38-96 LD5U16G60C36EV-RGD",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "49.999 ₺",
+    "price_usd": "429.20 $",
+    "price_eur": "419.99 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 40.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.4,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/lexar-thor-z-oc-32gb-6000-dual.webp"
+  },
+  {
+    "id": "crucial_pro_overclocking_black_32gb_6000_cl36_dual_expo",
+    "series": "Crucial Pro Overclocking",
+    "model": "Crucial Pro Overclocking 32GB (2x16GB) DDR5 6000MT/s CL36-38-38-80 CP2K16G60C36U5B",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "23.899 ₺",
+    "price_usd": "399.75 $",
+    "price_eur": "369.99 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 35.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/crucial-pro-oc-32gb-6000-dual.webp"
+  },
+  {
+    "id": "crucial_pro_oc_white_32gb_6000_cl36_dual_expo",
+    "series": "Crucial Pro Overclocking",
+    "model": "Crucial Pro OC White 32GB (2x16GB) DDR5 6000MT/s CL36-38-38-80 CP2K16G60C36U5W",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "25.999 ₺",
+    "price_usd": "409.80 $",
+    "price_eur": "370.00 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 35.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/crucial-pro-oc-white-32gb-6000-dual.webp"
+  },
+  {
+    "id": "patriot_viper_venom_16gb_6000_cl36_single_expo",
+    "series": "Viper Venom",
+    "model": "Patriot Viper Venom 16GB DDR5 6000MT/s CL36 PVV516G600C36",
+    "capacity": "16 GB (1x16)",
+    "price_tr": "11.349 ₺",
+    "price_usd": "199.99 $",
+    "price_eur": "209.90 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 43.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.25,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/patriot-viper-venom-16gb-6000.webp"
+  },
+  {
+    "id": "corsair_vengeance_black_32gb_6400_cl36_dual_expo",
+    "series": "Vengeance Black",
+    "model": "CORSAIR Vengeance 32GB (2x16GB) DDR5 6400MT/s CL36-48-48-100 CMK32GX5M2B6400Z36",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "21.999 ₺",
+    "price_usd": "464.99 $",
+    "price_eur": "401.00 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 35.0,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 36,
+      "voltage": 1.3,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-32gb-6400-dual.webp"
+  },
+  {
+    "id": "corsair_vengeance_rgb_white_32gb_6000_cl36_dual",
+    "series": "Vengeance RGB White",
+    "model": "CORSAIR Vengeance RGB White 32GB (2x16GB) DDR5 6000MT/s CL36-44-44-96 CMH32GX5M2E6000C36W",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "28.150 ₺",
+    "price_usd": "413.99 $",
+    "price_eur": "408.00 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-rgb-white-32gb-6000-dual.webp"
+  },
+  {
+    "id": "corsair_vengeance_white_32gb_6000_cl36_dual",
+    "series": "Vengeance White",
+    "model": "CORSAIR Vengeance White 32GB (2x16GB) DDR5 6000MT/s CL36-44-44-96 CMK32GX5M2E6000C36W",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "22.499 ₺",
+    "price_usd": "399.90 $",
+    "price_eur": "417.00 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 35.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-white-32gb-6000-dual.webp"
+  },
+  {
+    "id": "corsair_vengeance_gray_32gb_6400_cl36_dual_expo",
+    "series": "Vengeance Gray",
+    "model": "CORSAIR Vengeance Gray 32GB (2x16GB) DDR5 6400MT/s CL36-48-48-104 CMK32GX5M2B6400Z36",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "5.650 ₺",
+    "price_usd": "464.99 $",
+    "price_eur": "401.00 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 35.0,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-gray-32gb-6400-dual.webp"
+  },
+  {
+    "id": "corsair_vengeance_rgb_gray_96gb_6000_cl36_dual_expo",
+    "series": "Vengeance RGB Gray",
+    "model": "CORSAIR Vengeance RGB Gray 96GB (2x48GB) DDR5 6000MT/s CL36-44-44-96 CMH96GX5M2E6000Z36",
+    "capacity": "96 GB (2x48)",
+    "price_tr": "79.990 ₺",
+    "price_usd": "1169.99 $",
+    "price_eur": "1000.00 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 36,
+      "voltage": 1.4,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-rgb-gray-96gb-6000-dual.webp"
+  },
+  {
+    "id": "corsair_vengeance_black_32gb_7200_cl34_dual",
+    "series": "Vengeance Black",
+    "model": "CORSAIR Vengeance 32GB (2x16GB) DDR5 7200MT/s CL34-44-44-96 CMK32GX5M2X7200C34",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "27.990 ₺",
+    "price_usd": "597.40 $",
+    "price_eur": "606.90 €",
+    "regions": ["EU", "TR" ],
+    "specs": {
+      "height_mm": 35.0,
+      "type": "DDR5",
+      "speed_mts": 7200,
+      "latency_cl": 34,
+      "voltage": 1.45,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-32gb-7200-cl34-dual.webp"
+  },
+
+  {
+    "id": "corsair_vengeance_rgb_black_96gb_6400_cl32_dual",
+    "series": "Vengeance RGB Black",
+    "model": "CORSAIR Vengeance RGB 96GB (2x48GB) DDR5 6400MT/s CL32-40-40-84 CMH96GX5M2B6400C32",
+    "capacity": "96 GB (2x48)",
+    "price_tr": "19.850 ₺",
+    "price_usd": "1599.20 $",
+    "price_eur": "1786.00 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 32,
+      "voltage": 1.4,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-rgb-black-96gb-6400-dual.webp"
+  },
+  {
+    "id": "crucial_cudimm_black_16gb_6400_cl52_single",
+    "series": "Crucial CUDIMM",
+    "model": "Crucial 16GB DDR5 6400MT/s CL52 CUDIMM CT16G64C52CU5",
+    "capacity": "16 GB (1x16)",
+    "price_tr": "14.990 ₺",
+    "price_usd": "370.50 $",
+    "price_eur": "219.90 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 31.25,
+      "type": "DDR5 CUDIMM",
+      "speed_mts": 6400,
+      "latency_cl": 52,
+      "voltage": 1.1,
+      "profile_support": "JEDEC Standard / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "CUDIMM (Clocked Unbuffered DIMM)"
+    },
+    "asset_path": "assets/ram_images/crucial-cudimm-16gb-6400.webp"
+  },
+  {
+    "id": "crucial_cudimm_black_32gb_6400_cl52_single",
+    "series": "Crucial CUDIMM",
+    "model": "Crucial 32GB DDR5 6400MT/s CL52 CUDIMM CT32G64C52CU5",
+    "capacity": "32 GB (1x32)",
+    "price_tr": "29.850 ₺",
+    "price_usd": "502.00 $",
+    "price_eur": "557.99 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 31.25,
+      "type": "DDR5 CUDIMM",
+      "speed_mts": 6400,
+      "latency_cl": 52,
+      "voltage": 1.1,
+      "profile_support": "JEDEC Standard / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "CUDIMM (Clocked Unbuffered DIMM)"
+    },
+    "asset_path": "assets/ram_images/crucial-cudimm-32gb-6400.webp"
+  },
+  {
+    "id": "crucial_pro_overclocking_white_64gb_6400_cl40_dual_expo",
+    "series": "Crucial Pro Overclocking",
+    "model": "Crucial Pro Overclocking White 64GB (2x32GB) DDR5 6400MT/s CL40-40-40-84 CP2K32G64C40U5W",
+    "capacity": "64 GB (2x32)",
+    "price_tr": "76.450 ₺",
+    "price_usd": "799.99 $",
+    "price_eur": "725.00 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 35.0,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 40,
+      "voltage": 1.35,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/crucial-pro-oc-white-64gb-6400-dual.webp"
+  },
+
+  {
+    "id": "crucial_pro_oc_white_32gb_6400_cl38_dual_expo",
+    "series": "Crucial Pro Overclocking",
+    "model": "Crucial Pro OC White 32GB (2x16GB) DDR5 6400MT/s CL38-40-40-84 (16 Bit)CP2K16G64C38U5W",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "4.850 ₺",
+    "price_usd": "359.99 $",
+    "price_eur": "385.90 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 35.0,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 38,
+      "voltage": 1.35,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/crucial-pro-oc-white-32gb-6400-dual-cl38.webp"
+  },
+  {
+    "id": "crucial_classic_black_16gb_5600_cl46_single",
+    "series": "Crucial Classic",
+    "model": "Crucial 16GB DDR5 5600MT/s CL46 UDIMM CT16G56C46U5",
+    "capacity": "16 GB (1x16)",
+    "price_tr": "9.590 ₺",
+    "price_usd": "231.00 $",
+    "price_eur": "219.90 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 31.25,
+      "type": "DDR5",
+      "speed_mts": 5600,
+      "latency_cl": 46,
+      "voltage": 1.1,
+      "profile_support": "JEDEC Standard / Intel XMP 3.0 / AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/crucial-classic-16gb-5600.webp"
+  },
+  {
+    "id": "crucial_classic_black_32gb_5600_cl46_single_expo",
+    "series": "Crucial Classic",
+    "model": "Crucial 32GB DDR5 5600MT/s CL46 UDIMM CT32G56C46U5",
+    "capacity": "32 GB (1x32)",
+    "price_tr": "18.560 ₺",
+    "price_usd": "385.99 $",
+    "price_eur": "345.50 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 31.25,
+      "type": "DDR5",
+      "speed_mts": 5600,
+      "latency_cl": 46,
+      "voltage": 1.1,
+      "profile_support": "AMD EXPO / Intel XMP 3.0 / JEDEC Standard"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Single Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/crucial-classic-32gb-5600.webp"
+  },
+  {
+    "id": "gskill_trident_z5_royal_silver_48gb_8400_cl40_dual",
+    "series": "Trident Z5 Royal Silver",
+    "model": "G.Skill Trident Z5 Royal 48GB (2x24GB) DDR5 8400MT/s CL40-52-52-134 F5-8400J4052G24GX2-TR5S",
+    "capacity": "48 GB (2x24)",
+    "price_tr": "58.850 ₺",
+    "price_usd": "629.00 $",
+    "price_eur": "650.50 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 43.0,
+      "type": "DDR5",
+      "speed_mts": 8400,
+      "latency_cl": 40,
+      "voltage": 1.40,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z5-royal-silver-48gb-8400-dual.webp"
+  },
+  {
+    "id": "gskill_trident_z5_ck_mirror_black_48gb_8400_cl40_dual",
+    "series": "Trident Z5 CK Mirror Black",
+    "model": "G.Skill Trident Z5 CK 48GB (2x24GB) DDR5 8400MT/s CL40-52-52-134 F5-8400C4052G24GX2-TZ5CK",
+    "capacity": "48 GB (2x24)",
+    "price_tr": "46.999 ₺",
+    "price_usd": "789.99 $",
+    "price_eur": "761.90 €",
+    "regions": [ "TR", "USA"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5 CUDIMM",
+      "speed_mts": 8400,
+      "latency_cl": 40,
+      "voltage": 1.40,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "CUDIMM (Clocked Unbuffered DIMM)"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z5-ck-mirror-black-48gb-8400-dual.webp"
+  },
+  {
+    "id": "xpg_lancer_silver_rgb_48gb_8400_cl40_dual_expo",
+    "series": "Lancer Silver RGB CUDIMM",
+    "model": "XPG Lancer Silver RGB 48GB (2x24GB) DDR5 8400MT/s CL40-52-52 AX5CU8400C4024G-DCLACRSG",
+    "capacity": "48 GB (2x24)",
+    "price_tr": "38.490 ₺",
+    "price_usd": "384,00 $",
+    "price_eur": "1.605,00 €",
+    "regions": [ "TR" ,"USA" ],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5 CUDIMM",
+      "speed_mts": 8400,
+      "latency_cl": 40,
+      "voltage": 1.4,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "CUDIMM (Clocked Unbuffered DIMM)"
+    },
+    "asset_path": "assets/ram_images/xpg-lancer-silver-rgb-48gb-8400-dual.webp"
+  },
+  {
+    "id": "gskill_trident_z5_neo_rgb_black_48gb_8000_cl40_dual_expo",
+    "series": "Trident Z5 Neo RGB Matte Black",
+    "model": "G.Skill Trident Z5 Neo RGB 48GB (2x24GB) DDR5 8000MT/s CL40-48-48-128 F5-8000J4048G24GX2-TZ5NR",
+    "capacity": "48 GB (2x24)",
+    "price_tr": "41.395 ₺",
+    "price_usd": "619,99 $",
+    "price_eur": "699,99 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 8000,
+      "latency_cl": 40,
+      "voltage": 1.4,
+      "profile_support": "AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z5-neo-rgb-black-48gb-8000-dual.webp"
+  },
+  {
+    "id": "gskill_trident_z5_royal_silver_48gb_8000_cl40_dual",
+    "series": "Trident Z5 Royal Silver",
+    "model": "G.Skill Trident Z5 Royal 48GB (2x24GB) DDR5 8000MT/s CL40-48-48-128 F5-8000J4048F24GX2-TR5S",
+    "capacity": "48 GB (2x24)",
+    "price_tr": "55.980 ₺",
+    "price_usd": "629,99 $",
+    "price_eur": "699,00 €",
+    "regions": [ "TR", "USA"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 8000,
+      "latency_cl": 40,
+      "voltage": 1.35,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z5-royal-silver-48gb-8000-dual.webp"
+  },
+
+  {
+    "id": "gskill_trident_z5_neo_rgb_black_32gb_8000_cl38_dual_expo",
+    "series": "Trident Z5 Neo RGB Matte Black",
+    "model": "G.Skill Trident Z5 Neo RGB 32GB (2x16GB) DDR5 8000MT/s CL38-48-48-128 F5-8000J3848H16GX2-TZ5NR",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "42.290 ₺",
+    "price_usd": "637.99 $",
+    "price_eur": "589.50 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 8000,
+      "latency_cl": 38,
+      "voltage": 1.45,
+      "profile_support": "AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z5-neo-rgb-black-32gb-8000-cl38-dual.webp"
+  },
+  {
+    "id": "xpg_lancer_black_rgb_32gb_6800_cl34_dual",
+    "series": "Lancer Black RGB",
+    "model": "XPG Lancer RGB 32GB (2x16GB) DDR5 6800MT/s CL34-45-45 AX5U6800C3416G-DCLARBK",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "23.570 ₺",
+    "price_usd": "188.50 $",
+    "price_eur": "173.90 €",
+    "regions": ["TR"],
+    "specs": {
+      "height_mm": 43.56,
+      "type": "DDR5",
+      "speed_mts": 6800,
+      "latency_cl": 34,
+      "voltage": 1.4,
+      "profile_support": "Intel XMP 3.0 / AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/xpg-lancer-black-rgb-32gb-6800-dual.webp"
+  },
+  {
+    "id": "gskill_trident_z5_ck_mirror_black_48gb_9000_cl42_dual",
+    "series": "Trident Z5 CK Mirror Black",
+    "model": "G.Skill Trident Z5 CK 48GB (2x24GB) DDR5 9000MT/s CL42-56-56-144 F5-9000C4256H24GX2-TZ5CK",
+    "capacity": "48 GB (2x24)",
+    "price_tr": "23.989 ₺",
+    "price_usd": "899.99 $",
+    "price_eur": "920.00 €",
+    "regions": ["TR", "USA"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5 CUDIMM",
+      "speed_mts": 9000,
+      "latency_cl": 42,
+      "voltage": 1.45,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "CUDIMM (Clocked Unbuffered DIMM)"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z5-ck-mirror-black-48gb-9000-dual.webp"
+  },
+  {
+    "id": "gskill_trident_z5_ck_rgb_mirror_black_48gb_8800_cl42_dual",
+    "series": "Trident Z5 CK RGB Mirror Black",
+    "model": "G.Skill Trident Z5 CK RGB 48GB (2x24GB) DDR5 8800MT/s CL42-55-55-140 F5-8800C4255H24GX2-TZ5CRK",
+    "capacity": "48 GB (2x24)",
+    "price_tr": "39.999 ₺",
+    "price_usd": "819,00 $",
+    "price_eur": "732,00 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5 CUDIMM",
+      "speed_mts": 8800,
+      "latency_cl": 42,
+      "voltage": 1.45,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "CUDIMM (Clocked Unbuffered DIMM)"
+    },
+    "asset_path": "assets/ram_images/gskill-trident-z5-ck-rgb-mirror-black-48gb-8800-dual.webp"
+  },
+  {
+    "id": "teamgroup_tcreate_expert_black_32gb_6000_cl30_dual_expo",
+    "series": "T-Create Expert",
+    "model": "Team Group T-Create Expert 32GB (2x16GB) DDR5 6000MT/s CL30-36-36-76 CTCED532G6000HC30DC01",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "9.999 ₺",
+    "price_usd": "479.99 $",
+    "price_eur": "402.90 €",
+    "regions": ["USA", "EU", "TR"],
+    "specs": {
+      "height_mm": 32.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 30,
+      "voltage": 1.35,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/teamgroup-tcreate-expert-black-32gb-6000-dual.webp"
+  },
+  {
+    "id": "corsair_dominator_titanium_white_96gb_6000_cl30_dual_expo",
+    "series": "Dominator Titanium RGB White",
+    "model": "CORSAIR Dominator Titanium RGB 96GB (2x48GB) DDR5 6000MT/s CL30-36-36-76 CMP96GX5M2B6000C30W",
+    "capacity": "96 GB (2x48)",
+    "price_tr": "94.999 ₺",
+    "price_usd": "755,00 $",
+    "price_eur": "918,00 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 57.3,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 30,
+      "voltage": 1.4,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-dominator-titanium-white-96gb-6000-dual.webp"
+  },
+  {
+    "id": "xpg_lancer_black_rgb_96gb_6400_cl32_dual_expo",
+    "series": "Lancer Black RGB",
+    "model": "XPG Lancer RGB 96GB (2x48GB) DDR5 6400MT/s CL32-39-39 AX5U6400C3248G-DCLARBK",
+    "capacity": "96 GB (2x48)",
+    "price_tr": "104.160 ₺",
+    "price_usd": "1.499,00 $",
+    "price_eur": "1.249,00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 43.56,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 32,
+      "voltage": 1.4,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/xpg-lancer-black-rgb-96gb-6400-dual.webp"
+  },
+
+  {
+    "id": "corsair_vengeance_rgb_black_96gb_7200_cl40_dual",
+    "series": "Vengeance RGB Black",
+    "model": "CORSAIR Vengeance RGB 96GB (2x48GB) DDR5 7200MT/s CL40-54-54-116 CMH96GX5M2B7200C40",
+    "capacity": "96 GB (2x48)",
+    "price_tr": "76.320 ₺",
+    "price_usd": "1.529,00 $",
+    "price_eur": "1.683,00 €",
+    "regions": ["EU", "USA"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 7200,
+      "latency_cl": 40,
+      "voltage": 1.4,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-rgb-black-96gb-7200-dual.webp"
+  },
+  {
+    "id": "corsair_vengeance_rgb_black_64gb_6000_cl30_dual_expo",
+    "series": "Vengeance RGB Black",
+    "model": "CORSAIR Vengeance RGB 64GB (2x32GB) DDR5 6000MT/s CL30-36-36-76 CMH64GX5M2B6000Z30",
+    "capacity": "64 GB (2x32)",
+    "price_tr": "52.610 ₺",
+    "price_usd": "1099.99 $",
+    "price_eur": "905.00 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 30,
+      "voltage": 1.4,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-rgb-black-64gb-6000-dual.webp"
+  },
+  {
+    "id": "corsair_vengeance_rgb_black_48gb_8400_cl40_dual",
+    "series": "Vengeance RGB Black CUDIMM",
+    "model": "CORSAIR Vengeance RGB 48GB (2x24GB) DDR5 8400MT/s CL40-52-52-134 CMHC48GX5M2X8400C40",
+    "capacity": "48 GB (2x24)",
+    "price_tr": "48.750 ₺",
+    "price_usd": "789,00 $",
+    "price_eur": "1.126,00 €",
+    "regions": ["EU", "TR", "USA"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5 CUDIMM",
+      "speed_mts": 8400,
+      "latency_cl": 40,
+      "voltage": 1.4,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "CUDIMM (Clocked Unbuffered DIMM)"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-rgb-black-48gb-8400-dual.webp"
+  },
+  {
+    "id": "lexar_ares_rgb_black_32gb_6800_cl34_dual_expo",
+    "series": "ARES RGB Black",
+    "model": "Lexar ARES RGB 32GB (2x16GB) DDR5 6800MT/s CL34-45-45-108 LD5U16G68C34LA-RGD",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "35.019 ₺",
+    "price_usd": "198.00 $",
+    "price_eur": "182.50 €",
+    "regions": [ "TR"],
+    "specs": {
+      "height_mm": 43.3,
+      "type": "DDR5",
+      "speed_mts": 6800,
+      "latency_cl": 34,
+      "voltage": 1.4,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/lexar-ares-rgb-black-32gb-6800-dual.webp"
+  },
+  {
+    "id": "lexar_thor_rgb_gen_black_32gb_6000_cl38_dual",
+    "series": "THOR RGB Gen Black",
+    "model": "Lexar THOR RGB 32GB (2x16GB) DDR5 6000MT/s CL38-48-48-96LD5U16G60C38BG-RGD",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "44.650 ₺",
+    "price_usd": "419.00 $",
+    "price_eur": "437.99 €",
+    "regions": ["EU"],
+    "specs": {
+      "height_mm": 40.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 38,
+      "voltage": 1.3,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/lexar-thor-rgb-2nd-gen-black-32gb-6000-dual.webp"
+  },
+  {
+    "id": "lexar_ares_rgb_32gb_6400_cl30_dual",
+    "series": "ARES RGB",
+    "model": "Lexar ARES RGB 32GB (2x16GB) DDR5 6400MT/s CL30-38-38-76 LD5U16G64C30BR-RGD",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "29.750 ₺",
+    "price_usd": "195.00 $",
+    "price_eur": "180.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 47.45,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 30,
+      "voltage": 1.4,
+      "profile_support": "Intel XMP 3.0 / AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/lexar-ares-rgb-32gb-6400-cl30-dual.webp"
+  },
+
+  {
+    "id": "lexar_thor_rgb_2nd_gen_white_32gb_6000_cl38_dual_expo",
+    "series": "THOR RGB 2nd Gen White",
+    "model": "Lexar THOR RGB 2nd Gen 32GB (2x16GB) DDR5 6000MT/s CL38-38-38-96 LD5U16G60C38EV-RGD",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "N/A (Stok Yok)",
+    "price_usd": "429.99 $",
+    "price_eur": "449.50 €",
+    "regions": ["EU", "USA"],
+    "specs": {
+      "height_mm": 40.0,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 38,
+      "voltage": 1.3,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/lexar-thor-rgb-2nd-gen-white-32gb-6000-dual.webp"
+  },
+  {
+    "id": "corsair_vengeance_silver_48gb_8000_cl38_dual_cudimm",
+    "series": "Vengeance Silver CUDIMM",
+    "model": "CORSAIR Vengeance 48GB (2x24GB) DDR5 8000MT/s CL38-50-50-128 CMKC48GX5M2X8000C38",
+    "capacity": "48 GB (2x24)",
+    "price_tr": "39.999",
+    "price_usd": "979.00 $",
+    "price_eur": "1282.00 €",
+    "regions": ["EU", "USA"],
+    "specs": {
+      "height_mm": 35.0,
+      "type": "DDR5 CUDIMM",
+      "speed_mts": 8000,
+      "latency_cl": 38,
+      "voltage": 1.4,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "CUDIMM (Clocked Unbuffered DIMM)"
+    },
+    "asset_path": "assets/ram_images/corsair-vengeance-silver-48gb-8000-dual.webp"
+  },
+  {
+    "id": "teamgroup_tforce_delta_rgb_black_32gb_6000_cl30_dual",
+    "series": "T-Force Delta RGB Black",
+    "model": "TEAMGROUP T-Force Delta RGB 32GB (2x16GB) DDR5 6000MT/s CL30-36-36-76 FF3D532G6000HC30DC01",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "5.650 ₺",
+    "price_usd": "469.00 $",
+    "price_eur": "426.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 46.1,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 30,
+      "voltage": 1.35,
+      "profile_support": "Intel XMP 3.0 / AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/teamgroup-tforce-delta-rgb-black-32gb-6000-cl30-dual.webp"
+  },
+
+  {
+    "id": "teamgroup_tforce_delta_rgb_white_32gb_6400_cl38_dual",
+    "series": "T-Force Delta RGB White",
+    "model": "TEAMGROUP T-Force Delta RGB 32GB (2x16GB) DDR5 6400MT/s CL38-40-40-84 FF4D532G6400HC38JDC01",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "32.711 ₺ ",
+    "price_usd": "469.99 $",
+    "price_eur": "449.95 €",
+    "regions": ["USA", "EU" , "TR"],
+    "specs": {
+      "height_mm": 46.1,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 38,
+      "voltage": 1.35,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/teamgroup-tforce-delta-rgb-white-32gb-6400-dual.webp"
+  },
+  {
+    "id": "teamgroup_tforce_delta_rgb_black_32gb_7200_cl34_dual",
+    "series": "T-Force Delta RGB Black",
+    "model": "TEAMGROUP T-Force Delta RGB 32GB (2x16GB) DDR5 7200MT/s CL34-42-42-84 FF3D532G7200HC34ADC01",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "19.450 ₺",
+    "price_usd": "619.99 $",
+    "price_eur": "779.50 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 46.1,
+      "type": "DDR5",
+      "speed_mts": 7200,
+      "latency_cl": 34,
+      "voltage": 1.4,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/teamgroup-tforce-delta-rgb-black-32gb-7200-dual.webp"
+  },
+
+  {
+    "id": "teamgroup_tforce_delta_rgb_black_32gb_6400_cl40_dual",
+    "series": "T-Force Delta RGB Black",
+    "model": "TEAMGROUP T-Force Delta RGB 32GB (2x16GB) DDR5 6400MT/s CL40-40-40-84 FF3D532G6400HC40BDC01",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "34.850 ₺",
+    "price_usd": "549.50 $",
+    "price_eur": "446.50 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 46.1,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 40,
+      "voltage": 1.35,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/teamgroup-tforce-delta-rgb-black-32gb-6400-cl40-dual.webp"
+  },
+  {
+    "id": "teamgroup_tforce_delta_rgb_black_32gb_6400_cl32_dual",
+    "series": "T-Force Delta RGB Black",
+    "model": "TEAMGROUP T-Force Delta RGB 32GB (2x16GB) DDR5 6400MT/s CL32-39-39-84 FF3D532G6400HC32ADC01",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "N/A (Stok Yok) ",
+    "price_usd": "599.00 $",
+    "price_eur": "745.55 €",
+    "regions": [ "USA", "EU"],
+    "specs": {
+      "height_mm": 46.1,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 32,
+      "voltage": 1.35,
+      "profile_support": "Intel XMP 3.0 / AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/teamgroup-tforce-delta-rgb-black-32gb-6400-cl32-dual.webp"
+  },
+  {
+    "id": "teamgroup_tforce_delta_rgb_black_96gb_6800_cl36_dual",
+    "series": "T-Force Delta RGB Black",
+    "model": "TEAMGROUP T-Force Delta RGB 96GB (2x48GB) DDR5 6800MT/s CL36-46-46-84 FF3D596G6800HC36DDC01",
+    "capacity": "96 GB (2x48)",
+    "price_tr": "N/A (Stok Yok)",
+    "price_usd": "1519.99 $",
+    "price_eur": "1489.00 €",
+    "regions": ["USA", "EU"],
+    "specs": {
+      "height_mm": 46.1,
+      "type": "DDR5",
+      "speed_mts": 6800,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/teamgroup-tforce-delta-rgb-black-96gb-6800-dual.webp"
+  },
+  {
+    "id": "teamgroup_tforce_delta_rgb_white_96gb_6800_cl36_dual",
+    "series": "T-Force Delta RGB White",
+    "model": "TEAMGROUP T-Force Delta RGB 96GB (2x48GB) DDR5 6800MT/s CL36-46-46-84 FF4D596G6800HC36DDC01",
+    "capacity": "96 GB (2x48)",
+    "price_tr": "N/A (Stok Yok)",
+    "price_usd": "1519.99 $",
+    "price_eur": "1419.00 €",
+    "regions": ["USA", "EU"],
+    "specs": {
+      "height_mm": 46.1,
+      "type": "DDR5",
+      "speed_mts": 6800,
+      "latency_cl": 36,
+      "voltage": 1.35,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/teamgroup-tforce-delta-rgb-white-96gb-6800-dual.webp"
+  },
+  {
+    "id": "teamgroup_tforce_delta_rgb_black_48gb_6400_cl32_dual",
+    "series": "T-Force Delta RGB Black",
+    "model": "TEAMGROUP T-Force Delta RGB 48GB (2x24GB) DDR5 6400MT/s CL32-39-39-84 FF3D548G6400HC32ADC01",
+    "capacity": "48 GB (2x24)",
+    "price_tr": "N/A (Stok Yok)",
+    "price_usd": "749.00 $",
+    "price_eur": "1005.90 €",
+    "regions": ["USA", "EU"],
+    "specs": {
+      "height_mm": 46.1,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 32,
+      "voltage": 1.35,
+      "profile_support": "Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/teamgroup-tforce-delta-rgb-black-48gb-6400-dual.webp"
+  },
+  {
+    "id": "klevv_cras_v_rgb_white_32gb_7200_cl34_dual_expo",
+    "series": "Cras V RGB Brilliant White",
+    "model": "Cras V RGB 32GB (2x16GB) DDR5 7200MT/s CL34-44-44-84 KD5AGUA80-72B340J",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "29.658 ₺ ",
+    "price_usd": "539.99 $",
+    "price_eur": "N/A (Stok Yok)",
+    "regions": ["TR", "USA"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 7200,
+      "latency_cl": 34,
+      "voltage": 1.4,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/klevv-cras-v-rgb-white-32gb-7200-dual.webp"
+  },
+  {
+    "id": "klevv_cras_v_rgb_rog_32gb_7200_cl34_dual_expo",
+    "series": "Cras V RGB ROG Certified",
+    "model": "Cras V RGB ROG 32GB (2x16GB) DDR5 7200MT/s CL34-44-44-84 KD5AGUA80-72B340P",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "29.300 ₺",
+    "price_usd": "N/A (Stok Yok)",
+    "price_eur": "N/A (Stok Yok) ",
+    "regions": ["TR"],
+    "specs": {
+      "height_mm": 44.0,
+      "type": "DDR5",
+      "speed_mts": 7200,
+      "latency_cl": 34,
+      "voltage": 1.4,
+      "profile_support": "AMD EXPO / Intel XMP 3.0 / ROG Certified"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/klevv-cras-v-rgb-rog-32gb-7200-dual.webp"
+  },
+  {
+    "id": "lexar_ares_rgb_2nd_gen_black_32gb_7600_cl36_dual_expo",
+    "series": "ARES 2nd Gen RGB",
+    "model": "Lexar ARES RGB 32GB (2x16GB) DDR5 7600MT/s CL36-46-46-100 LD5U16G76C36BR-RGD",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "23.999 ₺",
+    "price_usd": "N/A (Stok Yok)",
+    "price_eur": "N/A (Stok Yok)",
+    "regions": ["TR"],
+    "specs": {
+      "height_mm": 43.3,
+      "type": "DDR5",
+      "speed_mts": 7600,
+      "latency_cl": 36,
+      "voltage": 1.45,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/lexar-ares-rgb-2nd-gen-black-32gb-7600-dual.webp"
+  },
+  {
+    "id": "lexar_ares_rgb_2nd_gen_black_32gb_6400_cl30_dual_expo",
+    "series": "ARES 2nd Gen RGB",
+    "model": "Lexar ARES 2 Gen RGB 32GB (2x16GB) DDR5 6400MT/s CL30-38-38-76 LD5U16G64C30BR-RGD",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "35.018 ₺",
+    "price_usd": "417.99 $",
+    "price_eur": "659.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 43.3,
+      "type": "DDR5",
+      "speed_mts": 6400,
+      "latency_cl": 32,
+      "voltage": 1.4,
+      "profile_support": "AMD EXPO / Intel XMP 3.0"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/lexar-ares-rgb-2nd-gen-black-32gb-6400-dual.webp"
+  },
+  {
+    "id": "lexar_ares_rgb_2nd_gen_black_32gb_6000_cl28_dual_xmp",
+    "series": "ARES 2nd Gen RGB",
+    "model": "Lexar ARES RGB 32GB (2x16GB) DDR5 6000MT/s CL28-36-36-68 LD5U16G60C28BR-RGD",
+    "capacity": "32 GB (2x16)",
+    "price_tr": "41.950 ₺",
+    "price_usd": "499.00 $",
+    "price_eur": "657.00 €",
+    "regions": ["TR", "USA", "EU"],
+    "specs": {
+      "height_mm": 43.3,
+      "type": "DDR5",
+      "speed_mts": 6000,
+      "latency_cl": 28,
+      "voltage": 1.4,
+      "profile_support": "Intel XMP 3.0 / AMD EXPO"
+    },
+    "performance": {
+      "platform": "Desktop",
+      "kit_type": "Dual Channel",
+      "dimm_type": "Unbuffered DIMM"
+    },
+    "asset_path": "assets/ram_images/lexar-ares-rgb-2nd-gen-black-32gb-6000-cl28-dual.webp"
+  }
+
+]
+
