@@ -7,18 +7,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # YENİ EKLENEN İZİN SATIRLARI BURADA:
     permissions:
       contents: write
     
     steps:
       - name: Repo kopyalanıyor
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4 # v2'den v4'e güncellendi
       
       - name: Python kuruluyor
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5 # v2'den v5'e güncellendi
         with:
-          python-version: '3.9'
+          python-version: '3.11'
           
       - name: Paketler yukleniyor
         run: pip install requests beautifulsoup4
