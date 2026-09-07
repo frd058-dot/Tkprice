@@ -1,7 +1,7 @@
 import requests, json, os, time
 
 # 1. Adımdaki YENİ Google Script URL'sini buraya yapıştırın
-GOOGLE_PROXY_URL = "BURAYA_YENI_GOOGLE_LINKINI_YAPISTIRIN"
+GOOGLE_PROXY_URL = "https://script.google.com/macros/s/AKfycbzoOtNWGUUt63qqvKtGM_YNW1OTAhR-novAdJI3xglkuxtfO5oahXOvfh5vEshx046dFw/exec"
 
 DATA_FILES = ['cpu.json', 'gpus.json', 'notebooks.json', 'aio_configs.json', 'cases.json', 'coolers.json', 'hdds.json', 'imacs.json', 'mac_minis.json', 'monitors.json', 'notebook_configs.json', 'psus.json', 'rams.json', 'sata_ssds.json', 'storages.json', 'macbooks.json']
 results = {}
