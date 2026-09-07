@@ -4,83 +4,80 @@ import json
 import time
 import os
 
-# TARANACAK DOSYALAR (GitHub deponda olanları okur, olmayanları geçer)
-DATA_FILES = [
-    'cpu.json', 'gpus.json', 'notebooks.json', 'aio_configs.json', 
-    'cases.json', 'coolers.json', 'hdds.json', 'imacs.json', 
-    'mac_minis.json', 'monitors.json', 'notebook_configs.json', 
-    'psus.json', 'rams.json', 'sata_ssds.json', 'storages.json', 'macbooks.json'
-]
-
+# Tarayıcı gibi görünmek için başlıklar
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
 }
 
 def get_price_tr(name):
-    """Epey.com üzerinden Türkiye fiyatını çeker"""
+    """Epey.com üzerinden fiyat çeker (Farklı etiketleri kontrol eder)"""
     try:
         url = f"https://www.epey.com/ara/?ara={name}"
         res = requests.get(url, headers=HEADERS, timeout=15)
-        if res.status_code == 200:
-            soup = BeautifulSoup(res.text, 'html.parser')
-            price = soup.find('span', class_='urun-fiyat')
-            if price: return price.text.strip()
-    except: return None
-    return None
-
-def get_price_amazon(name, domain="com"):
-    """Amazon (.com veya .de) üzerinden Global fiyat çeker"""
-    try:
-        url = f"https://www.amazon.{domain}/s?k={name}"
-        res = requests.get(url, headers=HEADERS, timeout=15)
-        if res.status_code == 200:
-            soup = BeautifulSoup(res.text, 'html.parser')
-            whole = soup.find('span', class_='a-price-whole')
-            if whole:
-                symbol = "$" if domain == "com" else "€"
-                return f"{whole.text.strip()}{symbol}"
+        if res.status_code != 200: return None
+        
+        soup = BeautifulSoup(res.text, 'html.parser')
+        
+        # 1. Seçenek: urun-fiyat (Ürün sayfası veya belirgin sonuç)
+        price = soup.find('span', class_='urun-fiyat')
+        if price: return price.text.strip()
+        
+        # 2. Seçenek: fyt (Arama listesindeki fiyatlar)
+        price = soup.find('span', class_='fyt')
+        if price: return price.text.strip()
+        
     except: return None
     return None
 
 results = {}
-print(f"Dizin kontrolü: {os.listdir('.')}")
 
-for file_name in DATA_FILES:
-    if not os.path.exists(file_name):
-        print(f"Atlanıyor (Dosya Yok): {file_name}")
-        continue
+# 1. Dizindeki tüm JSON dosyalarını otomatik bul (updates.json hariç)
+json_files = [f for f in os.listdir('.') if f.endswith('.json') and f != 'updates.json']
 
-    print(f"\n--- {file_name} İşleniyor ---")
-    with open(file_name, 'r', encoding='utf-8') as f:
-        try:
-            items = json.load(f)
-            # Eğer dosya bir nesne ise ve içinde liste varsa (örn: {"items": [...]})
-            if isinstance(items, dict):
-                items = items.get('items', []) or items.get('cpus', []) or items.get('gpus', [])
+print(f"Bulunan veri dosyaları: {json_files}")
+
+for file_name in json_files:
+    print(f"\n--- {file_name} İŞLENİYOR ---")
+    try:
+        with open(file_name, 'r', encoding='utf-8') as f:
+            data = json.load(f)
             
+            # Veri listeyse doğrudan kullan, sözlükse içindeki listeleri bul
+            items = []
+            if isinstance(data, list):
+                items = data
+            elif isinstance(data, dict):
+                # Sözlük içindeki ilk listeyi bulmaya çalış (cpus, gpus vb.)
+                for key in data:
+                    if isinstance(data[key], list):
+                        items = data[key]
+                        break
+                if not items and 'id' in data: # Tek bir ürün objesiyse
+                    items = [data]
+
+            print(f"Dosya içinden {len(items)} ürün okundu.")
+
             for item in items:
+                # ID ve İsim yakalama (Büyük/küçük harf duyarsız)
                 pid = item.get('id')
-                # İsim alanını farklı anahtarlarda ara
-                name = item.get('model') or item.get('name') or item.get('title')
+                name = item.get('model') or item.get('name') or item.get('title') or item.get('model_name')
                 
                 if pid and name:
-                    print(f"Aranıyor: {name}...")
-                    p_tr = get_price_tr(name)
-                    # p_usa = get_price_amazon(name, "com") # Opsiyonel: USA için açılabilir
-                    # p_eu = get_price_amazon(name, "de")  # Opsiyonel: EU için açılabilir
-
-                    if p_tr:
-                        results[pid] = {"price_tr": p_tr}
-                        # if p_usa: results[pid]["price_usd"] = p_usa
-                        # if p_eu: results[pid]["price_eur"] = p_eu
-                        print(f"Bulundu: {p_tr}")
+                    print(f"Aranıyor: {name} (ID: {pid})")
+                    price = get_price_tr(name)
+                    if price:
+                        results[pid] = {"price_tr": price}
+                        print(f"  -> BULDUM: {price}")
+                    else:
+                        print(f"  -> Fiyat çekilemedi (Epey'de bulunamadı veya bot engellendi)")
                     
-                    time.sleep(1.2) # Banlanmamak için kısa bekleme
-        except Exception as e:
-            print(f"HATA ({file_name}): {e}")
+                    time.sleep(1.5) # Güvenlik için bekleme
+    except Exception as e:
+        print(f"HATA ({file_name}): {e}")
 
-# updates.json dosyasını kaydet
+# 2. Sonuçları updates.json'a yaz
 with open('updates.json', 'w', encoding='utf-8') as f:
     json.dump(results, f, ensure_ascii=False, indent=2)
 
-print(f"\nİşlem bitti! updates.json içine {len(results)} ürün kaydedildi.")
+print(f"\nİŞLEM TAMAMLANDI!")
+print(f"updates.json içine toplam {len(results)} ürün kaydedildi.")
