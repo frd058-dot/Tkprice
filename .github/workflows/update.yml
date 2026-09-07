@@ -1,14 +1,14 @@
 name: Otomatik Fiyat Guncelleme
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Her gece 00:00'da çalışır
+  workflow_dispatch: # Manuel çalıştırma butonu
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Dosya kaydetmek için zorunlu izin
     
     steps:
       - name: Repo kopyalanıyor
