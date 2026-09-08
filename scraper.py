@@ -1,17 +1,20 @@
 import requests, json, os, time
 
-# Google Script Linkinizi buraya yapıştırın
-GOOGLE_PROXY_URL = "https://script.google.com/macros/s/AKfycbwn-33ZRC9L_gvWX29AXOthlVpLk9z50-ggWku4aonYmsid5lNS4K7-JmCV_3ot82WIPg/exec"
+GOOGLE_PROXY_URL = "https://script.google.com/macros/s/AKfycby5vYwgNG5olOnIKpnqeKu1ly6dFLDLbu8NY4ahpdmqVNn9M_9T-cj2y35J-WGVoxVKZA/exec"
 
-DATA_FILES = [
-    'cpu.json', 'gpus.json', 'notebooks.json', 'aio_configs.json', 
-    'cases.json', 'coolers.json', 'hdds.json', 'imacs.json', 
-    'mac_minis.json', 'macbooks.json', 'monitors.json', 
-    'motherboard.json', 'notebook_configs.json', 'psus.json', 
-    'rams.json', 'sata_ssds.json', 'storages.json'
-]
-
+# Taranacak dosyalar
+DATA_FILES = ['cpu.json', 'gpus.json', 'notebooks.json', 'aio_configs.json', 'cases.json', 'coolers.json', 'rams.json', 'storages.json']
 results = {}
+
+def clean_name(name):
+    """Ürün ismini Epey'in bulabileceği kadar sadeleştirir"""
+    name = str(name).lower()
+    # Gereksiz detayları temizle
+    for word in ["ghz", "cache", "lga1700", "am4", "am5", "v2", "v3", "pro", "plus"]:
+        name = name.split(word)[0]
+    # Sadece ilk 3 kelimeyi al (Genelde Marka + Seri + Model yeterlidir)
+    words = name.split()
+    return " ".join(words[:3]).strip()
 
 for file_name in DATA_FILES:
     if not os.path.exists(file_name): continue
@@ -26,26 +29,26 @@ for file_name in DATA_FILES:
             for item in items:
                 if not isinstance(item, dict): continue
                 pid = item.get('id')
-                # İsim temizleme: "Intel Core i3 13100" gibi temiz isimler aransın
-                name = item.get('model') or item.get('name') or item.get('title')
+                raw_name = item.get('model') or item.get('name') or item.get('title')
                 
-                if pid and name:
+                if pid and raw_name:
+                    # İSMİ SADELEŞTİREREK ARAT
+                    search_name = clean_name(raw_name)
+                    print(f"Sorgulanıyor: {search_name} (Orijinal: {raw_name[:20]}...)")
+                    
                     try:
-                        # İsimden gereksiz ekleri temizle (Daha iyi arama sonucu için)
-                        search_name = str(name).split('(')[0].strip()
                         res = requests.get(f"{GOOGLE_PROXY_URL}?name={requests.utils.quote(search_name)}", timeout=25)
-                        
                         if res.status_code == 200 and "Bulunamadı" not in res.text:
                             price = res.text.strip()
                             results[str(pid)] = {"price_tr": price}
-                            print(f"  BULDUM: {search_name} -> {price}")
+                            print(f"  => BULDUM: {price}")
                         else:
-                            print(f"  Bulunamadı: {search_name}")
+                            print(f"  => Bulunamadı")
                     except: pass
-                    time.sleep(0.3) # Google'ı yormadan hızlıca devam et
+                    time.sleep(0.4)
         except: continue
 
 with open('updates.json', 'w', encoding='utf-8') as f:
     json.dump(results, f, ensure_ascii=False, indent=2)
 
-print(f"\nBİTTİ! updates.json içine {len(results)} ürün kaydedildi.")
+print(f"\nBİTTİ! updates.json doluluk: {len(results)}")
