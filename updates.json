@@ -1,1 +1,962 @@
-{}
+{
+  "intel-core-i3-12100f": {
+    "price_tr": "7.331,22 TL"
+  },
+  "intel-core-i3-13100f": {
+    "price_tr": "2.250,00 TL"
+  },
+  "intel-core-i3-14100": {
+    "price_tr": "4.709,00 TL"
+  },
+  "intel-core-i5-12400": {
+    "price_tr": "51.569,10 TL"
+  },
+  "intel-core-i5-13400": {
+    "price_tr": "136₺"
+  },
+  "intel-core-i5-13500": {
+    "price_tr": "11.374,09 TL"
+  },
+  "intel-core-i5-14400": {
+    "price_tr": "5.999,00 TL"
+  },
+  "intel-core-i5-14400f": {
+    "price_tr": "94.905,00 TL"
+  },
+  "intel-core-i5-14500": {
+    "price_tr": "12.835,50 TL"
+  },
+  "intel-core-i5-14600": {
+    "price_tr": "8.039,00 TL"
+  },
+  "intel-core-i5-14600k": {
+    "price_tr": "8.039,00 TL"
+  },
+  "intel-core-i5-14600kf": {
+    "price_tr": "8.189,99 TL"
+  },
+  "intel-core-i7-12700k": {
+    "price_tr": "10.389,00 TL"
+  },
+  "intel-core-i7-12700kf": {
+    "price_tr": "17.149,99 TL"
+  },
+  "intel-core-i7-12700f": {
+    "price_tr": "8.499,00 TL"
+  },
+  "intel-core-i7-13700": {
+    "price_tr": "12.499,00 TL"
+  },
+  "intel-core-i7-13700f": {
+    "price_tr": "85.384,00 TL"
+  },
+  "intel-core-i7-14700": {
+    "price_tr": "13.049,00 TL"
+  },
+  "intel-core-i7-14700k": {
+    "price_tr": "14.448,00 TL"
+  },
+  "intel-core-i7-14700kf": {
+    "price_tr": "16.799,00 TL"
+  },
+  "intel-core-i9-12900": {
+    "price_tr": "27.932,92 TL"
+  },
+  "intel-core-i9-12900k": {
+    "price_tr": "16.199,99 TL"
+  },
+  "intel-core-i9-12900kf": {
+    "price_tr": "27.932,92 TL"
+  },
+  "intel-core-i9-12900ks": {
+    "price_tr": "27.932,92 TL"
+  },
+  "intel-core-i9-13900k": {
+    "price_tr": "23.830,00 TL"
+  },
+  "intel-core-i9-13900kf": {
+    "price_tr": "20.679,06 TL"
+  },
+  "intel-core-i9-13900ks": {
+    "price_tr": "59.999,00 TL"
+  },
+  "intel-core-i9-14900": {
+    "price_tr": "17.999,99 TL"
+  },
+  "intel-core-i9-14900f": {
+    "price_tr": "17.999,99 TL"
+  },
+  "intel-core-i9-14900kf": {
+    "price_tr": "17.999,99 TL"
+  },
+  "intel-core-ultra-5-225f": {
+    "price_tr": "11.616,00 TL"
+  },
+  "intel-core-ultra-5-235": {
+    "price_tr": "10.191,09 TL"
+  },
+  "intel-core-ultra-5-245k": {
+    "price_tr": "14.584,52 TL"
+  },
+  "intel-core-ultra-5-245kf": {
+    "price_tr": "13.894,87 TL"
+  },
+  "intel-core-ultra-7-265kf": {
+    "price_tr": "14.314,00 TL"
+  },
+  "amd-ryzen-5-5600x": {
+    "price_tr": "6.856,43 TL"
+  },
+  "amd-ryzen-5-7500x3d": {
+    "price_tr": "6.928,31 TL"
+  },
+  "amd-ryzen-5-7600": {
+    "price_tr": "6.349,00 TL"
+  },
+  "amd-ryzen-5-7600x": {
+    "price_tr": "8.062,53 TL"
+  },
+  "amd-ryzen-5-7600x3d": {
+    "price_tr": "6.349,00 TL"
+  },
+  "amd-ryzen-5-8400f": {
+    "price_tr": "5.328,93 TL"
+  },
+  "amd-ryzen-5-8500g": {
+    "price_tr": "5.599,00 TL"
+  },
+  "amd-ryzen-5-9500f": {
+    "price_tr": "6.684,00 TL"
+  },
+  "amd-ryzen-5-9600": {
+    "price_tr": "9.999,00 TL"
+  },
+  "amd-ryzen-5-9600x": {
+    "price_tr": "8.731,89 TL"
+  },
+  "amd-ryzen-7-7700": {
+    "price_tr": "11.105,35 TL"
+  },
+  "amd-ryzen-7-7700x": {
+    "price_tr": "13.450,06 TL"
+  },
+  "amd-ryzen-7-7800x3d": {
+    "price_tr": "28.232,50 TL"
+  },
+  "amd-ryzen-7-8700f": {
+    "price_tr": "7.093,83 TL"
+  },
+  "amd-ryzen-7-8700g": {
+    "price_tr": "11.829,09 TL"
+  },
+  "amd-ryzen-7-9700x": {
+    "price_tr": "12.523,50 TL"
+  },
+  "amd-ryzen-7-9800x3d": {
+    "price_tr": "21.329,60 TL"
+  },
+  "amd-ryzen-7-9850x3d": {
+    "price_tr": "25.000,00 TL"
+  },
+  "amd-ryzen-9-7900": {
+    "price_tr": "22.999,00 TL"
+  },
+  "amd-ryzen-9-7900x": {
+    "price_tr": "19.291,09 TL"
+  },
+  "amd-ryzen-9-7950x": {
+    "price_tr": "18.778,18 TL"
+  },
+  "amd-ryzen-9-7900x3d": {
+    "price_tr": "16.069,69 TL"
+  },
+  "amd-ryzen-9-7950x3d": {
+    "price_tr": "21.999,00 TL"
+  },
+  "amd-ryzen-9-9900x3d": {
+    "price_tr": "20.504,04 TL"
+  },
+  "amd-ryzen-9-9950x3d": {
+    "price_tr": "23.489,00 TL"
+  },
+  "sapphire_rx_9070_xt_pulse": {
+    "price_tr": "46.463 TL"
+  },
+  "asus_prime_rx_9070_oc_16gb": {
+    "price_tr": "31.099,00 TL"
+  },
+  "xfx_swift_rx_9070_xt_oc_16gb": {
+    "price_tr": "35.999,00 TL"
+  },
+  "xfx_quik_319_rx_7800_xt_16gb": {
+    "price_tr": "20.999,00 TL"
+  },
+  "gigabyte_rx_9060_xt_gaming_oc_8gb": {
+    "price_tr": "17.639,00 TL"
+  },
+  "asus_prime_rx_9060_xt_oc_16gb": {
+    "price_tr": "16.406,68 TL"
+  },
+  "gpu_asus_dual_rx_9060_xt_8gb": {
+    "price_tr": "15.999,00 TL"
+  },
+  "asus_prime_rx_9060_xt_oc_8gb": {
+    "price_tr": "16.406,68 TL"
+  },
+  "sapphire_pulse_rx_9060_xt_8g": {
+    "price_tr": "20.799,00 TL"
+  },
+  "sapphire_rx_9060_xt_pulse_8gb": {
+    "price_tr": "15.889,00 TL"
+  },
+  "xfx_swift_rx_9060_xt_dual_oc_16gb": {
+    "price_tr": "19.914TL"
+  },
+  "xfx_quicksilver_rx_9070_xt_magnetic_white": {
+    "price_tr": "35.999,00 TL"
+  },
+  "xfx_quicksilver_rx_9070_xt_magnetic_black": {
+    "price_tr": "35.999,00 TL"
+  },
+  "xfx_mercury_rx_9070_xt_magnetic_white_oc_rgb": {
+    "price_tr": "95.137,10 TL"
+  },
+  "xfx_quicksilver_rx_9070_xt_gaming_black": {
+    "price_tr": "35.999,00 TL"
+  },
+  "xfx_quicksilver_rx_9070_xt_gaming_white": {
+    "price_tr": "137.343,00 TL"
+  },
+  "asus_dual_rx_9060_xt_16gb_black": {
+    "price_tr": "15.999,00 TL"
+  },
+  "xfx_swift_rx_9060_dual_oc_8gb": {
+    "price_tr": "38.509,98 TL"
+  },
+  "xfx_swift_210_rx_7600_8gb": {
+    "price_tr": "999₺"
+  },
+  "asrock_rx_9070_xt_steel_legend_oc_16gb": {
+    "price_tr": "46.759,00 TL"
+  },
+  "gpu_asrock_rx_9060xt_challenger_16gb_oc": {
+    "price_tr": "30.499,00 TL"
+  },
+  "powercolor_rx_9070_hellhound_16gb": {
+    "price_tr": "42.106,90 TL"
+  },
+  "sapphire_rx_7900_xtx_nitro_vaporx_24gb": {
+    "price_tr": "33.619,00 TL"
+  },
+  "powercolor_reaper_rx_9060_xt_16g": {
+    "price_tr": "17.639,00 TL"
+  },
+  "powercolor_red_devil_rx_9070_xt_16g_oc": {
+    "price_tr": "46.463 TL"
+  },
+  "powercolor_hellhound_rx_9070_xt_16g_oc": {
+    "price_tr": "43.539 TL"
+  },
+  "powercolor_rx_9070_reaper_16gb": {
+    "price_tr": "534.608,00 TL"
+  },
+  "gpu_asus_gt_710_2gb_gddr5_evo": {
+    "price_tr": "4.543,88 TL"
+  },
+  "asus_geforce_gt_730_2gb_gddr5_brk": {
+    "price_tr": "3.135,20 TL"
+  },
+  "inno3d_rtx_5050_twin_x2_8gb": {
+    "price_tr": "21.199,00 TL"
+  },
+  "msi_rtx_5050_shadow_2x_oc_8gb_gddr7": {
+    "price_tr": "17.000 TL"
+  },
+  "msi_rtx_3050_ventus_2x_xs_8g_oc": {
+    "price_tr": "28.492,81 TL"
+  },
+  "msi_rtx_5060_ventus_2x_oc_white_8gb_gddr7": {
+    "price_tr": "23.031,65 TL"
+  },
+  "zotac_rtx_5060_gaming_solo_8gb_gddr7": {
+    "price_tr": "20.253,73 TL"
+  },
+  "inno3d_rtx_5060_twin_x2_8gb_gddr7": {
+    "price_tr": "18.999,00 TL"
+  },
+  "msi_rtx_5060_ventus_2x_oc_8gb_gddr7": {
+    "price_tr": "23.031,65 TL"
+  },
+  "inno3d_rtx_5060_twin_x2_oc_white_8gb_gddr7": {
+    "price_tr": "18.999,00 TL"
+  },
+  "gpu_zotac_rtx_5060_gaming_twin_edge_oc_white_8gb_gddr7": {
+    "price_tr": "20.253,73 TL"
+  },
+  "gpu_zotac_rtx_5060_gaming_twin_edge_8gb_gddr7": {
+    "price_tr": "20.253,73 TL"
+  },
+  "zotac_rtx_5060_gaming_amp_8gb_gddr7": {
+    "price_tr": "20.253,73 TL"
+  },
+  "msi_rtx_5060_shadow_2x_oc_8gb_gddr7": {
+    "price_tr": "23.031,65 TL"
+  },
+  "asus_dual_rtx_4060_ti_o8g_evo_oc": {
+    "price_tr": "23.199,00 TL"
+  },
+  "inno3d_rtx_5060_twin_x2_oc_v2_8gb_gddr7": {
+    "price_tr": "18.999,00 TL"
+  },
+  "msi_rtx_5060_gaming_oc_8gb_gddr7": {
+    "price_tr": "23.031,65 TL"
+  },
+  "inno3d_rtx_5060_ti_twin_x2_8gb_gddr7": {
+    "price_tr": "22.524,60 TL"
+  },
+  "asus_dual_rtx_5060_oc_8gb_gddr7": {
+    "price_tr": "23.999 TL"
+  },
+  "inno3d_rtx_5060_ti_twin_x2_oc_8gb_gddr7": {
+    "price_tr": "22.524,60 TL"
+  },
+  "zotac_rtx_5060_ti_gaming_amp_8gb_gddr7": {
+    "price_tr": "27.900 TL"
+  },
+  "asus_dual_rtx_5060_oc_white_8gb_gddr7": {
+    "price_tr": "23.999 TL"
+  },
+  "inno3d_rtx_5060_ti_twin_x2_oc_white_8gb_gddr7": {
+    "price_tr": "22.524,60 TL"
+  },
+  "gigabyte_rtx_5060_ti_windforce_oc_8gb_gddr7": {
+    "price_tr": "27.900 TL"
+  },
+  "zotac_rtx_5060_ti_gaming_twin_edge_oc_8gb_gddr7": {
+    "price_tr": "27.900 TL"
+  },
+  "msi_rtx_5060_ti_shadow_2x_oc_8gb_gddr7": {
+    "price_tr": "27.900 TL"
+  },
+  "msi_rtx_5060_ti_ventus_2x_oc_plus_8gb_gddr7": {
+    "price_tr": "27.900 TL"
+  },
+  "gigabyte_rtx_4060_ti_gaming_oc_8g": {
+    "price_tr": "26.259 TL"
+  },
+  "gigabyte_rtx_5060_ti_eagle_ice_oc_8gb_gddr7": {
+    "price_tr": "27.900 TL"
+  },
+  "msi_rtx_5060_ti_ventus_2x_oc_plus_white_8gb_gddr7": {
+    "price_tr": "27.900 TL"
+  },
+  "asus_dual_rtx_5060_ti_oc_8gb_gddr7": {
+    "price_tr": "29.499,36 TL"
+  },
+  "msi_rtx_4060_ti_ventus_2x_black_oc_16gb": {
+    "price_tr": "25.158,00 TL"
+  },
+  "msi_rtx_5060_ti_ventus_2x_oc_plus_16gb_gddr7": {
+    "price_tr": "45.999,00 ₺"
+  },
+  "zotac_rtx_5060_ti_gaming_amp_16gb_gddr7": {
+    "price_tr": "27.900 TL"
+  },
+  "gigabyte_rtx_5060_ti_windforce_oc_16gb_gddr7": {
+    "price_tr": "45.999,00 ₺"
+  },
+  "gigabyte_rtx_5060_ti_eagle_oc_16gb_gddr7": {
+    "price_tr": "45.999,00 ₺"
+  },
+  "msi_rtx_5060_ti_ventus_3x_oc_16gb_gddr7": {
+    "price_tr": "45.999,00 ₺"
+  },
+  "inno3d_rtx_5070_twin_x2_12gb_gddr7": {
+    "price_tr": "30.892,50 TL"
+  },
+  "msi_rtx_5060_ti_gaming_oc_16gb_gddr7": {
+    "price_tr": "45.999,00 ₺"
+  },
+  "inno3d_rtx_5070_twin_x2_oc_white_12gb_gddr7": {
+    "price_tr": "31.090,70 TL"
+  },
+  "inno3d_rtx_5070_twin_x2_oc_12gb_gddr7": {
+    "price_tr": "30.892,50 TL"
+  },
+  "msi_rtx_5070_shadow_2x_oc_12g_gddr7": {
+    "price_tr": "44.449 TL"
+  },
+  "msi_rtx_5070_ventus_2x_oc_12g_gddr7": {
+    "price_tr": "43.416,73 TL"
+  },
+  "inno3d_rtx_5070_x3_oc_12gb_gddr7": {
+    "price_tr": "30.892,50 TL"
+  },
+  "asus_dual_rtx_5060_ti_oc_16gb_gddr7": {
+    "price_tr": "29.499,36 TL"
+  },
+  "gigabyte_rtx_5070_eagle_oc_sff_12g_gddr7": {
+    "price_tr": "44.449 TL"
+  },
+  "msi_rtx_5070_ventus_2x_oc_white_12g_gddr7": {
+    "price_tr": "43.416,73 TL"
+  },
+  "msi_rtx_5070_shadow_3x_oc_12gb_gddr7": {
+    "price_tr": "44.449 TL"
+  },
+  "asus_prime_rtx_5060_ti_oc_16gb_gddr7": {
+    "price_tr": "29.499,36 TL"
+  },
+  "msi_rtx_5070_inspire_3x_oc_12g_gddr7": {
+    "price_tr": "43.416,73 TL"
+  },
+  "msi_rtx_5070_gaming_trio_oc_12gb_gddr7": {
+    "price_tr": "43.416,73 TL"
+  },
+  "asus_dual_rtx_5070_oc_12g_gddr7": {
+    "price_tr": "42.899 TL"
+  },
+  "gigabyte_rtx_5070_gaming_oc_12g_gddr7": {
+    "price_tr": "44.449 TL"
+  },
+  "asus_tuf_rtx_5060_ti_oc_16gb_gddr7": {
+    "price_tr": "29.499,36 TL"
+  },
+  "asus_tuf_rtx_5070_ti_gaming_oc_16gb_gddr7": {
+    "price_tr": "75.102,37 TL"
+  },
+  "msi_rtx_5080_ventus_3x_oc_16g_gddr7": {
+    "price_tr": "72.689,00 TL"
+  },
+  "msi_rtx_5080_shadow_3x_oc_16g_gddr7": {
+    "price_tr": "72.689,00 TL"
+  },
+  "msi_rtx_5080_ventus_3x_oc_white_16g_gddr7": {
+    "price_tr": "72.689,00 TL"
+  },
+  "msi_rtx_5080_inspire_3x_oc_16gb_gddr7": {
+    "price_tr": "72.689,00 TL"
+  },
+  "gpu_msi_rtx_5080_vanguard_soc_launch_edition_16gb_gddr7": {
+    "price_tr": "72.689,00 TL"
+  },
+  "msi_rtx_5080_suprim_liquid_soc_16gb_gddr7": {
+    "price_tr": "72.689,00 TL"
+  },
+  "colorful_gaming_duo_rtx_5060_ti_8gb_gddr7": {
+    "price_tr": "23.867,42 TL"
+  },
+  "gainward_rtx_3050_pegasus_6gb_gddr6": {
+    "price_tr": "12.559,00 TL"
+  },
+  "gainward_rtx_5060_ti_ghost_8gb_gddr7": {
+    "price_tr": "18.699,00 TL"
+  },
+  "gainward_rtx_5060_ti_ghost_oc_16gb_gddr7": {
+    "price_tr": "18.699,00 TL"
+  },
+  "gainward_rtx_5070_python_iii_12gb_gddr7": {
+    "price_tr": "8.809,00 TL"
+  },
+  "pny_rtx_5070_12gb_gddr7": {
+    "price_tr": "44.449 TL"
+  },
+  "gpu_pny_rtx_5070_12gb_oc_argb_gddr7": {
+    "price_tr": "44.449 TL"
+  },
+  "galax_rtx_5060_ti_1_click_oc_8gb_gddr7": {
+    "price_tr": "19.499,00 TL"
+  },
+  "galax_rtx_5050_1_click_oc_v2_8gb_gddr6": {
+    "price_tr": "21.999,00 TL"
+  },
+  "galax_rtx_5080_1_click_oc_white_16gb_gddr7": {
+    "price_tr": "86.239,00 TL"
+  },
+  "galax_rtx_5080_ex_gamer_1_click_oc_16gb_gddr7": {
+    "price_tr": "86.239,00 TL"
+  },
+  "gpu_galax_rtx_5080_ex_gamer_1_click_oc_16gb_gddr7": {
+    "price_tr": "86.239,00 TL"
+  },
+  "galax_rtx_4060_1_click_oc_2x_8gb_gddr6": {
+    "price_tr": "22.142,84 TL"
+  },
+  "galax_rtx_5060_1_click_oc_8gb_gddr7": {
+    "price_tr": "3.313 TL"
+  },
+  "gpu_galax_rtx_5060_ti_1_click_oc_16gb_gddr7": {
+    "price_tr": "19.499,00 TL"
+  },
+  "galax_rtx_5070_ex_gamer_1_click_oc_12gb_gddr7": {
+    "price_tr": "134.836,00 TL"
+  },
+  "galax_rtx_5070_ti_1_click_oc_2x_16gb_gddr7": {
+    "price_tr": "66.399 TL"
+  },
+  "galax_rtx_5080_1_click_oc_16gb_gddr7": {
+    "price_tr": "86.239,00 TL"
+  },
+  "galax_rtx_5090_1_click_oc_32gb_gddr7": {
+    "price_tr": "999₺"
+  },
+  "asus_rog_matrix_platinum_rtx_5090_30th_anniversary": {
+    "price_tr": "999₺"
+  },
+  "msi_rtx_5090_lightning_z_32gb_gddr7": {
+    "price_tr": "999₺"
+  },
+  "asus_rog_astral_lc_rtx_5090_oc_32gb_gddr7": {
+    "price_tr": "999₺"
+  },
+  "asus_tuf_gaming_rtx_5090_32gb_gddr7": {
+    "price_tr": "999₺"
+  },
+  "asus_tuf_gaming_rtx_5090_oc_32gb_gddr7": {
+    "price_tr": "999₺"
+  },
+  "asus_rog_astral_rtx_5090_oc_32gb_gddr7": {
+    "price_tr": "999₺"
+  },
+  "msi_rtx_5090_suprim_liquid_soc_32gb_gddr7": {
+    "price_tr": "999₺"
+  },
+  "msi_rtx_5090_vanguard_soc_launch_32gb_gddr7": {
+    "price_tr": "999₺"
+  },
+  "gpu_asus_rog_astral_rtx_5090_32gb_gddr7": {
+    "price_tr": "999₺"
+  },
+  "gpu_msi_rtx_5090_ventus_3x_oc_32gb_gddr7": {
+    "price_tr": "999₺"
+  },
+  "asus_rog_astral_rtx_5090_btf_oc_32gb_gddr7": {
+    "price_tr": "999₺"
+  },
+  "asus_rog_astral_rtx_5090_dhahab_oc_32gb_gddr7": {
+    "price_tr": "999₺"
+  },
+  "asus_rog_astral_lc_rtx_5090_32gb_gddr7": {
+    "price_tr": "999₺"
+  },
+  "zotac_rtx_5090_gaming_solid_oc_32g": {
+    "price_tr": "999₺"
+  },
+  "msi_rtx_5090_suprim_oc_32gb_gddr7": {
+    "price_tr": "999₺"
+  },
+  "asrock_intel_arc_b570_challenger_10gb_oc": {
+    "price_tr": "18.089,93 TL"
+  },
+  "asrock_intel_arc_b580_steel_legend_12gb_oc": {
+    "price_tr": "19.999,00 TL"
+  },
+  "intel_arc_b580_limited_edition_battlemage": {
+    "price_tr": "1.382,60 TL"
+  },
+  "sparkle_intel_arc_b580_orc_luna_oc_12gb": {
+    "price_tr": "15.059,39 TL"
+  },
+  "nb_eco_asus_go_n4500": {
+    "price_tr": "37.583,71 TL"
+  },
+  "nb_std_001": {
+    "price_tr": "24.899,00 TL"
+  },
+  "nb_std_013": {
+    "price_tr": "1.031,00 TL"
+  },
+  "hp_elitebook_6_u5_24gb_2tb": {
+    "price_tr": "61.749,05 TL"
+  },
+  "lenovo_yoga_pro_9_u7_255h_5060": {
+    "price_tr": "130.000 TL"
+  },
+  "asus_zenbook_duo_u7_255h": {
+    "price_tr": "108.499,00 TL"
+  },
+  "hp_omnibook_x_flip_u7_258v": {
+    "price_tr": "66.999,00 TL"
+  },
+  "lenovo_yoga_slim_7_snapdragon_elite": {
+    "price_tr": "74.588,06 TL"
+  },
+  "huawei_matebook_14_u5_125h": {
+    "price_tr": "25.350,00 TL"
+  },
+  "asus_vivobook_s14_u7_258v_16gb": {
+    "price_tr": "48.999,00 TL"
+  },
+  "f/p_003": {
+    "price_tr": "15.674,05 TL"
+  },
+  "acer_al16_52p_i3_1305u": {
+    "price_tr": "10.599,00 TL"
+  },
+  "lenovo_ideapad_slim_3_r7_5825u_freedos": {
+    "price_tr": "27.999,00 TL"
+  },
+  "asus_vivobook_16_snapdragon_premium_ai": {
+    "price_tr": "27.599,00 TL"
+  },
+  "casper_nirvana_s100_i5_13420h_1tb": {
+    "price_tr": "68.713,06 TL"
+  },
+  "acer_aspire_15_i5_12450h": {
+    "price_tr": "186,87 TL"
+  },
+  "casper_nirvana_x650_i5_16gb": {
+    "price_tr": "29.354,05 TL"
+  },
+  "lenovo_ideapad_slim_3_r5_7520u": {
+    "price_tr": "15.674,05 TL"
+  },
+  "lenovo_ideapad_slim_3_r3_7320u": {
+    "price_tr": "15.674,05 TL"
+  },
+  "lenovo_ideapad_flex_5_r5_5625u_v2": {
+    "price_tr": "999₺"
+  },
+  "casper_nirvana_s100_ultra7_premium": {
+    "price_tr": "68.713,06 TL"
+  },
+  "asus_v16_i5_210h_5050": {
+    "price_tr": "63.919,06 TL"
+  },
+  "lenovo_ideapad_flex_5_r5_5625u": {
+    "price_tr": "999₺"
+  },
+  "lenovo_ideacentre_27irh9": {
+    "price_tr": "1.031,00 TL"
+  },
+  "lenovo_neo_50a_g5": {
+    "price_tr": "1.031,00 TL"
+  },
+  "hp_proone_240_g10": {
+    "price_tr": "1.031,00 TL"
+  },
+  "hp_proone_440_g9": {
+    "price_tr": "1.031,00 TL"
+  },
+  "hp_envy_34_gpu": {
+    "price_tr": "1.031,00 TL"
+  },
+  "msi_modern_am242_i3": {
+    "price_tr": "0 TL"
+  },
+  "msi_pro_ap242": {
+    "price_tr": "0 TL"
+  },
+  "dell_inspiron_24": {
+    "price_tr": "551.513,21 TL"
+  },
+  "dell_ec24250": {
+    "price_tr": "2.377,00 TL"
+  },
+  "dell_optiplex_7470": {
+    "price_tr": "2.377,00 TL"
+  },
+  "dell_pro_plus_qb24250": {
+    "price_tr": "2.377,00 TL"
+  },
+  "acer_veriton_4000": {
+    "price_tr": "1.031,00 TL"
+  },
+  "acer_veriton_vz2524g": {
+    "price_tr": "22.799,05 TL"
+  },
+  "nzxt_h5_flow_black": {
+    "price_tr": "357₺"
+  },
+  "nzxt_h7_flow_white": {
+    "price_tr": "879TL"
+  },
+  "nzxt_h9_elite_white": {
+    "price_tr": "10.399,00 TL"
+  },
+  "corsair_4000d_airflow_black": {
+    "price_tr": "4.216,68 TL"
+  },
+  "corsair_icue_5000x_rgb": {
+    "price_tr": "12.177,56 TL"
+  },
+  "corsair_2500d_airflow": {
+    "price_tr": "31.230,00 TL"
+  },
+  "lian_li_o11_dynamic_evo": {
+    "price_tr": "14.400,00 TL"
+  },
+  "lian_li_o11_vision": {
+    "price_tr": "14.385,00 TL"
+  },
+  "asus_tuf_gaming_gt502": {
+    "price_tr": "7.380,00 TL"
+  },
+  "msi_mpg_gungnir_110r": {
+    "price_tr": "2.139,00 TL"
+  },
+  "msi_mag_forge_100r": {
+    "price_tr": "3.119,00 TL"
+  },
+  "msi_mag_forge_320r_rgb": {
+    "price_tr": "3.499,00 TL"
+  },
+  "cooler_master_td500_mesh_v2": {
+    "price_tr": "10.899,00 TL"
+  },
+  "cooler_master_haf_700_evo": {
+    "price_tr": "50.447,50 TL"
+  },
+  "fractal_design_north_charcoal": {
+    "price_tr": "0 TL"
+  },
+  "fractal_design_meshify_2_compact": {
+    "price_tr": "14.585,00 TL"
+  },
+  "bequiet_pure_base_500dx_black": {
+    "price_tr": "5.619,00 TL"
+  },
+  "bequiet_dark_base_pro_901": {
+    "price_tr": "5.619,00 TL"
+  },
+  "thermaltake_ceres_500_tg_argb": {
+    "price_tr": "8.830,22 TL"
+  },
+  "thermaltake_the_tower_200": {
+    "price_tr": "3.342,50 TL"
+  },
+  "deepcool_ch560_digital": {
+    "price_tr": "13.449,00 TL"
+  },
+  "bitfenix_nova_mesh_m_argb": {
+    "price_tr": "2.838,00 TL"
+  },
+  "sharkoon_tg7_rgb": {
+    "price_tr": "4.037,82 TL"
+  },
+  "zalman_z10_plus": {
+    "price_tr": "11.599,00 TL"
+  },
+  "cougar_mx410_mesh_g_rgb": {
+    "price_tr": "2.000 TL"
+  },
+  "raijintek_ponos_ms_v2": {
+    "price_tr": "4.499,00 TL"
+  },
+  "gamepower_horizon_rgb": {
+    "price_tr": "4.611,39 TL"
+  },
+  "rampage_x_core_argb": {
+    "price_tr": "1.159,00 TL"
+  },
+  "rampage_sailor_black": {
+    "price_tr": "00TL"
+  },
+  "gamebooster_gb_g2102b": {
+    "price_tr": "1.399,00 TL"
+  },
+  "phanteks_enthoo_pro_2": {
+    "price_tr": "7.339,22 TL"
+  },
+  "intel_stock_lga1700": {
+    "price_tr": "570,72 TL"
+  },
+  "amd_wraith_prism": {
+    "price_tr": "1.302,00 TL"
+  },
+  "bequiet_pure_rock_2_black": {
+    "price_tr": "0 TL"
+  },
+  "cooler_master_hyper_212_halo": {
+    "price_tr": "1.977,14 TL"
+  },
+  "thermalright_peerless_assassin_120": {
+    "price_tr": "900TL"
+  },
+  "deepcool_ak620_zero_dark": {
+    "price_tr": "4.014,80 TL"
+  },
+  "msi_mag_coreliquid_m240": {
+    "price_tr": "5.760,72 TL"
+  },
+  "corsair_h100i_elite_capellix": {
+    "price_tr": "4.500 TL"
+  },
+  "nzxt_kraken_elite_360": {
+    "price_tr": "15.499,12 TL"
+  },
+  "arctic_liquid_freezer_iii_420": {
+    "price_tr": "5.899,07 TL"
+  },
+  "corsair_h170i_elite_capellix": {
+    "price_tr": "10.024,94 TL"
+  },
+  "gigabyte_aorus_waterforce_x_240": {
+    "price_tr": "8.578,44 TL"
+  },
+  "silverstone_ice_myst_360": {
+    "price_tr": "3.899,11 TL"
+  },
+  "ekwb_ek_nucleos_aio_cr360": {
+    "price_tr": "9.999,00 TL"
+  },
+  "zalman_cnps20x": {
+    "price_tr": "4.615,00 TL"
+  },
+  "enermax_ets_t50_axe": {
+    "price_tr": "3.070,79 TL"
+  },
+  "aerocool_cylon_4": {
+    "price_tr": "1.189,62 TL"
+  },
+  "kingston_fury_beast_32gb_3600_dual": {
+    "price_tr": "17.594,24 TL"
+  },
+  "kingston_beast_16gb_3200_cl16_single": {
+    "price_tr": "8.247,90 TL"
+  },
+  "lexar_thor_8gb_3200_cl16_single": {
+    "price_tr": "971,08 TL"
+  },
+  "xpg_gammix_d35_8gb_3600": {
+    "price_tr": "4.649,00 TL"
+  },
+  "kingston_fury_beast_32gb_3200_cl16_single": {
+    "price_tr": "11.514,06 TL"
+  },
+  "crucial_pro_32gb_3200_cl22_dual": {
+    "price_tr": "2.995,66 TL"
+  },
+  "lexar_standard_8gb_3200_cl22_single": {
+    "price_tr": "614,99 TL"
+  },
+  "twinmos_tornadox7_8gb_3200_cl16_single": {
+    "price_tr": "509 ₺"
+  },
+  "xpg_gammix_d30_8gb_3600_cl18_single": {
+    "price_tr": "1.174,95 TL"
+  },
+  "crucial_t700_2tb_nvme_gen5_heatsink": {
+    "price_tr": "4 TL"
+  },
+  "asus_rog_thor_1200p2": {
+    "price_tr": "52.806,00 TL"
+  },
+  "asus_rog_strix_850g": {
+    "price_tr": "41.602,00 TL"
+  },
+  "asus_tuf_gaming_1000g": {
+    "price_tr": "8.281,00 TL"
+  },
+  "asus_tuf_gaming_850g": {
+    "price_tr": "9.999 TL"
+  },
+  "asus_tuf_gaming_750g": {
+    "price_tr": "7.059,97 TL"
+  },
+  "corsair_rm850x_shift": {
+    "price_tr": "7.999,00 TL"
+  },
+  "corsair_rm1000e": {
+    "price_tr": "11.669,00 TL"
+  },
+  "msi_meg_ai1300p": {
+    "price_tr": "20.170,20 TL"
+  },
+  "msi_mpg_a1000g_pcie5": {
+    "price_tr": "9.389,00 TL"
+  },
+  "msi_mpg_a850g_pcie5": {
+    "price_tr": "9.130,14 TL"
+  },
+  "msi_mag_a750gl": {
+    "price_tr": "5.499,00 TL"
+  },
+  "thermaltake_toughpower_gf3_1650": {
+    "price_tr": "9.199,23 TL"
+  },
+  "cooler_master_v1300_platinum": {
+    "price_tr": "5.022,28 TL"
+  },
+  "cooler_master_gx_ii_850_gold": {
+    "price_tr": "7.999,00 TL"
+  },
+  "cooler_master_mwe_750_gold": {
+    "price_tr": "24.644 TL"
+  },
+  "cooler_master_mwe_650_bronze": {
+    "price_tr": "16.231,00 TL"
+  },
+  "seasonic_vertex_gx_1200": {
+    "price_tr": "9.472,08 TL"
+  },
+  "nzxt_c1200_gold": {
+    "price_tr": "11.928,66 TL"
+  },
+  "nzxt_c1000_gold": {
+    "price_tr": "10.121,76 TL"
+  },
+  "xpg_core_reactor_ii_1200": {
+    "price_tr": "11.799,00 TL"
+  },
+  "xpg_core_reactor_ii_850": {
+    "price_tr": "6.872,64 TL"
+  },
+  "gamebooster_gb_750g": {
+    "price_tr": "1.399,00 TL"
+  },
+  "high_power_super_gd_850": {
+    "price_tr": "5.313,26 TL"
+  },
+  "bitfenix_bpa_600": {
+    "price_tr": "2.732,90 TL"
+  },
+  "asus_rog_loki_750p": {
+    "price_tr": "30.927,21 TL"
+  },
+  "lian_li_sp850": {
+    "price_tr": "9.399,00 TL"
+  },
+  "thermaltake_toughpower_sfx_1000": {
+    "price_tr": "21.502,99 TL"
+  },
+  "fsp_hydro_gsm_lite_750": {
+    "price_tr": "20.948,00 TL"
+  },
+  "corsair_cv650": {
+    "price_tr": "9.999,00 TL"
+  },
+  "aerocool_vx_plus_600": {
+    "price_tr": "2.747,06 TL"
+  },
+  "thermaltake_litepower_650": {
+    "price_tr": "3.899,00 TL"
+  },
+  "cougar_stx_700": {
+    "price_tr": "3.453,45 TL"
+  },
+  "fsp_hyper_80_pro_700": {
+    "price_tr": "2.939,00 TL"
+  },
+  "bitfenix_formula_gold_750": {
+    "price_tr": "9.214,03 TL"
+  },
+  "zalman_watttera_800": {
+    "price_tr": "14.269,00 TL"
+  },
+  "high_power_performance_gold_850": {
+    "price_tr": "5.313,26 TL"
+  },
+  "asus_tuf_vg27aq": {
+    "price_tr": "8.585,87 TL"
+  },
+  "dell_u2723qe": {
+    "price_tr": "35.305,00 TL"
+  },
+  "msi_mag274qrf_qd": {
+    "price_tr": "67.776,80 TL"
+  },
+  "viewsonic_vx2476": {
+    "price_tr": "8.249,00 TL"
+  }
+}
