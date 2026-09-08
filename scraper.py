@@ -1,7 +1,7 @@
 import requests, json, os, time
 
 # Sizin görseldeki GERÇEK Google Proxy linkiniz
-GOOGLE_PROXY_URL = "https://script.google.com/macros/s/AKfycbxWppt-80fiTCRyk-2xbORlmSBF-huZKhc8jpZMfR1VAblwwJw2Dw5lOE7aUw-owUbfVA/exec"
+GOOGLE_PROXY_URL = "https://script.google.com/macros/s/AKfycbzQHICP8Yldkcl5L_rwpJ6mnvA9T3XqCfMmaad2c7qmwZnM1U3lZm2Vk4i6nkirRknpBg/exec"
 
 # Tüm donanım dosyalarınız (Bu dosyalar GitHub Tkprice deposunda duruyor)
 DATA_FILES = [
