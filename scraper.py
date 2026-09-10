@@ -1,7 +1,7 @@
 import requests, json, os, time
 
 # SİZİN SONU /exec İLE BİTEN GOOGLE LİNKİNİZ
-GOOGLE_PROXY = "https://script.google.com/macros/s/AKfycbzQHICP8Yldkcl5L_rwpJ6mnvA9T3XqCfMmaad2c7qmwZnM1U3lZm2Vk4i6nkirRknpBg/exec"
+GOOGLE_PROXY = "https://script.google.com/macros/s/AKfycbw2UswJ223WHjWbBToYkFIHyHXdue4TX8q4mXIiyp58i0OY_zYHcR3z4y1MHYruLlMndQ/exec"
 
 DATA_FILES = ['cpu.json', 'gpus.json', 'notebooks.json', 'aio_configs.json', 'cases.json', 'coolers.json', 'rams.json', 'psus.json']
 results = {}
