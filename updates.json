@@ -1,1 +1,596 @@
-{}
+{
+  "asrock-a520m-itx-ac": {
+    "price_tr": "23.841,53 TL"
+  },
+  "asrock-a620m-x": {
+    "price_tr": "5.334,03 TL"
+  },
+  "asrock-b550-phantom-gaming-4-ac": {
+    "price_tr": "20.022,70 TL"
+  },
+  "asrock-b550m-hdv": {
+    "price_tr": "4.199,00 TL"
+  },
+  "asrock-b550m-itx-ac": {
+    "price_tr": "19.608,00 TL"
+  },
+  "asrock-b650-pg-lightning": {
+    "price_tr": "19.770,09 TL"
+  },
+  "asrock-b650m-pg-riptide": {
+    "price_tr": "23.599,00 TL"
+  },
+  "asrock-b650m-hdv-m2": {
+    "price_tr": "57.473,00 TL"
+  },
+  "asrock-b850-pg-lightning-wifi": {
+    "price_tr": "7.569,00 TL"
+  },
+  "asrock-b850m-challenger-wifi-v2": {
+    "price_tr": "2TL"
+  },
+  "asrock-b850m-x-r2-0": {
+    "price_tr": "1.216,50 TL"
+  },
+  "asrock-x870e-taichi": {
+    "price_tr": "57.473,00 TL"
+  },
+  "excalibur_g870_i5_2050": {
+    "price_tr": "46.999,00 TL"
+  },
+  "lenovo_loq_12600hx_3050": {
+    "price_tr": "9TL"
+  },
+  "asus_rog_zephyrus_g16_5060": {
+    "price_tr": "79.799,05 TL"
+  },
+  "asus_v16_core5_4050": {
+    "price_tr": "49.818,12 TL"
+  },
+  "acer_nitro_v15_7535hs_3050": {
+    "price_tr": "34.890,00 TL"
+  },
+  "acer_nitro_lite_i5_3050": {
+    "price_tr": "300 TL"
+  },
+  "msi_thin_15_i5_4050": {
+    "price_tr": "52.999,64 TL"
+  },
+  "lenovo_loq_12600hx_4050": {
+    "price_tr": "46.559,03 TL"
+  },
+  "acer_nitro_v15_5050": {
+    "price_tr": "42.955,88 TL"
+  },
+  "lenovo_loq_r7_3735hs_3050": {
+    "price_tr": "62.979,06 TL"
+  },
+  "acer_nitro_v15_i5_4050": {
+    "price_tr": "42.955,88 TL"
+  },
+  "asus_rog_f16_c5_3050": {
+    "price_tr": "50.947,04 TL"
+  },
+  "asus_vivobook_16_c5_4050": {
+    "price_tr": "49.818,12 TL"
+  },
+  "nb_eco_asus_go_n4500": {
+    "price_tr": "32.796,85 TL"
+  },
+  "mm_acer_a3_eco": {
+    "price_tr": "16.899,00 TL"
+  },
+  "nb_std_001": {
+    "price_tr": "25.999 TL"
+  },
+  "hp_elitebook_6_u5_24gb_2tb": {
+    "price_tr": "39.448,93 TL"
+  },
+  "lenovo_yoga_pro_9_u7_255h_5060": {
+    "price_tr": "88.799,00 TL"
+  },
+  "asus_zenbook_duo_u7_255h": {
+    "price_tr": "119.986,82 TL"
+  },
+  "hp_omnibook_x_flip_u7_258v": {
+    "price_tr": "61.718,20₺"
+  },
+  "lenovo_yoga_slim_7_snapdragon_elite": {
+    "price_tr": "89.999,00 TL"
+  },
+  "casper_nirvana_s100_u7_32gb_premium": {
+    "price_tr": "56.999 TL"
+  },
+  "huawei_matebook_14_u5_125h": {
+    "price_tr": "59.999,00 TL"
+  },
+  "asus_vivobook_s14_u7_258v_16gb": {
+    "price_tr": "56.678 TL"
+  },
+  "nb_premium_002": {
+    "price_tr": "4.416,90 TL"
+  },
+  "f/p_003": {
+    "price_tr": "34.999,00 TL"
+  },
+  "hp_250_g10_eco": {
+    "price_tr": "32.900,79 TL"
+  },
+  "intel-core-i3-12100f": {
+    "price_tr": "6.379 TL"
+  },
+  "intel-core-i3-13100f": {
+    "price_tr": "5.190 TL"
+  },
+  "intel-core-i3-13100": {
+    "price_tr": "7.951,77 TL"
+  },
+  "intel-core-i3-14100": {
+    "price_tr": "5.917,63 TL"
+  },
+  "intel-core-i3-14100f": {
+    "price_tr": "5.158,12 TL"
+  },
+  "intel-core-i5-12400": {
+    "price_tr": "8.699,99 TL"
+  },
+  "intel-core-i5-12400f": {
+    "price_tr": "6.799,00 TL"
+  },
+  "intel-core-i5-13400": {
+    "price_tr": "14.100 TL"
+  },
+  "intel-core-i5-13400f": {
+    "price_tr": "9.994,36 TL"
+  },
+  "intel-core-i5-13500": {
+    "price_tr": "12.210 TL"
+  },
+  "intel-core-i5-13600k": {
+    "price_tr": "22.500 TL"
+  },
+  "intel-core-i5-13600kf": {
+    "price_tr": "26.102 TL"
+  },
+  "intel-core-i5-14400": {
+    "price_tr": "9.116,74 TL"
+  },
+  "intel-core-i5-14400f": {
+    "price_tr": "8.858 TL"
+  },
+  "intel-core-i5-14500": {
+    "price_tr": "12.835,50 TL"
+  },
+  "seagate_barracuda_2tb_7200": {
+    "price_tr": "5.847,00 TL"
+  },
+  "wd_blue_2tb_7200": {
+    "price_tr": "8.696,20 TL"
+  },
+  "toshiba_p300_2tb_7200": {
+    "price_tr": "8.497,00 TL"
+  },
+  "seagate_ironwolf_4tb_5400": {
+    "price_tr": "11.579,00 TL"
+  },
+  "nzxt_h5_flow_black": {
+    "price_tr": "5.696,40 TL"
+  },
+  "nzxt_h6_flow_white": {
+    "price_tr": "5.983,25 TL"
+  },
+  "nzxt_h7_flow_white": {
+    "price_tr": "4.434,21 TL"
+  },
+  "nzxt_h9_elite_white": {
+    "price_tr": "32.209,00 TL"
+  },
+  "corsair_4000d_airflow_black": {
+    "price_tr": "5.903,24 TL"
+  },
+  "corsair_icue_5000x_rgb": {
+    "price_tr": "7.740 TL"
+  },
+  "corsair_7000d_airflow": {
+    "price_tr": "0TL"
+  },
+  "corsair_2500d_airflow": {
+    "price_tr": "6.110,00 TL"
+  },
+  "lian_li_o11_dynamic_evo": {
+    "price_tr": "14.500 TL"
+  },
+  "lian_li_lancool_iii_rgb": {
+    "price_tr": "9.449 TL"
+  },
+  "lian_li_o11_vision": {
+    "price_tr": "7.999 TL"
+  },
+  "asus_rog_strix_helios": {
+    "price_tr": "16.649,00 TL"
+  },
+  "asus_tuf_gaming_gt502": {
+    "price_tr": "8.899,00 TL"
+  },
+  "msi_mpg_gungnir_110r": {
+    "price_tr": "4.656,25 TL"
+  },
+  "apple_macbook_air_m4_16gb_midnight": {
+    "price_tr": "99.999,00 TL"
+  },
+  "apple_macbook_air_m4_16gb_starlight": {
+    "price_tr": "3TL"
+  },
+  "apple_macbook_air_m4_16gb_silver": {
+    "price_tr": "84.499,00 TL"
+  },
+  "apple_macbook_air_m4_16gb_space_grey": {
+    "price_tr": "99.999 TL"
+  },
+  "apple_macbook_air_m4_16gb_256_skyblue": {
+    "price_tr": "49.999 TL"
+  },
+  "apple_macbook_air_m4_16gb_512_silver": {
+    "price_tr": "82.989,00 TL"
+  },
+  "apple_macbook_air_m4_16gb_512_skyblue": {
+    "price_tr": "74.111,04 TL"
+  },
+  "apple_macbook_air_m4_16gb_512_starlight": {
+    "price_tr": "73.999₺"
+  },
+  "apple_macbook_air_m4_16gb_512_midnight": {
+    "price_tr": "78.999 TL"
+  },
+  "apple_macbook_air_m4_16gb_512_silver_alt": {
+    "price_tr": "82.989,00 TL"
+  },
+  "apple_macbook_air_15_m4_16gb_256_skyblue": {
+    "price_tr": "68.999,00 TL"
+  },
+  "apple_macbook_air_15_m4_16gb_256_silver": {
+    "price_tr": "155.925,00 TL"
+  },
+  "apple_macbook_air_15_m4_16gb_256_starlight": {
+    "price_tr": "80.749,05 TL"
+  },
+  "apple_macbook_air_15_m4_16gb_256_midnight": {
+    "price_tr": "99.999,00 TL"
+  },
+  "apple_macbook_air_15_m4_16gb_512_silver": {
+    "price_tr": "84.499 TL"
+  },
+  "intel_stock_lga1700": {
+    "price_tr": "498,77 TL"
+  },
+  "amd_wraith_stealth": {
+    "price_tr": "455,00 TL"
+  },
+  "amd_wraith_prism": {
+    "price_tr": "1.302,00 TL"
+  },
+  "bequiet_pure_rock_2_black": {
+    "price_tr": "13.873,00 TL"
+  },
+  "cooler_master_hyper_212_halo": {
+    "price_tr": "2.092,09 TL"
+  },
+  "noctua_nh_d15_chromax": {
+    "price_tr": "7.786,02 TL"
+  },
+  "thermalright_peerless_assassin_120": {
+    "price_tr": "3.423,13 TL"
+  },
+  "deepcool_ak620_zero_dark": {
+    "price_tr": "3.769,00 TL"
+  },
+  "arctic_freezer_34_esports_duo": {
+    "price_tr": "1.798,91 TL"
+  },
+  "scythe_fuma_3": {
+    "price_tr": "2.299,00 TL"
+  },
+  "id_cooling_se_224_xts": {
+    "price_tr": "2.431,05 TL"
+  },
+  "msi_mag_coreliquid_m240": {
+    "price_tr": "4.101,30 TL"
+  },
+  "corsair_h100i_elite_capellix": {
+    "price_tr": "18.903,40 TL"
+  },
+  "nzxt_kraken_240_rgb": {
+    "price_tr": "3.869,33 TL"
+  },
+  "arctic_liquid_freezer_iii_240": {
+    "price_tr": "15.534,00 TL"
+  },
+  "apple_mac_mini_m4_24gb_512gb_1gb": {
+    "price_tr": "69.264,00 TL"
+  },
+  "apple_mac_mini_m4_24gb_1tb_10gb": {
+    "price_tr": "59.999 TL"
+  },
+  "apple_mac_mini_m4_pro_48gb_512gb_10gb": {
+    "price_tr": "40.420,00 TL"
+  },
+  "apple_mac_mini_m4_pro_64gb_4tb_10gb": {
+    "price_tr": "40.420,00 TL"
+  },
+  "apple_mac_mini_m4_pro_64gb_8tb_10gb": {
+    "price_tr": "59.999 TL"
+  },
+  "apple_mac_mini_m4_16gb_256_mu9d3tu": {
+    "price_tr": "53.579,06 TL"
+  },
+  "apple_mac_mini_m4_16gb_512_mu9e3tu": {
+    "price_tr": "55.999,00 TL"
+  },
+  "apple_mac_mini_m4_24gb_512_mcyt4tu": {
+    "price_tr": "69.264,00 TL"
+  },
+  "apple_mac_mini_m4_pro_24gb_512_mcx44tu": {
+    "price_tr": "100.199 TL"
+  },
+  "apple_mac_studio_m3_ultra_96gb_1tb_mu973tu": {
+    "price_tr": "369.999,00 TL"
+  },
+  "apple_mac_studio_m4_max_custom": {
+    "price_tr": "167.999 TL"
+  },
+  "apple_mac_studio_m4_max_14cpu_32gpu_base": {
+    "price_tr": "159.999,00 TL"
+  },
+  "apple_mac_studio_m4_max_16cpu_40gpu_pro": {
+    "price_tr": "167.999 TL"
+  },
+  "apple_mac_studio_m3_ultra_24cpu_60gpu_ultra": {
+    "price_tr": "339.999,00 TL"
+  },
+  "lenovo_neo_30a": {
+    "price_tr": "4.352,40 TL"
+  },
+  "lenovo_ideacentre_24irh9": {
+    "price_tr": "2.945 TL"
+  },
+  "lenovo_ideacentre_27irh9": {
+    "price_tr": "2.945 TL"
+  },
+  "lenovo_neo_50a_g5": {
+    "price_tr": "2.945 TL"
+  },
+  "lenovo_yoga_aio_9i_gpu": {
+    "price_tr": "2.945 TL"
+  },
+  "hp_200_g4": {
+    "price_tr": "4.352,40 TL"
+  },
+  "hp_proone_240_g10": {
+    "price_tr": "3TL"
+  },
+  "hp_proone_440_g9": {
+    "price_tr": "2.945 TL"
+  },
+  "hp_eliteone_840_g9": {
+    "price_tr": "4.352,40 TL"
+  },
+  "hp_eliteone_870_g9": {
+    "price_tr": "4.352,40 TL"
+  },
+  "hp_envy_34_gpu": {
+    "price_tr": "4.352,40 TL"
+  },
+  "msi_pro_ap241": {
+    "price_tr": "2.945 TL"
+  },
+  "msi_modern_am242_i3": {
+    "price_tr": "4.352,40 TL"
+  },
+  "msi_modern_am242p": {
+    "price_tr": "4.352,40 TL"
+  },
+  "msi_modern_am272p": {
+    "price_tr": "4.352,40 TL"
+  },
+  "adata_ultimate_su650_256gb_sata_3": {
+    "price_tr": "3.099,00 TL"
+  },
+  "adata_ultimate_su650_240gb_sata_3": {
+    "price_tr": "2.913,06 TL"
+  },
+  "adata_ultimate_su650_480gb_sata_3": {
+    "price_tr": "4.572,75 TL"
+  },
+  "adata_ultimate_su630_960gb_sata_3": {
+    "price_tr": "5.334,03 TL"
+  },
+  "adata_ultimate_su650_1tb_sata_3": {
+    "price_tr": "7.640,32 TL"
+  },
+  "adata_ultimate_su650_2tb_sata_3": {
+    "price_tr": "14.500,00 TL"
+  },
+  "crucial_t700_2tb_nvme_gen5_heatsink": {
+    "price_tr": "25.525,25 TL"
+  },
+  "crucial_bx500_1tb_sata_3": {
+    "price_tr": "2.695 TL"
+  },
+  "samsung_odyssey_g5": {
+    "price_tr": "13.499,00 TL"
+  },
+  "lg_ultragear_24gn600": {
+    "price_tr": "810,00 TL"
+  },
+  "asus_tuf_vg27aq": {
+    "price_tr": "56.450 TL"
+  },
+  "dell_u2723qe": {
+    "price_tr": "25.450,00 TL"
+  },
+  "msi_mag274qrf_qd": {
+    "price_tr": "5.000 TL"
+  },
+  "viewsonic_vx2476": {
+    "price_tr": "6.999,00 TL"
+  },
+  "asus_rog_thor_1600t": {
+    "price_tr": "54.950,00 TL"
+  },
+  "asus_rog_thor_1200p2": {
+    "price_tr": "25.899,00 TL"
+  },
+  "asus_rog_thor_1000p2": {
+    "price_tr": "17.749,00 TL"
+  },
+  "asus_rog_strix_1000g": {
+    "price_tr": "11.649,18 TL"
+  },
+  "asus_rog_strix_850g": {
+    "price_tr": "11.649,18 TL"
+  },
+  "asus_tuf_gaming_1000g": {
+    "price_tr": "8.399,00 TL"
+  },
+  "asus_tuf_gaming_850g": {
+    "price_tr": "6.499,00 TL"
+  },
+  "asus_tuf_gaming_750g": {
+    "price_tr": "6.815,00 TL"
+  },
+  "corsair_ax1600i": {
+    "price_tr": "37.383,78 TL"
+  },
+  "corsair_hx1500i": {
+    "price_tr": "19.567,94 TL"
+  },
+  "corsair_rm1000x_shift": {
+    "price_tr": "11.112,61 TL"
+  },
+  "corsair_rm850x_shift": {
+    "price_tr": "7.694,00 TL"
+  },
+  "corsair_rm1000e": {
+    "price_tr": "5TL"
+  },
+  "corsair_rm850e": {
+    "price_tr": "7.399,00 TL"
+  },
+  "apple_imac_24_m4_24gb_512_blue": {
+    "price_tr": "113.999₺"
+  },
+  "apple_imac_24_m4_24gb_512_pink": {
+    "price_tr": "113.999₺"
+  },
+  "apple_imac_24_m4_16gb_512_blue": {
+    "price_tr": "104.499,00 TL"
+  },
+  "apple_imac_24_m4_16gb_512_pink": {
+    "price_tr": "104.499,00 TL"
+  },
+  "apple_imac_24_m4_16gb_512_silver": {
+    "price_tr": "104.499,00 TL"
+  },
+  "apple_imac_24_m4_16gb_512_green": {
+    "price_tr": "104.499,00 TL"
+  },
+  "apple_imac_24_m4_16gb_256_silver_nano": {
+    "price_tr": "113.474,00₺"
+  },
+  "apple_imac_24_m4_16gb_256_pink": {
+    "price_tr": "93.999 TL"
+  },
+  "apple_imac_24_m4_16gb_256_green": {
+    "price_tr": "102.349,00₺"
+  },
+  "apple_imac_24_m4_16gb_256_blue": {
+    "price_tr": "87.999,00 TL"
+  },
+  "apple_imac_24_m4_10core_16gb_256_silver": {
+    "price_tr": "87.999,00 TL"
+  },
+  "apple_imac_24_m4_8core_16gb_256_pink": {
+    "price_tr": "93.999 TL"
+  },
+  "apple_imac_24_m4_8core_16gb_256_green": {
+    "price_tr": "87.999,00 TL"
+  },
+  "apple_imac_24_m4_10core_16gb_512_orange": {
+    "price_tr": "104.499,00 TL"
+  },
+  "apple_imac_24_m4_10core_16gb_512_purple": {
+    "price_tr": "104.499,00 TL"
+  },
+  "sapphire_rx_7600_pulse_8gb": {
+    "price_tr": "44.389,08 TL"
+  },
+  "sapphire_rx_9070_xt_pulse": {
+    "price_tr": "127.099 TL"
+  },
+  "sapphire_rx_9070_xt_pure_16gb": {
+    "price_tr": "49.587,02 TL"
+  },
+  "gpu_rx_9070_pulse_16gb": {
+    "price_tr": "47.499,27 TL"
+  },
+  "gpu_rx_9070_xt_nitro_plus_16gb": {
+    "price_tr": "64.145,00 TL"
+  },
+  "asrock_challenger_arc_b570_10gb_cl_10go": {
+    "price_tr": "17.915,10 TL"
+  },
+  "asrock_rx_9070_steel_legend_oc_16gb": {
+    "price_tr": "43.259,88 TL"
+  },
+  "asus_prime_rx_9070_oc_16gb": {
+    "price_tr": "41.950,97 TL"
+  },
+  "asus_prime_rx_9070_xt_oc_16gb": {
+    "price_tr": "47.040 TL"
+  },
+  "xfx_swift_rx_9070_oc_16gb": {
+    "price_tr": "5.079 TL"
+  },
+  "xfx_swift_rx_9070_xt_oc_16gb": {
+    "price_tr": "47.040 TL"
+  },
+  "xfx_quik_319_rx_7800_xt_16gb": {
+    "price_tr": "31.399TL"
+  },
+  "gigabyte_rx_9060_xt_gaming_oc_8gb": {
+    "price_tr": "30.803,07 TL"
+  },
+  "asus_prime_rx_9060_xt_oc_16gb": {
+    "price_tr": "49.999 TL"
+  },
+  "gpu_asus_dual_rx_9060_xt_8gb": {
+    "price_tr": "5.801,64 TL"
+  },
+  "adata_legend_850_lite_1tb_nvme_gen4": {
+    "price_tr": "8.239,17 TL"
+  },
+  "adata_legend_860_1tb_nvme_gen4": {
+    "price_tr": "10.263,31 TL"
+  },
+  "adata_legend_900_1tb_nvme_gen4": {
+    "price_tr": "13.080,35 TL"
+  },
+  "adata_legend_960_2tb_nvme_gen4": {
+    "price_tr": "18.999,00 TL"
+  },
+  "adata_legend_960_max_1tb_nvme_gen4": {
+    "price_tr": "8.239,17 TL"
+  },
+  "adata_legend_960_max_2tb_nvme_gen4": {
+    "price_tr": "18.999,00 TL"
+  },
+  "adata_legend_960_max_4tb_nvme_gen4": {
+    "price_tr": "9.390,86 TL"
+  },
+  "xpg_gammix_s60_blade_1tb_nvme_gen4": {
+    "price_tr": "30.146,29 TL"
+  },
+  "adata_legend_860_2tb_nvme_gen4": {
+    "price_tr": "19.453,79 TL"
+  }
+}
