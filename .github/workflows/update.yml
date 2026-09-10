@@ -1,34 +1,25 @@
 name: Otomatik Fiyat Guncelleme
 on:
-  schedule:
-    - cron: '0 0 * * *' # Her gece 00:00'da çalışır
-  workflow_dispatch: # Manuel çalıştırma butonu
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Dosya kaydetmek için zorunlu izin
-    
+      contents: write
     steps:
-      - name: Repo kopyalanıyor
-        uses: actions/checkout@v4 # v2'den v4'e güncellendi
-      
-      - name: Python kuruluyor
-        uses: actions/setup-python@v5 # v2'den v5'e güncellendi
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          
-      - name: Paketler yukleniyor
-        run: pip install requests beautifulsoup4
-        
-      - name: Scraper calistiriliyor
+      - run: pip install requests beautifulsoup4
+      - name: Run Scraper
+        env:
+          SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }} # Burası çok önemli
         run: python scraper.py
-        
-      - name: Degisiklikler kaydediliyor
-        run: |
+      - run: |
           git config --global user.name 'Techeck Bot'
           git config --global user.email 'bot@techeck.com'
           git add updates.json
-          git commit -m "Fiyatlar otomatik guncellendi" || exit 0
+          git commit -m "Fiyatlar ScraperAPI ile guncellendi" || exit 0
           git push
